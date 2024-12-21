@@ -442,3 +442,48 @@ java.net.UnknownHostException: low-retrieve.gl.joinmc.link: No address associate
 [21Dec2024 15:39:43.012] [Server thread/INFO] [net.montoyo.wd.utilities.Log/]: Player literal{Imranack} (UUID 45c9e1f1-d058-34e4-b7ab-09049f609783) created a screen at X: -26, Y: 9, Z: 621 of size 8x4
 [21Dec2024 15:39:50.568] [Server thread/INFO] [net.montoyo.wd.utilities.Log/]: URL received: https://www.gtabase.com/igallery/8301-8400/GTA_SanAndreas_DefinitiveEdition_4-8367-360.jpg
 [21Dec2024 15:40:05.788] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[21Dec2024 15:40:12.885] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[21Dec2024 15:40:13.186] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[21Dec2024 15:40:14.226] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[21Dec2024 15:40:14.710] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[21Dec2024 15:40:14.923] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[21Dec2024 15:40:15.188] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[21Dec2024 15:41:32.499] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Milijan'/1352, l='ServerLevel[world]', x=48.50, y=13.00, z=274.50] died, message: 'Milijan was killed'
+[21Dec2024 15:41:36.072] [Server thread/INFO] [net.montoyo.wd.utilities.Log/]: Player literal{Imranack} (UUID 45c9e1f1-d058-34e4-b7ab-09049f609783) created a screen at X: -41, Y: 18, Z: 619 of size 13x6
+[21Dec2024 15:41:51.520] [Server thread/INFO] [net.montoyo.wd.utilities.Log/]: URL received: https://www.gtabase.com/igallery/8301-8400/GTA_SanAndreas_DefinitiveEdition_4-8367-360.jpg
+[21Dec2024 15:42:13.701] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Olga'/1391, l='ServerLevel[world]', x=48.50, y=13.00, z=274.50] died, message: 'Olga was killed'
+[21Dec2024 15:42:41.416] [Server thread/INFO] [net.montoyo.wd.utilities.Log/]: URL received: https://static.tildacdn.biz/tild3263-6433-4432-a230-623866383031/Grove_Street_-01__.jpg
+[21Dec2024 15:43:10.001] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Nataša'/1470, l='ServerLevel[world]', x=48.50, y=13.00, z=274.50] died, message: 'Nataša was killed'
+[21Dec2024 15:43:31.013] [Server thread/INFO] [net.montoyo.wd.utilities.Log/]: URL received: https://wallpaperaccess.com/full/3911433.jpg
+[21Dec2024 15:43:33.349] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Senada'/1495, l='ServerLevel[world]', x=48.50, y=13.00, z=274.50] died, message: 'Senada was killed'
+[21Dec2024 15:44:06.770] [Server thread/INFO] [net.montoyo.wd.utilities.Log/]: Player literal{Imranack} (UUID 45c9e1f1-d058-34e4-b7ab-09049f609783) created a screen at X: -41, Y: 15, Z: 619 of size 13x9
+[21Dec2024 15:44:16.062] [Server thread/INFO] [net.montoyo.wd.utilities.Log/]: URL received: https://wallpaperaccess.com/full/3911433.jpg
+[21Dec2024 15:44:18.500] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Branka'/1536, l='ServerLevel[world]', x=48.50, y=13.00, z=274.50] died, message: 'Branka was killed'
+[21Dec2024 15:44:53.021] [Server thread/INFO] [net.montoyo.wd.utilities.Log/]: Player literal{Imranack} (UUID 45c9e1f1-d058-34e4-b7ab-09049f609783) created a screen at X: -41, Y: 15, Z: 619 of size 15x9
+[21Dec2024 15:44:59.468] [Server thread/INFO] [net.montoyo.wd.utilities.Log/]: URL received: https://wallpaperaccess.com/full/3911433.jpg
+[21Dec2024 15:45:03.600] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Bujar'/1587, l='ServerLevel[world]', x=48.50, y=13.00, z=274.50] died, message: 'Bujar was killed'
+[21Dec2024 15:45:38.800] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Mirjana'/1637, l='ServerLevel[world]', x=48.50, y=13.00, z=274.50] died, message: 'Mirjana was killed'
+[21Dec2024 15:45:53.923] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[21Dec2024 15:45:55.433] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[21Dec2024 15:45:59.618] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[21Dec2024 15:46:01.778] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[21Dec2024 15:46:34.413] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[21Dec2024 15:46:37.400] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Tihomir'/1672, l='ServerLevel[world]', x=48.50, y=13.00, z=274.50] died, message: 'Tihomir was killed'
+[21Dec2024 15:47:34.550] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Radomir'/1698, l='ServerLevel[world]', x=48.50, y=13.00, z=274.50] died, message: 'Radomir was killed'
+[21Dec2024 15:47:47.701] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Marica'/1723, l='ServerLevel[world]', x=48.50, y=13.00, z=274.50] died, message: 'Marica was killed'
+[21Dec2024 15:48:03.067] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Imranack lost connection: Timed out
+[21Dec2024 15:48:03.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Imranack left the game
+[21Dec2024 15:48:03.069] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Imranack
+[21Dec2024 15:48:13.679] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Imranack[/127.189.193.26:54889] logged in with entity id 1724 at (-25.032621342696885, 9.0, 636.325663814969)
+[21Dec2024 15:48:13.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Imranack joined the game
+[21Dec2024 15:48:15.623] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Imranack (18)
+[21Dec2024 15:48:15.624] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Imranack
+[21Dec2024 15:48:25.515] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[21Dec2024 15:48:42.650] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Sadika'/1778, l='ServerLevel[world]', x=48.50, y=13.00, z=274.50] died, message: 'Sadika was killed'
+[21Dec2024 15:48:51.300] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Nemanja'/1804, l='ServerLevel[world]', x=48.50, y=13.00, z=274.50] died, message: 'Nemanja was killed'
+[21Dec2024 15:48:53.868] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[21Dec2024 15:49:26.177] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[21Dec2024 15:49:36.400] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Marko'/1833, l='ServerLevel[world]', x=48.50, y=13.00, z=274.50] died, message: 'Marko was killed'
+[21Dec2024 15:49:47.163] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[21Dec2024 15:49:55.365] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[21Dec2024 15:50:02.668] [Server thread/INFO] [cuffed/]: Imranack is interacting!
