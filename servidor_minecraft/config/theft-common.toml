@@ -1,0 +1,45 @@
+
+#Common config
+[misc]
+	#The player must know which slot was stolen?
+	show_missing = true
+	#Should Stolen Item has hover info?
+	show_missing_hover = true
+	#Can player steal items with "Pocket Chain" enchantment?
+	pocket_chain_enchant = false
+
+[glove]
+	#Should damage item on every use
+	damage_item = true
+	#Item durability (Currently unavailable 1.20.x) default is 8
+	#Range: 0 ~ 255
+	item_durability = 16
+	#How long will the player have to wait to steal again? ( In seconds / 0 to deactivate )
+	#Range: 0 ~ 86400
+	cooldown_to_steal = 10
+	#Should reset steal cooldown when the player sleeps?
+	cooldown_reset_sleep = false
+
+[inventory]
+	#Limit how much a player can stole
+	limit_steal_item = true
+	#Quantity of item that can be stolen.
+	#Range: 0 ~ 999
+	limit_item_number = 5
+	#Should the player be able to pickup and place item on target's inventory? (Default: just pickup)
+	pickup_both = false
+	#Should player have time to steal another player?
+	steal_timer_enabled = true
+	#Time to steal player
+	#Range: 0 ~ 999
+	steal_time = 16
+	#Stealing inventory should have a title? (Example: "Stealing Steve")
+	steal_title_enabled = true
+
+[loot]
+	#Should generate loot at shipwreck, pillager outpost and mineshaft
+	generate_loot = true
+	#Chance to generate loot
+	#Range: 0 ~ 100
+	generate_loot_chance = 50
+

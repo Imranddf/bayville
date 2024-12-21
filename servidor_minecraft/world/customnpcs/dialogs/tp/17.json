@@ -1,0 +1,81 @@
+{
+    "DialogShowWheel": 0b,
+    "AvailabilityQuestId": -1,
+    "Options": [
+        {
+            "OptionSlot": 0,
+            "Option": {
+                "DialogCommand": "/give @p minecraft:written_book{pages:['[{\"text\":\"-75 26 -166 CODE:3465:\"}]'],title:\"DROGUES\",author:\"Imranack\"} 1",
+                "Dialog": -1,
+                "Title": "Je suis pret a tout",
+                "DialogColor": 12130070,
+                "OptionType": 4
+            }
+        },
+        {
+            "OptionSlot": 1,
+            "Option": {
+                "DialogCommand": "",
+                "Dialog": 18,
+                "Title": "Je suis pas sur encore",
+                "DialogColor": 9215722,
+                "OptionType": 1
+            }
+        }
+    ],
+    "AvailabilityScoreboardType": 1,
+    "DialogHideNPC": 0b,
+    "AvailabilityFactionStance": 0,
+    "AvailabilityScoreboard2Value": 1,
+    "DialogId": 17,
+    "AvailabilityQuest": 0,
+    "AvailabilityDialog4": 0,
+    "AvailabilityScoreboardObjective": "",
+    "AvailabilityDialog3": 0,
+    "AvailabilityQuest2": 0,
+    "AvailabilityQuest3": 0,
+    "AvailabilityScoreboard2Objective": "",
+    "AvailabilityQuest4": 0,
+    "ModRev": 18,
+    "DecreaseFaction1Points": 0b,
+    "DialogQuest": -1,
+    "AvailabilityDialog2": 0,
+    "OptionFactions1": -1,
+    "AvailabilityDayTime": 0,
+    "OptionFactions2": -1,
+    "AvailabilityFaction2Id": -1,
+    "OptionFaction1Points": 100,
+    "AvailabilityScoreboardValue": 1,
+    "DialogDisableEsc": 0b,
+    "AvailabilityFaction": 0,
+    "DialogTitle": "big",
+    "AvailabilityDialog": 0,
+    "AvailabilityScoreboard2Type": 1,
+    "AvailabilityFaction2": 0,
+    "AvailabilityFactionId": -1,
+    "AvailabilityFaction2Stance": 0,
+    "DialogCommand": "",
+    "AvailabilityDialogId": -1,
+    "OptionFaction2Points": 100,
+    "DialogText": "Pour l'instant comme t'est nouveau la seul chose que tu peux faire c'est de cultiver des plantes pas besoin de dire quel plante,tu sais de quoi je parle  va a l'entroit marque sur le manuel et cultive des tres peux quantite rapel toi que si la police t'atrappe il vont tout enlever c'est pour ça il faut que tu garde un peu chez toi ou dans le coffre de la voiture pour pas perdre tout DANS CETTE ZONE IL Y A TOUJORS DES POLICERS IL FAUT QUE TU SOIS PRET A FAIRE UNE PERSECUTION OU A LES TIRER DESSUS si tu avance bien on te donnera un garde de corps pour te proteger",
+    "AvailabilityQuest4Id": -1,
+    "AvailabilityQuest3Id": -1,
+    "AvailabilityQuest2Id": -1,
+    "AvailabilityDialog2Id": -1,
+    "AvailabilityDialog3Id": -1,
+    "AvailabilityDialog4Id": -1,
+    "AvailabilityMinPlayerLevel": 0,
+    "DecreaseFaction2Points": 0b,
+    "DialogMail": {
+        "Sender": "",
+        "BeenRead": 0b,
+        "Message": {
+        },
+        "MailItems": [
+        ],
+        "MailQuest": -1,
+        "TimePast": 1733665474212L,
+        "Time": 0L,
+        "Subject": ""
+    }
+}

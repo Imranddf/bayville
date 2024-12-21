@@ -1,0 +1,20 @@
+#Maximum amount of blocks that can be locked at once
+#一次最多可以锁定的方块数量
+#Range: > 1
+"Max Lockable Volume" = 6
+#Blocks that can be locked. Each entry is the mod domain followed by the block's registry name. Can include regular expressions
+#可以锁定的方块。每个值由模组域名和块的注册名称组成，可以包含正则表达式。
+"Lockable Blocks" = [".*chest", ".*barrel", ".*hopper", ".*door", ".*trapdoor", ".*fence_gate", ".*shulker_box"]
+#Open locks can be removed with an empty hand while sneaking
+#在潜行状态下，可以用空手移除打开的锁。
+"Allow Removing Locks" = true
+#Locked blocks cannot be destroyed in survival mode
+#在生存模式中，锁定的块无法被破坏。
+"Protect Lockables" = true
+#Lock blocks with just one click! It's magic! (Cancel will probably fail spectacularly with custom doors, custom double chests, etc)
+#只需点击一下即可锁定块！这太神奇了！ （取消可能会使自定义门、自定义双箱等出现严重错误）
+"Easy Lock" = true
+#Use stronger checks to prevent blocks on locks from being broken, but its compatibility is unknown
+#使用更强的检查来防止上锁方块被破坏，兼容性未知
+"Stronger Prevention" = false
+

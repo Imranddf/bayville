@@ -1,0 +1,57 @@
+{
+    "TransportData": [
+    ],
+    "NpcsTimers": [
+    ],
+    "FactionData": [
+        {
+            "Points": 2000,
+            "Faction": 0
+        }
+    ],
+    "BankData": [
+    ],
+    "ItemGiversList": [
+    ],
+    "QuestData": {
+        "CompletedQuests": [
+        ],
+        "ActiveQuests": [
+        ]
+    },
+    "PlayerCompanionId": 0,
+    "DialogData": [
+        {
+            "Dialog": 16
+        },
+        {
+            "Dialog": 17
+        },
+        {
+            "Dialog": 18
+        },
+        {
+            "Dialog": 19
+        },
+        {
+            "Dialog": 7
+        },
+        {
+            "Dialog": 10
+        },
+        {
+            "Dialog": 12
+        },
+        {
+            "Dialog": 14
+        }
+    ],
+    "ItemGiverChained": [
+    ],
+    "MailData": [
+    ],
+    "PlayerName": "Gaga",
+    "UUID": "12a23e5f-e5a3-30be-ab1f-6ada58809ee2",
+    "ScriptStoreddata": {
+    }
+}

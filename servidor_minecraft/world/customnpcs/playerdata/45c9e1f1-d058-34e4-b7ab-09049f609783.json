@@ -1,0 +1,90 @@
+{
+    "TransportData": [
+        {
+            "Transport": 1
+        }
+    ],
+    "NpcsTimers": [
+    ],
+    "FactionData": [
+        {
+            "Points": 2000,
+            "Faction": 0
+        }
+    ],
+    "BankData": [
+    ],
+    "ItemGiversList": [
+    ],
+    "QuestData": {
+        "CompletedQuests": [
+        ],
+        "ActiveQuests": [
+        ]
+    },
+    "PlayerCompanionId": 0,
+    "DialogData": [
+        {
+            "Dialog": 1
+        },
+        {
+            "Dialog": 2
+        },
+        {
+            "Dialog": 3
+        },
+        {
+            "Dialog": 4
+        },
+        {
+            "Dialog": 5
+        },
+        {
+            "Dialog": 6
+        },
+        {
+            "Dialog": 7
+        },
+        {
+            "Dialog": 8
+        },
+        {
+            "Dialog": 9
+        },
+        {
+            "Dialog": 10
+        },
+        {
+            "Dialog": 11
+        },
+        {
+            "Dialog": 12
+        },
+        {
+            "Dialog": 13
+        },
+        {
+            "Dialog": 14
+        },
+        {
+            "Dialog": 16
+        },
+        {
+            "Dialog": 17
+        },
+        {
+            "Dialog": 18
+        },
+        {
+            "Dialog": 19
+        }
+    ],
+    "ItemGiverChained": [
+    ],
+    "MailData": [
+    ],
+    "PlayerName": "Imranack",
+    "UUID": "45c9e1f1-d058-34e4-b7ab-09049f609783",
+    "ScriptStoreddata": {
+    }
+}
