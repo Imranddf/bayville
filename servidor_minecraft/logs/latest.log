@@ -297,3 +297,28 @@
 [23Dec2024 12:13:38.056] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Imranack lost connection: Disconnected
 [23Dec2024 12:13:38.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Imranack left the game
 [23Dec2024 12:13:38.058] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Imranack
+[23Dec2024 12:17:32.084] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Imranack[/127.189.193.26:55805] logged in with entity id 7701 at (355.5945537502025, 12.0, -241.71234562138574)
+[23Dec2024 12:17:32.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Imranack joined the game
+[23Dec2024 12:17:32.260] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Imranack (18)
+[23Dec2024 12:17:32.261] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Imranack
+[23Dec2024 12:17:34.383] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 45c9e1f1-d058-34e4-b7ab-09049f609783
+[23Dec2024 12:17:35.384] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 45c9e1f1-d058-34e4-b7ab-09049f609783
+[23Dec2024 12:17:35.385] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Imranack (45c9e1f1-d058-34e4-b7ab-09049f609783) successfully connected to voice chat
+[23Dec2024 12:17:47.411] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Null[/127.189.193.26:35879] logged in with entity id 7751 at (-36.35420498080773, 14.0, 164.6955081090342)
+[23Dec2024 12:17:47.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Null joined the game
+[23Dec2024 12:17:49.814] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/5801, l='ServerLevel[world]', x=166.50, y=12.00, z=-190.50] died, message: 'Farmer was killed'
+[23Dec2024 12:17:51.418] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Null (18)
+[23Dec2024 12:17:51.419] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Null
+[23Dec2024 12:19:17.567] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Null lost connection: Timed out
+[23Dec2024 12:19:17.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Null left the game
+[23Dec2024 12:19:17.568] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Null
+[23Dec2024 12:20:03.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Teleported Florion to Imranack]
+[23Dec2024 12:20:04.463] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 12:23:19.807] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Florion lost connection: Disconnected
+[23Dec2024 12:23:19.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Florion left the game
+[23Dec2024 12:23:19.809] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Florion
+[23Dec2024 12:23:22.981] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/7958, l='ServerLevel[world]', x=110.50, y=15.00, z=-149.50] died, message: 'Farmer was killed'
+[23Dec2024 12:23:22.982] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/7959, l='ServerLevel[world]', x=111.50, y=16.00, z=-161.50] died, message: 'Librarian was killed'
+[23Dec2024 12:23:22.983] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/7960, l='ServerLevel[world]', x=101.50, y=16.00, z=-140.50] died, message: 'Villager was killed'
+[23Dec2024 12:23:22.983] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/7961, l='ServerLevel[world]', x=87.50, y=17.90, z=-144.50] died, message: 'Farmer was killed'
+[23Dec2024 12:23:22.983] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/7962, l='ServerLevel[world]', x=103.50, y=17.00, z=-162.50] died, message: 'Farmer was killed'
