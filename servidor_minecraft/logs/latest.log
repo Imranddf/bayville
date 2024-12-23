@@ -404,3 +404,54 @@
 [23Dec2024 12:43:17.180] [Server thread/INFO] [cuffed/]: Imranack is interacting!
 [23Dec2024 12:43:19.622] [Server thread/INFO] [cuffed/]: Imranack is interacting!
 [23Dec2024 12:43:57.173] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@59686929[id=<null>,name=Momo93bg,properties={},legacy=false] (/127.189.193.26:39853) lost connection: Disconnected
+[23Dec2024 12:44:35.067] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@591a72a7[id=<null>,name=Momo93bg,properties={},legacy=false] (/127.189.193.26:43581) lost connection: Timed out
+[23Dec2024 12:45:00.210] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Florion lost connection: Disconnected
+[23Dec2024 12:45:00.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Florion left the game
+[23Dec2024 12:45:00.211] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Florion
+[23Dec2024 12:47:20.306] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 12:47:34.363] [Netty Epoll Server IO #7/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [playerrevive:main] rejected their client side version number
+[23Dec2024 12:47:34.364] [Netty Epoll Server IO #7/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[23Dec2024 12:47:34.405] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4cc00f34[id=<null>,name=Momo93bg,properties={},legacy=false] (/127.189.193.26:45307) lost connection: Connection closed - mismatched mod channel list
+[23Dec2024 12:47:51.804] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 12:48:13.555] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 12:49:13.405] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@541f6549[id=<null>,name=Momo93bg,properties={},legacy=false] (/127.189.193.26:33993) lost connection: Timed out
+[23Dec2024 12:49:22.555] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7f09b63c[id=<null>,name=Momo93bg,properties={},legacy=false] (/127.189.193.26:45647) lost connection: Disconnected
+[23Dec2024 12:49:31.362] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Florion[/127.25.211.50:40707] logged in with entity id 9591 at (-111.17764338044447, 13.0, 265.09399238162337)
+[23Dec2024 12:49:31.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Florion joined the game
+[23Dec2024 12:49:33.763] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Florion (18)
+[23Dec2024 12:49:33.763] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Florion
+[23Dec2024 12:49:40.258] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6d7a6c7a[id=<null>,name=Momo93bg,properties={},legacy=false] (/127.189.193.26:50597) lost connection: Disconnected
+[23Dec2024 12:49:44.180] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 127c64f7-9ca6-3f72-a867-0b9b8322d335
+[23Dec2024 12:49:45.172] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 127c64f7-9ca6-3f72-a867-0b9b8322d335
+[23Dec2024 12:49:45.172] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Florion (127c64f7-9ca6-3f72-a867-0b9b8322d335) successfully connected to voice chat
+[23Dec2024 12:49:58.510] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@45d0c1fd[id=<null>,name=Momo93bg,properties={},legacy=false] (/127.189.193.26:53301) lost connection: Disconnected
+[23Dec2024 12:50:14.507] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@4337f8a6[id=<null>,name=Momo93bg,properties={},legacy=false] (/127.189.193.26:50129): Took too long to log in
+[23Dec2024 12:50:14.509] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4337f8a6[id=<null>,name=Momo93bg,properties={},legacy=false] (/127.189.193.26:50129) lost connection: Took too long to log in
+[23Dec2024 12:50:14.563] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[23Dec2024 12:50:24.907] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Imranack lost connection: Disconnected
+[23Dec2024 12:50:24.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Imranack left the game
+[23Dec2024 12:50:24.909] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Imranack
+[23Dec2024 12:51:01.262] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@264cf752[id=<null>,name=Momo93bg,properties={},legacy=false] (/127.189.193.26:55659) lost connection: Disconnected
+[23Dec2024 12:51:06.575] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Imranack[/127.189.193.26:56241] logged in with entity id 9620 at (463.3961487755586, 4.0, -574.6999999880791)
+[23Dec2024 12:51:06.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Imranack joined the game
+[23Dec2024 12:51:06.712] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Imranack (18)
+[23Dec2024 12:51:06.713] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Imranack
+[23Dec2024 12:51:07.722] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 45c9e1f1-d058-34e4-b7ab-09049f609783
+[23Dec2024 12:51:08.723] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 45c9e1f1-d058-34e4-b7ab-09049f609783
+[23Dec2024 12:51:08.724] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Imranack (45c9e1f1-d058-34e4-b7ab-09049f609783) successfully connected to voice chat
+[23Dec2024 12:51:37.482] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Imranack moved too quickly! -0.06977957598871853,-11.418933165564003,0.02919344494074494
+[23Dec2024 12:51:44.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Teleported Florion to Imranack]
+[23Dec2024 12:51:49.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set the weather to clear]
+[23Dec2024 12:52:00.313] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 12:52:02.418] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 12:52:33.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Spectator Mode]
+[23Dec2024 12:52:57.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Creative Mode]
+[23Dec2024 12:53:08.380] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 12:53:10.825] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 12:53:11.022] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 12:53:11.531] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 12:53:11.774] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 12:53:13.268] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 12:53:38.669] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 12:53:40.264] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 12:54:06.056] [Server thread/INFO] [cuffed/]: Florion is interacting!
