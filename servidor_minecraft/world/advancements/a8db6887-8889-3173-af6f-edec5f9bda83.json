@@ -2848,18 +2848,6 @@
     },
     "done": true
   },
-  "mca:recipes/misc/books": {
-    "criteria": {
-      "has_item": "2024-12-18 15:49:24 +0000"
-    },
-    "done": true
-  },
-  "mca:recipes/misc/blueprint": {
-    "criteria": {
-      "has_item": "2024-12-18 15:49:24 +0000"
-    },
-    "done": true
-  },
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2024-12-18 16:09:11 +0000"

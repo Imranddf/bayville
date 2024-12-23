@@ -455,3 +455,572 @@
 [23Dec2024 12:53:38.669] [Server thread/INFO] [cuffed/]: Imranack is interacting!
 [23Dec2024 12:53:40.264] [Server thread/INFO] [cuffed/]: Florion is interacting!
 [23Dec2024 12:54:06.056] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 12:54:22.358] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sport Car (vehicle of Imranack) moved wrongly! 0.30673902410808296
+[23Dec2024 12:54:22.454] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sport Car (vehicle of Imranack) moved wrongly! 0.7758765670048433
+[23Dec2024 12:54:27.604] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sport Car (vehicle of Imranack) moved wrongly! 0.39243781308465486
+[23Dec2024 12:54:27.652] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sport Car (vehicle of Imranack) moved wrongly! 0.8624893994283411
+[23Dec2024 12:54:39.809] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sport Car (vehicle of Imranack) moved wrongly! 0.3223211578784344
+[23Dec2024 12:54:39.903] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sport Car (vehicle of Imranack) moved wrongly! 0.7927481084193744
+[23Dec2024 12:54:40.755] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sport Car (vehicle of Imranack) moved wrongly! 0.37872541599253395
+[23Dec2024 12:54:40.756] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sport Car (vehicle of Imranack) moved wrongly! 0.8491523665334739
+[23Dec2024 12:54:40.852] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sport Car (vehicle of Imranack) moved wrongly! 1.319579317074414
+[23Dec2024 12:55:04.007] [Netty Epoll Server IO #0/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [playerrevive:main] rejected their client side version number
+[23Dec2024 12:55:04.008] [Netty Epoll Server IO #0/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[23Dec2024 12:55:04.009] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7bc2ea8a[id=<null>,name=Momo93bg,properties={},legacy=false] (/127.189.193.26:47739) lost connection: Connection closed - mismatched mod channel list
+[23Dec2024 12:55:33.733] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/9927, l='ServerLevel[world]', x=51.55, y=13.00, z=136.55] died, message: 'Armorer was killed'
+[23Dec2024 12:55:33.734] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/9929, l='ServerLevel[world]', x=45.50, y=13.00, z=129.50] died, message: 'Armorer was killed'
+[23Dec2024 12:57:18.157] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 12:57:23.603] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 12:57:45.014] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 12:57:48.182] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/10893, l='ServerLevel[world]', x=54.57, y=13.00, z=136.54] died, message: 'Armorer was killed'
+[23Dec2024 12:57:48.183] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/10895, l='ServerLevel[world]', x=42.52, y=13.00, z=127.70] died, message: 'Armorer was killed'
+[23Dec2024 12:59:50.161] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 13:02:00.255] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 13:02:02.256] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 13:02:43.752] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/a8db6887-8889-3173-af6f-edec5f9bda83.json: Don't know what mca:wedding_ring is
+[23Dec2024 13:02:43.753] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/a8db6887-8889-3173-af6f-edec5f9bda83.json: Don't know what mca:comb is
+[23Dec2024 13:02:43.753] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/a8db6887-8889-3173-af6f-edec5f9bda83.json: Don't know what mca:wedding_ring is
+[23Dec2024 13:02:43.758] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'mca:recipes/misc/books' in progress file ./world/advancements/a8db6887-8889-3173-af6f-edec5f9bda83.json - it doesn't exist anymore?
+[23Dec2024 13:02:43.758] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'mca:recipes/misc/blueprint' in progress file ./world/advancements/a8db6887-8889-3173-af6f-edec5f9bda83.json - it doesn't exist anymore?
+[23Dec2024 13:02:43.763] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mca:book_romance removed now.
+[23Dec2024 13:02:43.763] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mca:book_supporters removed now.
+[23Dec2024 13:02:43.764] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mca:book_death removed now.
+[23Dec2024 13:02:43.764] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mca:book_family removed now.
+[23Dec2024 13:02:43.764] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mca:book_rose_gold removed now.
+[23Dec2024 13:02:43.764] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mca:book_infection removed now.
+[23Dec2024 13:02:43.764] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mca:book_blueprint removed now.
+[23Dec2024 13:02:43.764] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mca:blueprint removed now.
+[23Dec2024 13:02:43.764] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mca:book_romance removed now.
+[23Dec2024 13:02:43.764] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mca:book_supporters removed now.
+[23Dec2024 13:02:43.764] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mca:book_death removed now.
+[23Dec2024 13:02:43.764] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mca:book_family removed now.
+[23Dec2024 13:02:43.764] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mca:book_rose_gold removed now.
+[23Dec2024 13:02:43.764] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mca:book_infection removed now.
+[23Dec2024 13:02:43.765] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mca:book_blueprint removed now.
+[23Dec2024 13:02:43.765] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mca:blueprint removed now.
+[23Dec2024 13:02:43.765] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Momo93bg[/127.189.193.26:54285] logged in with entity id 10964 at (111.04515912917877, 17.5625, 309.90624669221955)
+[23Dec2024 13:02:43.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Momo93bg joined the game
+[23Dec2024 13:02:45.405] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Momo93bg (18)
+[23Dec2024 13:02:45.406] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Momo93bg
+[23Dec2024 13:02:50.476] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player a8db6887-8889-3173-af6f-edec5f9bda83
+[23Dec2024 13:02:51.479] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player a8db6887-8889-3173-af6f-edec5f9bda83
+[23Dec2024 13:02:51.479] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Momo93bg (a8db6887-8889-3173-af6f-edec5f9bda83) successfully connected to voice chat
+[23Dec2024 13:03:14.305] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Momo93bg lost connection: Disconnected
+[23Dec2024 13:03:14.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Momo93bg left the game
+[23Dec2024 13:03:14.307] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Momo93bg
+[23Dec2024 13:06:29.719] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Momo93bg[/127.189.193.26:55383] logged in with entity id 10987 at (109.43800223378915, 17.514892519004743, 310.39234863985854)
+[23Dec2024 13:06:29.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Momo93bg joined the game
+[23Dec2024 13:06:31.361] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Momo93bg (18)
+[23Dec2024 13:06:31.361] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Momo93bg
+[23Dec2024 13:06:36.057] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player a8db6887-8889-3173-af6f-edec5f9bda83
+[23Dec2024 13:06:37.040] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player a8db6887-8889-3173-af6f-edec5f9bda83
+[23Dec2024 13:06:37.041] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Momo93bg (a8db6887-8889-3173-af6f-edec5f9bda83) successfully connected to voice chat
+[23Dec2024 13:07:02.663] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Momo93bg lost connection: Disconnected
+[23Dec2024 13:07:02.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Momo93bg left the game
+[23Dec2024 13:07:02.664] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Momo93bg
+[23Dec2024 13:08:16.353] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 13:08:28.556] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 13:08:28.750] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 13:09:28.800] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 13:09:44.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Survival Mode]
+[23Dec2024 13:10:46.612] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 13:10:46.810] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 13:11:10.502] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 13:11:11.151] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 13:11:23.107] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 13:11:43.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Creative Mode]
+[23Dec2024 13:12:05.500] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.501] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.501] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.502] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.502] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.502] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.502] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.503] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.503] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.503] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.503] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.504] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.504] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.504] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.504] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.505] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.505] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.505] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.506] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.506] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.506] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.506] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.506] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.507] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.507] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.507] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.507] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.508] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.508] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.508] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.508] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.508] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.509] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.509] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.509] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.510] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.510] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.510] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.510] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.511] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.511] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.511] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.511] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.511] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.512] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.512] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.512] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.512] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.513] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.513] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.513] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.514] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.514] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.514] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.514] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.515] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.515] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.515] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.515] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.515] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.516] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.516] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.516] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.516] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.516] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.517] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.517] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.517] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.518] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.518] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.518] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.518] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.518] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.519] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.519] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.519] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.519] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.519] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.520] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.520] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.520] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.520] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.521] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.521] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.521] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.522] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.522] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.522] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.523] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.523] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.524] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.524] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.525] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.525] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.525] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.525] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.525] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.526] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.526] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.526] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.526] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.527] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.527] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.527] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.528] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.528] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.528] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.528] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.529] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.529] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.529] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.530] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.530] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.530] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.530] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.530] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.531] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.531] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.531] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.532] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.532] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.532] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.532] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.533] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.533] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.533] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.533] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.533] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.534] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.534] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.534] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.534] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.535] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.535] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.535] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.535] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.536] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.536] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.536] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.536] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.537] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.537] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.537] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.537] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.538] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.538] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.538] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.538] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.539] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.539] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.539] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.539] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.540] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.540] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.540] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.541] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.541] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.541] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.541] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.542] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.542] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.542] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.542] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.542] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.543] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.543] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.543] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.543] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.543] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.544] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.544] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.544] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.544] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.545] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.545] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.545] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.545] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.545] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.546] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.546] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.546] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.546] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.546] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.547] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.547] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.547] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.547] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.548] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.548] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.548] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.548] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.549] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.549] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.549] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.549] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.549] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.550] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.550] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.550] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.550] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.550] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.550] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.551] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.551] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.551] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.552] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.552] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.552] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.552] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.552] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.553] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.553] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.553] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.553] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.554] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.554] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.554] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.555] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.556] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.556] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.556] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.557] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.557] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.557] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.558] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.558] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.558] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.558] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.558] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.559] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.559] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.559] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.559] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.559] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.560] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.560] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.560] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.560] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.561] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.561] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.561] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.562] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.562] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.563] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.564] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.564] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.564] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.564] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.564] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.565] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.565] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.565] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.565] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.566] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.566] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.566] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.567] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.567] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.567] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.567] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.567] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.568] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.568] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.568] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.568] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.569] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.569] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.569] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.569] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.569] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.570] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.570] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.571] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.571] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.571] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.571] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.572] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.572] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.572] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.572] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.572] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.573] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.573] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.573] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.573] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.573] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.574] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.574] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.574] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.575] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.575] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.575] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.575] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.575] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.576] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.576] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.576] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.576] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.576] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.577] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.577] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.577] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.577] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.577] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.578] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.578] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.578] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.579] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.579] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.579] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.579] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.579] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.579] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.580] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.580] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.580] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.580] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.580] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.581] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.581] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.581] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.581] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.581] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:49.226] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 13:12:49.227] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 13:12:50.273] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 13:13:09.137] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:13:09.138] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:13:09.138] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:13:09.139] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:13:09.139] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:13:09.139] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:13:09.139] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:13:09.140] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:13:09.140] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:13:09.140] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:13:09.140] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:13:09.141] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:13:09.141] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:13:09.141] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:13:09.142] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:13:09.142] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:13:09.142] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:13:09.142] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:13:09.143] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:13:27.795] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 13:15:47.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Survival Mode]
+[23Dec2024 13:16:05.880] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:16:13.293] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 13:16:14.489] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 13:16:15.240] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 13:16:16.948] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 13:16:18.191] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 13:16:19.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Creative Mode]
+[23Dec2024 13:16:28.039] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 13:16:33.439] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 13:16:35.139] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 13:17:29.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Survival Mode]
+[23Dec2024 13:17:43.942] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 13:17:54.489] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 13:18:05.763] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 13:18:05.992] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 13:18:06.164] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 13:18:15.289] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 13:18:15.488] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 13:18:15.690] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 13:18:19.038] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 13:18:25.389] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 13:18:36.640] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 13:18:40.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Creative Mode]
+[23Dec2024 13:18:50.692] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 13:19:05.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Florion: Triggered [tr] (set value to 13)]
+[23Dec2024 13:19:19.571] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 13:19:36.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Florion has made the advancement [Inner Arts]
+[23Dec2024 13:20:05.230] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:20:12.492] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 13:20:13.641] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 13:20:14.091] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 13:20:18.591] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 13:20:30.690] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 13:20:34.327] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 13:20:34.522] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 13:20:34.797] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 13:20:34.898] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 13:20:35.070] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 13:20:42.511] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 13:21:02.503] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 13:21:11.289] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 13:21:41.689] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 13:21:56.890] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 13:22:07.513] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 13:22:36.445] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 13:22:38.026] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 13:22:42.495] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 13:22:50.593] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 13:23:20.991] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 13:23:21.448] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 13:23:53.960] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 13:24:24.691] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 13:24:30.245] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 13:24:59.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Reloading!]
+[23Dec2024 13:25:00.173] [Worker-ResourceReload-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag simpleplanes:fireproof_materials as it is missing following references: #minecraft:non_flammable_wood (from simpleplanes-1.20.1-5.3.3.jar)
+[23Dec2024 13:25:00.174] [Worker-ResourceReload-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag bayville:likeair as it is missing following references: minecraft:short_grass (from file/Bayville)
+[23Dec2024 13:25:00.174] [Worker-ResourceReload-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag trafficcraft:plants as it is missing following references: #minecraft:replaceable_plants (from trafficcraft-forge-1.20.1-1.1.0.jar)
+[23Dec2024 13:25:00.825] [Server thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe mekanism:enriching/salt as it's serializer returned null
+[23Dec2024 13:25:00.832] [Server thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe industrialforegoing:laser_drill_ores/bitumen_ore as it's serializer returned null
+[23Dec2024 13:25:00.835] [Server thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe mekanism:enriching/deepslate_bitumen_ore as it's serializer returned null
+[23Dec2024 13:25:00.847] [Server thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe mekanism:enriching/rock_salt as it's serializer returned null
+[23Dec2024 13:25:00.861] [Server thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe mekanism:enriching/bitumen_ore as it's serializer returned null
+[23Dec2024 13:25:00.867] [Server thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe thermal:machines/centrifuge/bitumen_ore as it's serializer returned null
+[23Dec2024 13:25:00.870] [Server thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe thermal:machines/centrifuge/deepslate_bitumen_ore as it's serializer returned null
+[23Dec2024 13:25:00.875] [Server thread/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe cuffed:information_booklet: com.google.gson.JsonSyntaxException: Unknown item 'cuffed:information_booklet'
+[23Dec2024 13:25:00.884] [Server thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 32 recipes
+[23Dec2024 13:25:01.002] [Server thread/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 3739 advancements
+[23Dec2024 13:25:01.016] [Server thread/INFO] [top.theillusivec4.curios.Curios/]: Loaded 10 curio slots
+[23Dec2024 13:25:01.021] [Server thread/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
+[23Dec2024 13:25:15.846] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 13:25:45.293] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 13:26:02.044] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 13:26:07.413] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 13:26:30.037] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 13:26:42.592] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 13:26:43.493] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 13:26:43.641] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 13:26:44.016] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 13:26:57.643] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 13:27:04.138] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 13:27:05.816] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 13:27:14.691] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 13:27:25.898] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 13:27:26.232] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:27:26.531] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:27:26.531] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:28:18.141] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 13:28:21.790] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 13:28:29.994] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 13:28:35.540] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 13:28:45.339] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 13:28:47.605] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 13:28:52.991] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 13:28:55.340] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 13:29:22.538] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 13:29:29.889] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 13:29:40.243] [Server thread/INFO] [net.fexcraft.mod.fvtm.FVTM4/]: test logging entry
+[23Dec2024 13:29:50.459] [Server thread/INFO] [net.fexcraft.mod.fvtm.FVTM4/]: test logging entry
+[23Dec2024 13:30:13.836] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:30:13.836] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:30:13.837] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:30:13.837] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:30:13.837] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:30:13.838] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:30:13.838] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:30:13.838] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:30:13.838] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:30:13.839] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:30:13.839] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:30:13.839] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:30:13.839] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:30:13.840] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:30:13.840] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:30:13.840] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:30:13.840] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:30:13.841] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:30:13.841] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:30:13.852] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 13:30:18.995] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 13:30:22.656] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 13:30:25.093] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 13:30:27.448] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 13:30:31.444] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 13:30:33.195] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 13:30:37.200] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 13:30:45.547] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 13:30:47.445] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 13:30:48.123] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 13:31:04.173] [Server thread/INFO] [net.fexcraft.mod.fvtm.FVTM4/]: test logging entry
+[23Dec2024 13:31:08.589] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 13:31:27.037] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 13:31:42.732] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:31:53.554] [Server thread/INFO] [net.fexcraft.mod.fvtm.FVTM4/]: test logging entry
+[23Dec2024 13:32:00.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Florion: Triggered [tr] (set value to 89)]
+[23Dec2024 13:32:00.748] [Server thread/INFO] [net.fexcraft.mod.fvtm.FVTM4/]: test logging entry
+[23Dec2024 13:32:38.188] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 13:32:40.790] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 13:32:42.640] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 13:32:44.747] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 13:32:47.691] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 13:32:49.991] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 13:32:59.540] [Server thread/INFO] [net.fexcraft.mod.fvtm.FVTM4/]: test logging entry
+[23Dec2024 13:33:01.388] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 13:33:22.748] [Server thread/INFO] [net.fexcraft.mod.fvtm.FVTM4/]: test logging entry
+[23Dec2024 13:33:29.549] [Server thread/INFO] [net.fexcraft.mod.fvtm.FVTM4/]: test logging entry
+[23Dec2024 13:33:34.464] [Server thread/INFO] [net.fexcraft.mod.fvtm.FVTM4/]: test logging entry
+[23Dec2024 13:34:24.739] [Server thread/INFO] [net.fexcraft.mod.fvtm.FVTM4/]: test logging entry
+[23Dec2024 13:34:29.241] [Server thread/INFO] [cuffed/]: Florion is interacting!

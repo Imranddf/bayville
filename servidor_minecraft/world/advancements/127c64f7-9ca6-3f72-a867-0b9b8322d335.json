@@ -51,6 +51,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "pumpkin_pie": "2024-12-23 13:06:47 +0000",
       "bread": "2024-10-30 15:17:24 +0000"
     },
     "done": false
@@ -1822,6 +1823,12 @@
   "walkietalkie:walkietalkie/netherite_walkietalkie": {
     "criteria": {
       "requirement": "2024-12-22 13:49:17 +0000"
+    },
+    "done": true
+  },
+  "botania:main/bauble_wear": {
+    "criteria": {
+      "code_triggered": "2024-12-23 13:19:36 +0000"
     },
     "done": true
   },

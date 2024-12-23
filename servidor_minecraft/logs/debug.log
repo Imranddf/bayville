@@ -6659,3 +6659,1141 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [23Dec2024 12:54:01.650] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [23Dec2024 12:54:01.663] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [23Dec2024 12:54:06.056] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 12:54:22.358] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sport Car (vehicle of Imranack) moved wrongly! 0.30673902410808296
+[23Dec2024 12:54:22.454] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sport Car (vehicle of Imranack) moved wrongly! 0.7758765670048433
+[23Dec2024 12:54:27.604] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sport Car (vehicle of Imranack) moved wrongly! 0.39243781308465486
+[23Dec2024 12:54:27.652] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sport Car (vehicle of Imranack) moved wrongly! 0.8624893994283411
+[23Dec2024 12:54:39.809] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sport Car (vehicle of Imranack) moved wrongly! 0.3223211578784344
+[23Dec2024 12:54:39.903] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sport Car (vehicle of Imranack) moved wrongly! 0.7927481084193744
+[23Dec2024 12:54:40.755] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sport Car (vehicle of Imranack) moved wrongly! 0.37872541599253395
+[23Dec2024 12:54:40.756] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sport Car (vehicle of Imranack) moved wrongly! 0.8491523665334739
+[23Dec2024 12:54:40.852] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sport Car (vehicle of Imranack) moved wrongly! 1.319579317074414
+[23Dec2024 12:55:03.608] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 33 messages to dispatch.
+[23Dec2024 12:55:03.655] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'jeg:custom_gun_manager' to 'framework:handshake' sequence 0
+[23Dec2024 12:55:03.705] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'jeg:network_gun_manager' to 'framework:handshake' sequence 1
+[23Dec2024 12:55:03.756] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'FrameworkConfig refurbished_furniture:server' to 'framework:handshake' sequence 2
+[23Dec2024 12:55:03.803] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel framework:handshake with index 0
+[23Dec2024 12:55:03.803] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 0 of type com.mrcrayfish.framework.api.network.message.HandshakeMessage$Acknowledge
+[23Dec2024 12:55:03.804] [Netty Epoll Server IO #0/DEBUG] [Framework/FRAMEWORK_HANDSHAKE]: Received acknowledgement from client
+[23Dec2024 12:55:03.805] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModData' to 'fml:handshake' sequence 3
+[23Dec2024 12:55:03.859] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModList' to 'fml:handshake' sequence 4
+[23Dec2024 12:55:03.895] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel framework:handshake with index 1
+[23Dec2024 12:55:03.895] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 1 of type com.mrcrayfish.framework.api.network.message.HandshakeMessage$Acknowledge
+[23Dec2024 12:55:03.895] [Netty Epoll Server IO #0/DEBUG] [Framework/FRAMEWORK_HANDSHAKE]: Received acknowledgement from client
+[23Dec2024 12:55:03.909] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:command_argument_type' to 'fml:handshake' sequence 5
+[23Dec2024 12:55:03.921] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel framework:handshake with index 2
+[23Dec2024 12:55:03.921] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 2 of type com.mrcrayfish.framework.api.network.message.HandshakeMessage$Acknowledge
+[23Dec2024 12:55:03.921] [Netty Epoll Server IO #0/DEBUG] [Framework/FRAMEWORK_HANDSHAKE]: Received acknowledgement from client
+[23Dec2024 12:55:03.960] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:recipe_serializer' to 'fml:handshake' sequence 6
+[23Dec2024 12:55:04.005] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 4
+[23Dec2024 12:55:04.006] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 4 of type net.minecraftforge.network.HandshakeMessages$C2SModListReply
+[23Dec2024 12:55:04.006] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client connection with modlist [gamingdeco, geckolib, customskinloader, locks, jeg, casinocraft, musicplayer, furnitureexpanded, modernfix, marbledsapi, mr_tld, mixinextras, lucky77, uteamcore, psychadelic, simpleplanes, magicaljewelry, forge, mteg, electronic_device_mod, minecraft, police_mod, modernfurniture, mainmod, boxing_madness, good_ol_currency_the_crias, cuffed, voicechat, thief_style, mafglib, creativecore, moderndeco, fcl, botania, car, betterfpsdist, saros__money_mod, curios, patchouli, camera, securitycraft, inv_view_forge, entityculling, customnpcs, worldedit, speedracer, architectury, walkietalkie, theft, ferritecore, the_dirty_stuff, cupboard, trafficcraft, dragonlib, traffic_plus, refurbished_furniture, dynamic_fps, saros_road_blocks_mod, framework, dragnvehicles, lazrslib, fvtm]
+[23Dec2024 12:55:04.006] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'worldedit:cui' : Version test of '1' from client : ACCEPTED
+[23Dec2024 12:55:04.006] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:secret' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[23Dec2024 12:55:04.006] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:create_group' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[23Dec2024 12:55:04.006] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:unregister' : Version test of 'FML3' from client : ACCEPTED
+[23Dec2024 12:55:04.006] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'gamingdeco:gamingdeco' : Version test of '1' from client : ACCEPTED
+[23Dec2024 12:55:04.006] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'framework:play' : Version test of '1' from client : ACCEPTED
+[23Dec2024 12:55:04.006] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'psychadelic:psychadelic' : Version test of '1' from client : ACCEPTED
+[23Dec2024 12:55:04.006] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:update_state' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[23Dec2024 12:55:04.006] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'theft:connection' : Version test of '1.0' from client : ACCEPTED
+[23Dec2024 12:55:04.006] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:add_group' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[23Dec2024 12:55:04.006] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'mteg:play' : Version test of '1' from client : ACCEPTED
+[23Dec2024 12:55:04.006] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'simpleplanes:main' : Version test of '10' from client : ACCEPTED
+[23Dec2024 12:55:04.006] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:tier_sorting' : Version test of '1.0' from client : ACCEPTED
+[23Dec2024 12:55:04.006] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'speedracer:speedracer' : Version test of '1' from client : ACCEPTED
+[23Dec2024 12:55:04.006] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:player_state' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[23Dec2024 12:55:04.006] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'playerrevive:main' : Version test of 'ABSENT 🤔' from client : REJECTED
+[23Dec2024 12:55:04.006] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:play' : Version test of 'FML3' from client : ACCEPTED
+[23Dec2024 12:55:04.006] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'creativecore:main' : Version test of '1' from client : ACCEPTED
+[23Dec2024 12:55:04.006] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'the_dirty_stuff:the_dirty_stuff' : Version test of '1' from client : ACCEPTED
+[23Dec2024 12:55:04.006] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fcl:channel' : Version test of 'fcl' from client : ACCEPTED
+[23Dec2024 12:55:04.006] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'mainmod:mainmod' : Version test of '1' from client : ACCEPTED
+[23Dec2024 12:55:04.006] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'good_ol_currency_the_crias:good_ol_currency_the_crias' : Version test of '1' from client : ACCEPTED
+[23Dec2024 12:55:04.007] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:remove_category' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[23Dec2024 12:55:04.007] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'saros_road_blocks_mod:saros_road_blocks_mod' : Version test of '1' from client : ACCEPTED
+[23Dec2024 12:55:04.007] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:add_category' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[23Dec2024 12:55:04.007] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'moderndeco:moderndeco' : Version test of '1' from client : ACCEPTED
+[23Dec2024 12:55:04.007] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'cuffed:main' : Version test of '1' from client : ACCEPTED
+[23Dec2024 12:55:04.007] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'worldedit:internal' : Version test of '1' from client : ACCEPTED
+[23Dec2024 12:55:04.007] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'boxing_madness:boxing_madness' : Version test of '1' from client : ACCEPTED
+[23Dec2024 12:55:04.007] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fvtm:channel' : Version test of 'fvtm4' from client : ACCEPTED
+[23Dec2024 12:55:04.007] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:register' : Version test of 'FML3' from client : ACCEPTED
+[23Dec2024 12:55:04.007] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'geckolib:main' : Version test of '1' from client : ACCEPTED
+[23Dec2024 12:55:04.007] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'refurbished_furniture:play' : Version test of '1' from client : ACCEPTED
+[23Dec2024 12:55:04.007] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'architectury:network' : Version test of '1' from client : ACCEPTED
+[23Dec2024 12:55:04.007] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:leave_group' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[23Dec2024 12:55:04.007] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'thief_style:thief_style' : Version test of '1' from client : ACCEPTED
+[23Dec2024 12:55:04.007] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'securitycraft:securitycraft' : Version test of 'v1.9.11' from client : ACCEPTED
+[23Dec2024 12:55:04.007] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'jeg:play' : Version test of '1' from client : ACCEPTED
+[23Dec2024 12:55:04.007] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:set_group' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[23Dec2024 12:55:04.007] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'uteamcore:network_forge' : Version test of '1.20.1-1' from client : ACCEPTED
+[23Dec2024 12:55:04.007] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:joined_group' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[23Dec2024 12:55:04.007] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'modernfix:main' : Version test of '1' from client : ACCEPTED
+[23Dec2024 12:55:04.007] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'curios:main' : Version test of '1' from client : ACCEPTED
+[23Dec2024 12:55:04.007] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'locks:main' : Version test of 'locks' from client : ACCEPTED
+[23Dec2024 12:55:04.007] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:player_states' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[23Dec2024 12:55:04.007] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'casinocraft:main' : Version test of '1' from client : ACCEPTED
+[23Dec2024 12:55:04.007] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'botania:main' : Version test of '0' from client : ACCEPTED
+[23Dec2024 12:55:04.007] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'framework:handshake' : Version test of '1' from client : ACCEPTED
+[23Dec2024 12:55:04.007] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:loginwrapper' : Version test of 'FML3' from client : ACCEPTED
+[23Dec2024 12:55:04.007] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'electronic_device_mod:electronic_device_mod' : Version test of '1' from client : ACCEPTED
+[23Dec2024 12:55:04.007] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'customnpcs:packets' : Version test of 'CNPCS' from client : ACCEPTED
+[23Dec2024 12:55:04.007] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:request_secret' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[23Dec2024 12:55:04.007] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'camera:default' : Version test of '1.0.0' from client : ACCEPTED
+[23Dec2024 12:55:04.007] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'patchouli:main' : Version test of '1' from client : ACCEPTED
+[23Dec2024 12:55:04.007] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'uteamcore:network' : Version test of '1.20.1-1' from client : ACCEPTED
+[23Dec2024 12:55:04.007] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:handshake' : Version test of 'FML3' from client : ACCEPTED
+[23Dec2024 12:55:04.007] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:remove_group' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[23Dec2024 12:55:04.007] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'police_mod:police_mod' : Version test of '1' from client : ACCEPTED
+[23Dec2024 12:55:04.007] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'saros__money_mod:saros__money_mod' : Version test of '1' from client : ACCEPTED
+[23Dec2024 12:55:04.007] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'traffic_plus:traffic_plus' : Version test of '1' from client : ACCEPTED
+[23Dec2024 12:55:04.007] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:split' : Version test of '1.1' from client : ACCEPTED
+[23Dec2024 12:55:04.007] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'modernfurniture:modernfurniture' : Version test of '1' from client : ACCEPTED
+[23Dec2024 12:55:04.007] [Netty Epoll Server IO #0/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [playerrevive:main] rejected their client side version number
+[23Dec2024 12:55:04.008] [Netty Epoll Server IO #0/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[23Dec2024 12:55:04.008] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Dispatching wrapped packet reply for channel fml:handshake with index 4
+[23Dec2024 12:55:04.009] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7bc2ea8a[id=<null>,name=Momo93bg,properties={},legacy=false] (/127.189.193.26:47739) lost connection: Connection closed - mismatched mod channel list
+[23Dec2024 12:55:33.733] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/9927, l='ServerLevel[world]', x=51.55, y=13.00, z=136.55] died, message: 'Armorer was killed'
+[23Dec2024 12:55:33.734] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/9929, l='ServerLevel[world]', x=45.50, y=13.00, z=129.50] died, message: 'Armorer was killed'
+[23Dec2024 12:57:18.157] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 12:57:23.603] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 12:57:45.014] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 12:57:48.182] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/10893, l='ServerLevel[world]', x=54.57, y=13.00, z=136.54] died, message: 'Armorer was killed'
+[23Dec2024 12:57:48.183] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/10895, l='ServerLevel[world]', x=42.52, y=13.00, z=127.70] died, message: 'Armorer was killed'
+[23Dec2024 12:59:01.662] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Dec2024 12:59:01.672] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Dec2024 12:59:50.161] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 13:02:00.255] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 13:02:02.256] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 13:02:41.662] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 33 messages to dispatch.
+[23Dec2024 13:02:41.701] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'jeg:custom_gun_manager' to 'framework:handshake' sequence 0
+[23Dec2024 13:02:41.750] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'jeg:network_gun_manager' to 'framework:handshake' sequence 1
+[23Dec2024 13:02:41.788] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel framework:handshake with index 0
+[23Dec2024 13:02:41.788] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 0 of type com.mrcrayfish.framework.api.network.message.HandshakeMessage$Acknowledge
+[23Dec2024 13:02:41.788] [Netty Epoll Server IO #2/DEBUG] [Framework/FRAMEWORK_HANDSHAKE]: Received acknowledgement from client
+[23Dec2024 13:02:41.800] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'FrameworkConfig refurbished_furniture:server' to 'framework:handshake' sequence 2
+[23Dec2024 13:02:41.853] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModData' to 'fml:handshake' sequence 3
+[23Dec2024 13:02:41.906] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModList' to 'fml:handshake' sequence 4
+[23Dec2024 13:02:41.960] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:command_argument_type' to 'fml:handshake' sequence 5
+[23Dec2024 13:02:41.980] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel framework:handshake with index 1
+[23Dec2024 13:02:41.980] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 1 of type com.mrcrayfish.framework.api.network.message.HandshakeMessage$Acknowledge
+[23Dec2024 13:02:41.980] [Netty Epoll Server IO #2/DEBUG] [Framework/FRAMEWORK_HANDSHAKE]: Received acknowledgement from client
+[23Dec2024 13:02:41.980] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel framework:handshake with index 2
+[23Dec2024 13:02:41.980] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 2 of type com.mrcrayfish.framework.api.network.message.HandshakeMessage$Acknowledge
+[23Dec2024 13:02:41.980] [Netty Epoll Server IO #2/DEBUG] [Framework/FRAMEWORK_HANDSHAKE]: Received acknowledgement from client
+[23Dec2024 13:02:42.002] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:recipe_serializer' to 'fml:handshake' sequence 6
+[23Dec2024 13:02:42.051] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:sound_event' to 'fml:handshake' sequence 7
+[23Dec2024 13:02:42.051] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 4
+[23Dec2024 13:02:42.051] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 4 of type net.minecraftforge.network.HandshakeMessages$C2SModListReply
+[23Dec2024 13:02:42.051] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client connection with modlist [gamingdeco, geckolib, customskinloader, locks, jeg, casinocraft, musicplayer, furnitureexpanded, modernfix, marbledsapi, mr_tld, mixinextras, lucky77, uteamcore, psychadelic, simpleplanes, magicaljewelry, forge, mteg, electronic_device_mod, minecraft, police_mod, modernfurniture, mainmod, boxing_madness, good_ol_currency_the_crias, cuffed, voicechat, thief_style, mafglib, creativecore, moderndeco, fcl, botania, car, betterfpsdist, saros__money_mod, curios, patchouli, camera, securitycraft, inv_view_forge, entityculling, customnpcs, worldedit, speedracer, architectury, walkietalkie, theft, ferritecore, the_dirty_stuff, cupboard, trafficcraft, dragonlib, traffic_plus, refurbished_furniture, dynamic_fps, saros_road_blocks_mod, framework, dragnvehicles, lazrslib, fvtm, playerrevive]
+[23Dec2024 13:02:42.051] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'worldedit:cui' : Version test of '1' from client : ACCEPTED
+[23Dec2024 13:02:42.051] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:secret' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[23Dec2024 13:02:42.051] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:create_group' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[23Dec2024 13:02:42.051] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:unregister' : Version test of 'FML3' from client : ACCEPTED
+[23Dec2024 13:02:42.051] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'gamingdeco:gamingdeco' : Version test of '1' from client : ACCEPTED
+[23Dec2024 13:02:42.051] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'framework:play' : Version test of '1' from client : ACCEPTED
+[23Dec2024 13:02:42.051] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'psychadelic:psychadelic' : Version test of '1' from client : ACCEPTED
+[23Dec2024 13:02:42.051] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:update_state' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[23Dec2024 13:02:42.051] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'theft:connection' : Version test of '1.0' from client : ACCEPTED
+[23Dec2024 13:02:42.051] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:add_group' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[23Dec2024 13:02:42.051] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'mteg:play' : Version test of '1' from client : ACCEPTED
+[23Dec2024 13:02:42.051] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'simpleplanes:main' : Version test of '10' from client : ACCEPTED
+[23Dec2024 13:02:42.051] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:tier_sorting' : Version test of '1.0' from client : ACCEPTED
+[23Dec2024 13:02:42.051] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'speedracer:speedracer' : Version test of '1' from client : ACCEPTED
+[23Dec2024 13:02:42.051] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:player_state' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[23Dec2024 13:02:42.051] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'playerrevive:main' : Version test of '1' from client : ACCEPTED
+[23Dec2024 13:02:42.052] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:play' : Version test of 'FML3' from client : ACCEPTED
+[23Dec2024 13:02:42.052] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'creativecore:main' : Version test of '1' from client : ACCEPTED
+[23Dec2024 13:02:42.052] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'the_dirty_stuff:the_dirty_stuff' : Version test of '1' from client : ACCEPTED
+[23Dec2024 13:02:42.052] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fcl:channel' : Version test of 'fcl' from client : ACCEPTED
+[23Dec2024 13:02:42.052] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'mainmod:mainmod' : Version test of '1' from client : ACCEPTED
+[23Dec2024 13:02:42.052] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'good_ol_currency_the_crias:good_ol_currency_the_crias' : Version test of '1' from client : ACCEPTED
+[23Dec2024 13:02:42.052] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:remove_category' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[23Dec2024 13:02:42.052] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'saros_road_blocks_mod:saros_road_blocks_mod' : Version test of '1' from client : ACCEPTED
+[23Dec2024 13:02:42.052] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:add_category' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[23Dec2024 13:02:42.052] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'moderndeco:moderndeco' : Version test of '1' from client : ACCEPTED
+[23Dec2024 13:02:42.052] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'cuffed:main' : Version test of '1' from client : ACCEPTED
+[23Dec2024 13:02:42.052] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'worldedit:internal' : Version test of '1' from client : ACCEPTED
+[23Dec2024 13:02:42.052] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'boxing_madness:boxing_madness' : Version test of '1' from client : ACCEPTED
+[23Dec2024 13:02:42.052] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fvtm:channel' : Version test of 'fvtm4' from client : ACCEPTED
+[23Dec2024 13:02:42.052] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:register' : Version test of 'FML3' from client : ACCEPTED
+[23Dec2024 13:02:42.052] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'geckolib:main' : Version test of '1' from client : ACCEPTED
+[23Dec2024 13:02:42.052] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'refurbished_furniture:play' : Version test of '1' from client : ACCEPTED
+[23Dec2024 13:02:42.052] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'architectury:network' : Version test of '1' from client : ACCEPTED
+[23Dec2024 13:02:42.052] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:leave_group' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[23Dec2024 13:02:42.052] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'thief_style:thief_style' : Version test of '1' from client : ACCEPTED
+[23Dec2024 13:02:42.052] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'securitycraft:securitycraft' : Version test of 'v1.9.11' from client : ACCEPTED
+[23Dec2024 13:02:42.052] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'jeg:play' : Version test of '1' from client : ACCEPTED
+[23Dec2024 13:02:42.052] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:set_group' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[23Dec2024 13:02:42.052] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'uteamcore:network_forge' : Version test of '1.20.1-1' from client : ACCEPTED
+[23Dec2024 13:02:42.052] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:joined_group' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[23Dec2024 13:02:42.052] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'modernfix:main' : Version test of '1' from client : ACCEPTED
+[23Dec2024 13:02:42.052] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'curios:main' : Version test of '1' from client : ACCEPTED
+[23Dec2024 13:02:42.052] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'locks:main' : Version test of 'locks' from client : ACCEPTED
+[23Dec2024 13:02:42.052] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:player_states' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[23Dec2024 13:02:42.052] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'casinocraft:main' : Version test of '1' from client : ACCEPTED
+[23Dec2024 13:02:42.052] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'botania:main' : Version test of '0' from client : ACCEPTED
+[23Dec2024 13:02:42.052] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'framework:handshake' : Version test of '1' from client : ACCEPTED
+[23Dec2024 13:02:42.052] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:loginwrapper' : Version test of 'FML3' from client : ACCEPTED
+[23Dec2024 13:02:42.052] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'electronic_device_mod:electronic_device_mod' : Version test of '1' from client : ACCEPTED
+[23Dec2024 13:02:42.052] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'customnpcs:packets' : Version test of 'CNPCS' from client : ACCEPTED
+[23Dec2024 13:02:42.052] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:request_secret' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[23Dec2024 13:02:42.052] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'camera:default' : Version test of '1.0.0' from client : ACCEPTED
+[23Dec2024 13:02:42.052] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'patchouli:main' : Version test of '1' from client : ACCEPTED
+[23Dec2024 13:02:42.052] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'uteamcore:network' : Version test of '1.20.1-1' from client : ACCEPTED
+[23Dec2024 13:02:42.052] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:handshake' : Version test of 'FML3' from client : ACCEPTED
+[23Dec2024 13:02:42.052] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:remove_group' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[23Dec2024 13:02:42.052] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'police_mod:police_mod' : Version test of '1' from client : ACCEPTED
+[23Dec2024 13:02:42.052] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'saros__money_mod:saros__money_mod' : Version test of '1' from client : ACCEPTED
+[23Dec2024 13:02:42.052] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'traffic_plus:traffic_plus' : Version test of '1' from client : ACCEPTED
+[23Dec2024 13:02:42.053] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:split' : Version test of '1.1' from client : ACCEPTED
+[23Dec2024 13:02:42.053] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'modernfurniture:modernfurniture' : Version test of '1' from client : ACCEPTED
+[23Dec2024 13:02:42.053] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from client
+[23Dec2024 13:02:42.053] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Accepted client connection mod list
+[23Dec2024 13:02:42.093] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 5
+[23Dec2024 13:02:42.093] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 5 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[23Dec2024 13:02:42.094] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[23Dec2024 13:02:42.094] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 6
+[23Dec2024 13:02:42.094] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 6 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[23Dec2024 13:02:42.094] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[23Dec2024 13:02:42.105] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:particle_type' to 'fml:handshake' sequence 8
+[23Dec2024 13:02:42.149] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:villager_profession' to 'fml:handshake' sequence 9
+[23Dec2024 13:02:42.150] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 7
+[23Dec2024 13:02:42.150] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 7 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[23Dec2024 13:02:42.150] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[23Dec2024 13:02:42.193] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 8
+[23Dec2024 13:02:42.193] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 8 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[23Dec2024 13:02:42.193] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[23Dec2024 13:02:42.193] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 9
+[23Dec2024 13:02:42.193] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 9 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[23Dec2024 13:02:42.193] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[23Dec2024 13:02:42.199] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:item' to 'fml:handshake' sequence 10
+[23Dec2024 13:02:42.253] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:potion' to 'fml:handshake' sequence 11
+[23Dec2024 13:02:42.300] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:painting_variant' to 'fml:handshake' sequence 12
+[23Dec2024 13:02:42.351] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:fluid_type' to 'fml:handshake' sequence 13
+[23Dec2024 13:02:42.399] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block_entity_type' to 'fml:handshake' sequence 14
+[23Dec2024 13:02:42.448] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 10
+[23Dec2024 13:02:42.448] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 10 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[23Dec2024 13:02:42.448] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[23Dec2024 13:02:42.455] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:display_contexts' to 'fml:handshake' sequence 15
+[23Dec2024 13:02:42.455] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 11
+[23Dec2024 13:02:42.455] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 11 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[23Dec2024 13:02:42.455] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[23Dec2024 13:02:42.455] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 12
+[23Dec2024 13:02:42.456] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 12 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[23Dec2024 13:02:42.456] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[23Dec2024 13:02:42.456] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 13
+[23Dec2024 13:02:42.456] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 13 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[23Dec2024 13:02:42.456] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[23Dec2024 13:02:42.497] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 14
+[23Dec2024 13:02:42.497] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 14 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[23Dec2024 13:02:42.497] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[23Dec2024 13:02:42.497] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 15
+[23Dec2024 13:02:42.498] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 15 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[23Dec2024 13:02:42.498] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[23Dec2024 13:02:42.501] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block' to 'fml:handshake' sequence 16
+[23Dec2024 13:02:42.552] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:entity_data_serializers' to 'fml:handshake' sequence 17
+[23Dec2024 13:02:42.600] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry cuffed:restraints' to 'fml:handshake' sequence 18
+[23Dec2024 13:02:42.635] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 16
+[23Dec2024 13:02:42.635] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 16 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[23Dec2024 13:02:42.635] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[23Dec2024 13:02:42.651] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:mob_effect' to 'fml:handshake' sequence 19
+[23Dec2024 13:02:42.651] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 17
+[23Dec2024 13:02:42.651] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 17 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[23Dec2024 13:02:42.651] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[23Dec2024 13:02:42.700] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:stat_type' to 'fml:handshake' sequence 20
+[23Dec2024 13:02:42.740] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 18
+[23Dec2024 13:02:42.740] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 18 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[23Dec2024 13:02:42.740] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[23Dec2024 13:02:42.751] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry simpleplanes:upgrade_types' to 'fml:handshake' sequence 21
+[23Dec2024 13:02:42.751] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 19
+[23Dec2024 13:02:42.751] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 19 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[23Dec2024 13:02:42.751] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[23Dec2024 13:02:42.793] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 20
+[23Dec2024 13:02:42.793] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 20 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[23Dec2024 13:02:42.793] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[23Dec2024 13:02:42.793] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 21
+[23Dec2024 13:02:42.794] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 21 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[23Dec2024 13:02:42.794] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[23Dec2024 13:02:42.801] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:menu' to 'fml:handshake' sequence 22
+[23Dec2024 13:02:42.837] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 22
+[23Dec2024 13:02:42.837] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 22 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[23Dec2024 13:02:42.837] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[23Dec2024 13:02:42.850] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:enchantment' to 'fml:handshake' sequence 23
+[23Dec2024 13:02:42.869] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 23
+[23Dec2024 13:02:42.869] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 23 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[23Dec2024 13:02:42.869] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[23Dec2024 13:02:42.900] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:fluid' to 'fml:handshake' sequence 24
+[23Dec2024 13:02:42.918] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 24
+[23Dec2024 13:02:42.918] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 24 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[23Dec2024 13:02:42.918] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[23Dec2024 13:02:42.948] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:entity_type' to 'fml:handshake' sequence 25
+[23Dec2024 13:02:43.000] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config camera-server.toml' to 'fml:handshake' sequence 26
+[23Dec2024 13:02:43.051] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config securitycraft-server.toml' to 'fml:handshake' sequence 27
+[23Dec2024 13:02:43.101] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config locks-server.toml' to 'fml:handshake' sequence 28
+[23Dec2024 13:02:43.150] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config curios-server.toml' to 'fml:handshake' sequence 29
+[23Dec2024 13:02:43.199] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config jeg-server.toml' to 'fml:handshake' sequence 30
+[23Dec2024 13:02:43.249] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config forge-server.toml' to 'fml:handshake' sequence 31
+[23Dec2024 13:02:43.299] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config cuffed-server.toml' to 'fml:handshake' sequence 32
+[23Dec2024 13:02:43.602] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 25
+[23Dec2024 13:02:43.602] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 25 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[23Dec2024 13:02:43.602] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[23Dec2024 13:02:43.645] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 26
+[23Dec2024 13:02:43.645] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 26 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[23Dec2024 13:02:43.645] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[23Dec2024 13:02:43.645] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 27
+[23Dec2024 13:02:43.646] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 27 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[23Dec2024 13:02:43.646] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[23Dec2024 13:02:43.646] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 28
+[23Dec2024 13:02:43.646] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 28 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[23Dec2024 13:02:43.646] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[23Dec2024 13:02:43.646] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 29
+[23Dec2024 13:02:43.646] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 29 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[23Dec2024 13:02:43.646] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[23Dec2024 13:02:43.646] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 30
+[23Dec2024 13:02:43.646] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 30 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[23Dec2024 13:02:43.646] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[23Dec2024 13:02:43.648] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 31
+[23Dec2024 13:02:43.648] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 31 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[23Dec2024 13:02:43.648] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[23Dec2024 13:02:43.661] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 32
+[23Dec2024 13:02:43.661] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 32 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[23Dec2024 13:02:43.661] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[23Dec2024 13:02:43.700] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Handshake complete!
+[23Dec2024 13:02:43.752] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/a8db6887-8889-3173-af6f-edec5f9bda83.json: Don't know what mca:wedding_ring is
+[23Dec2024 13:02:43.753] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/a8db6887-8889-3173-af6f-edec5f9bda83.json: Don't know what mca:comb is
+[23Dec2024 13:02:43.753] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/a8db6887-8889-3173-af6f-edec5f9bda83.json: Don't know what mca:wedding_ring is
+[23Dec2024 13:02:43.758] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'mca:recipes/misc/books' in progress file ./world/advancements/a8db6887-8889-3173-af6f-edec5f9bda83.json - it doesn't exist anymore?
+[23Dec2024 13:02:43.758] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'mca:recipes/misc/blueprint' in progress file ./world/advancements/a8db6887-8889-3173-af6f-edec5f9bda83.json - it doesn't exist anymore?
+[23Dec2024 13:02:43.763] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mca:book_romance removed now.
+[23Dec2024 13:02:43.763] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mca:book_supporters removed now.
+[23Dec2024 13:02:43.764] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mca:book_death removed now.
+[23Dec2024 13:02:43.764] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mca:book_family removed now.
+[23Dec2024 13:02:43.764] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mca:book_rose_gold removed now.
+[23Dec2024 13:02:43.764] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mca:book_infection removed now.
+[23Dec2024 13:02:43.764] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mca:book_blueprint removed now.
+[23Dec2024 13:02:43.764] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mca:blueprint removed now.
+[23Dec2024 13:02:43.764] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mca:book_romance removed now.
+[23Dec2024 13:02:43.764] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mca:book_supporters removed now.
+[23Dec2024 13:02:43.764] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mca:book_death removed now.
+[23Dec2024 13:02:43.764] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mca:book_family removed now.
+[23Dec2024 13:02:43.764] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mca:book_rose_gold removed now.
+[23Dec2024 13:02:43.764] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mca:book_infection removed now.
+[23Dec2024 13:02:43.765] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mca:book_blueprint removed now.
+[23Dec2024 13:02:43.765] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: mca:blueprint removed now.
+[23Dec2024 13:02:43.765] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Momo93bg[/127.189.193.26:54285] logged in with entity id 10964 at (111.04515912917877, 17.5625, 309.90624669221955)
+[23Dec2024 13:02:43.765] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.ForgeConnectionNetworkFilter@73b788d3 into net.minecraft.network.Connection@4d652bcd
+[23Dec2024 13:02:43.765] [Server thread/DEBUG] [ModernFix/]: Sending ID correction packet to client with 74 classes
+[23Dec2024 13:02:43.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Momo93bg joined the game
+[23Dec2024 13:02:43.891] [Server thread/DEBUG] [voicechat/]: [voicechat] Setting default state of Momo93bg: {disabled=false, disconnected=true, uuid=a8db6887-8889-3173-af6f-edec5f9bda83, name=Momo93bg, group=null}
+[23Dec2024 13:02:45.405] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Momo93bg (18)
+[23Dec2024 13:02:45.405] [Server thread/DEBUG] [voicechat/]: [voicechat] Sending initial states to Momo93bg
+[23Dec2024 13:02:45.405] [Server thread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with Momo93bg
+[23Dec2024 13:02:45.405] [Server thread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 volume categories with Momo93bg
+[23Dec2024 13:02:45.406] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Momo93bg
+[23Dec2024 13:02:50.476] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player a8db6887-8889-3173-af6f-edec5f9bda83
+[23Dec2024 13:02:51.479] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player a8db6887-8889-3173-af6f-edec5f9bda83
+[23Dec2024 13:02:51.479] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of Momo93bg to connected: {disabled=false, disconnected=false, uuid=a8db6887-8889-3173-af6f-edec5f9bda83, name=Momo93bg, group=null}
+[23Dec2024 13:02:51.479] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Momo93bg (a8db6887-8889-3173-af6f-edec5f9bda83) successfully connected to voice chat
+[23Dec2024 13:02:51.501] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Momo93bg: {disabled=true, disconnected=false, uuid=a8db6887-8889-3173-af6f-edec5f9bda83, name=Momo93bg, group=null}
+[23Dec2024 13:03:14.305] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Momo93bg lost connection: Disconnected
+[23Dec2024 13:03:14.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Momo93bg left the game
+[23Dec2024 13:03:14.307] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Momo93bg
+[23Dec2024 13:03:14.307] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Momo93bg
+[23Dec2024 13:04:01.668] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Dec2024 13:04:01.685] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Dec2024 13:06:27.490] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 33 messages to dispatch.
+[23Dec2024 13:06:27.514] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'jeg:custom_gun_manager' to 'framework:handshake' sequence 0
+[23Dec2024 13:06:27.565] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'jeg:network_gun_manager' to 'framework:handshake' sequence 1
+[23Dec2024 13:06:27.616] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'FrameworkConfig refurbished_furniture:server' to 'framework:handshake' sequence 2
+[23Dec2024 13:06:27.660] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModData' to 'fml:handshake' sequence 3
+[23Dec2024 13:06:27.697] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel framework:handshake with index 0
+[23Dec2024 13:06:27.697] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 0 of type com.mrcrayfish.framework.api.network.message.HandshakeMessage$Acknowledge
+[23Dec2024 13:06:27.697] [Netty Epoll Server IO #4/DEBUG] [Framework/FRAMEWORK_HANDSHAKE]: Received acknowledgement from client
+[23Dec2024 13:06:27.711] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModList' to 'fml:handshake' sequence 4
+[23Dec2024 13:06:27.761] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:command_argument_type' to 'fml:handshake' sequence 5
+[23Dec2024 13:06:27.810] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:recipe_serializer' to 'fml:handshake' sequence 6
+[23Dec2024 13:06:27.868] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:sound_event' to 'fml:handshake' sequence 7
+[23Dec2024 13:06:27.918] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:particle_type' to 'fml:handshake' sequence 8
+[23Dec2024 13:06:27.963] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:villager_profession' to 'fml:handshake' sequence 9
+[23Dec2024 13:06:28.012] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:item' to 'fml:handshake' sequence 10
+[23Dec2024 13:06:28.063] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:potion' to 'fml:handshake' sequence 11
+[23Dec2024 13:06:28.114] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:painting_variant' to 'fml:handshake' sequence 12
+[23Dec2024 13:06:28.166] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:fluid_type' to 'fml:handshake' sequence 13
+[23Dec2024 13:06:28.208] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block_entity_type' to 'fml:handshake' sequence 14
+[23Dec2024 13:06:28.257] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:display_contexts' to 'fml:handshake' sequence 15
+[23Dec2024 13:06:28.292] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel framework:handshake with index 1
+[23Dec2024 13:06:28.292] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 1 of type com.mrcrayfish.framework.api.network.message.HandshakeMessage$Acknowledge
+[23Dec2024 13:06:28.292] [Netty Epoll Server IO #4/DEBUG] [Framework/FRAMEWORK_HANDSHAKE]: Received acknowledgement from client
+[23Dec2024 13:06:28.307] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block' to 'fml:handshake' sequence 16
+[23Dec2024 13:06:28.320] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel framework:handshake with index 2
+[23Dec2024 13:06:28.320] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 2 of type com.mrcrayfish.framework.api.network.message.HandshakeMessage$Acknowledge
+[23Dec2024 13:06:28.320] [Netty Epoll Server IO #4/DEBUG] [Framework/FRAMEWORK_HANDSHAKE]: Received acknowledgement from client
+[23Dec2024 13:06:28.358] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:entity_data_serializers' to 'fml:handshake' sequence 17
+[23Dec2024 13:06:28.407] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry cuffed:restraints' to 'fml:handshake' sequence 18
+[23Dec2024 13:06:28.458] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:mob_effect' to 'fml:handshake' sequence 19
+[23Dec2024 13:06:28.458] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 4
+[23Dec2024 13:06:28.458] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 4 of type net.minecraftforge.network.HandshakeMessages$C2SModListReply
+[23Dec2024 13:06:28.458] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client connection with modlist [gamingdeco, geckolib, customskinloader, locks, jeg, casinocraft, musicplayer, furnitureexpanded, modernfix, marbledsapi, mr_tld, mixinextras, lucky77, uteamcore, psychadelic, simpleplanes, magicaljewelry, forge, mteg, electronic_device_mod, minecraft, police_mod, modernfurniture, mainmod, boxing_madness, good_ol_currency_the_crias, cuffed, voicechat, thief_style, mafglib, creativecore, moderndeco, fcl, botania, car, betterfpsdist, saros__money_mod, curios, patchouli, camera, securitycraft, inv_view_forge, entityculling, customnpcs, worldedit, speedracer, architectury, walkietalkie, theft, ferritecore, the_dirty_stuff, cupboard, trafficcraft, dragonlib, traffic_plus, refurbished_furniture, dynamic_fps, saros_road_blocks_mod, framework, dragnvehicles, lazrslib, fvtm, playerrevive]
+[23Dec2024 13:06:28.458] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'worldedit:cui' : Version test of '1' from client : ACCEPTED
+[23Dec2024 13:06:28.458] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:secret' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[23Dec2024 13:06:28.459] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:create_group' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[23Dec2024 13:06:28.459] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:unregister' : Version test of 'FML3' from client : ACCEPTED
+[23Dec2024 13:06:28.459] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'gamingdeco:gamingdeco' : Version test of '1' from client : ACCEPTED
+[23Dec2024 13:06:28.459] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'framework:play' : Version test of '1' from client : ACCEPTED
+[23Dec2024 13:06:28.459] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'psychadelic:psychadelic' : Version test of '1' from client : ACCEPTED
+[23Dec2024 13:06:28.459] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:update_state' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[23Dec2024 13:06:28.459] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'theft:connection' : Version test of '1.0' from client : ACCEPTED
+[23Dec2024 13:06:28.459] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:add_group' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[23Dec2024 13:06:28.459] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'mteg:play' : Version test of '1' from client : ACCEPTED
+[23Dec2024 13:06:28.459] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'simpleplanes:main' : Version test of '10' from client : ACCEPTED
+[23Dec2024 13:06:28.459] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:tier_sorting' : Version test of '1.0' from client : ACCEPTED
+[23Dec2024 13:06:28.459] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'speedracer:speedracer' : Version test of '1' from client : ACCEPTED
+[23Dec2024 13:06:28.459] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:player_state' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[23Dec2024 13:06:28.459] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'playerrevive:main' : Version test of '1' from client : ACCEPTED
+[23Dec2024 13:06:28.459] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:play' : Version test of 'FML3' from client : ACCEPTED
+[23Dec2024 13:06:28.459] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'creativecore:main' : Version test of '1' from client : ACCEPTED
+[23Dec2024 13:06:28.459] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'the_dirty_stuff:the_dirty_stuff' : Version test of '1' from client : ACCEPTED
+[23Dec2024 13:06:28.459] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fcl:channel' : Version test of 'fcl' from client : ACCEPTED
+[23Dec2024 13:06:28.459] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'mainmod:mainmod' : Version test of '1' from client : ACCEPTED
+[23Dec2024 13:06:28.459] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'good_ol_currency_the_crias:good_ol_currency_the_crias' : Version test of '1' from client : ACCEPTED
+[23Dec2024 13:06:28.459] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:remove_category' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[23Dec2024 13:06:28.459] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'saros_road_blocks_mod:saros_road_blocks_mod' : Version test of '1' from client : ACCEPTED
+[23Dec2024 13:06:28.459] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:add_category' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[23Dec2024 13:06:28.459] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'moderndeco:moderndeco' : Version test of '1' from client : ACCEPTED
+[23Dec2024 13:06:28.459] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'cuffed:main' : Version test of '1' from client : ACCEPTED
+[23Dec2024 13:06:28.459] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'worldedit:internal' : Version test of '1' from client : ACCEPTED
+[23Dec2024 13:06:28.459] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'boxing_madness:boxing_madness' : Version test of '1' from client : ACCEPTED
+[23Dec2024 13:06:28.459] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fvtm:channel' : Version test of 'fvtm4' from client : ACCEPTED
+[23Dec2024 13:06:28.459] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:register' : Version test of 'FML3' from client : ACCEPTED
+[23Dec2024 13:06:28.459] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'geckolib:main' : Version test of '1' from client : ACCEPTED
+[23Dec2024 13:06:28.459] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'refurbished_furniture:play' : Version test of '1' from client : ACCEPTED
+[23Dec2024 13:06:28.459] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'architectury:network' : Version test of '1' from client : ACCEPTED
+[23Dec2024 13:06:28.459] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:leave_group' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[23Dec2024 13:06:28.459] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'thief_style:thief_style' : Version test of '1' from client : ACCEPTED
+[23Dec2024 13:06:28.459] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'securitycraft:securitycraft' : Version test of 'v1.9.11' from client : ACCEPTED
+[23Dec2024 13:06:28.459] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'jeg:play' : Version test of '1' from client : ACCEPTED
+[23Dec2024 13:06:28.459] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:set_group' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[23Dec2024 13:06:28.459] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'uteamcore:network_forge' : Version test of '1.20.1-1' from client : ACCEPTED
+[23Dec2024 13:06:28.459] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:joined_group' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[23Dec2024 13:06:28.459] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'modernfix:main' : Version test of '1' from client : ACCEPTED
+[23Dec2024 13:06:28.459] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'curios:main' : Version test of '1' from client : ACCEPTED
+[23Dec2024 13:06:28.459] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'locks:main' : Version test of 'locks' from client : ACCEPTED
+[23Dec2024 13:06:28.459] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:player_states' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[23Dec2024 13:06:28.459] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'casinocraft:main' : Version test of '1' from client : ACCEPTED
+[23Dec2024 13:06:28.460] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'botania:main' : Version test of '0' from client : ACCEPTED
+[23Dec2024 13:06:28.460] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'framework:handshake' : Version test of '1' from client : ACCEPTED
+[23Dec2024 13:06:28.460] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:loginwrapper' : Version test of 'FML3' from client : ACCEPTED
+[23Dec2024 13:06:28.460] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'electronic_device_mod:electronic_device_mod' : Version test of '1' from client : ACCEPTED
+[23Dec2024 13:06:28.460] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'customnpcs:packets' : Version test of 'CNPCS' from client : ACCEPTED
+[23Dec2024 13:06:28.460] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:request_secret' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[23Dec2024 13:06:28.460] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'camera:default' : Version test of '1.0.0' from client : ACCEPTED
+[23Dec2024 13:06:28.460] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'patchouli:main' : Version test of '1' from client : ACCEPTED
+[23Dec2024 13:06:28.460] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'uteamcore:network' : Version test of '1.20.1-1' from client : ACCEPTED
+[23Dec2024 13:06:28.460] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:handshake' : Version test of 'FML3' from client : ACCEPTED
+[23Dec2024 13:06:28.460] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:remove_group' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[23Dec2024 13:06:28.460] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'police_mod:police_mod' : Version test of '1' from client : ACCEPTED
+[23Dec2024 13:06:28.460] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'saros__money_mod:saros__money_mod' : Version test of '1' from client : ACCEPTED
+[23Dec2024 13:06:28.460] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'traffic_plus:traffic_plus' : Version test of '1' from client : ACCEPTED
+[23Dec2024 13:06:28.460] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:split' : Version test of '1.1' from client : ACCEPTED
+[23Dec2024 13:06:28.460] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'modernfurniture:modernfurniture' : Version test of '1' from client : ACCEPTED
+[23Dec2024 13:06:28.460] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from client
+[23Dec2024 13:06:28.460] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Accepted client connection mod list
+[23Dec2024 13:06:28.460] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 5
+[23Dec2024 13:06:28.460] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 5 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[23Dec2024 13:06:28.460] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[23Dec2024 13:06:28.460] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 6
+[23Dec2024 13:06:28.460] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 6 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[23Dec2024 13:06:28.460] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[23Dec2024 13:06:28.501] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 7
+[23Dec2024 13:06:28.501] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 7 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[23Dec2024 13:06:28.502] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[23Dec2024 13:06:28.502] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 8
+[23Dec2024 13:06:28.502] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 8 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[23Dec2024 13:06:28.502] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[23Dec2024 13:06:28.502] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 9
+[23Dec2024 13:06:28.502] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 9 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[23Dec2024 13:06:28.502] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[23Dec2024 13:06:28.507] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:stat_type' to 'fml:handshake' sequence 20
+[23Dec2024 13:06:28.523] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 10
+[23Dec2024 13:06:28.523] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 10 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[23Dec2024 13:06:28.524] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[23Dec2024 13:06:28.558] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry simpleplanes:upgrade_types' to 'fml:handshake' sequence 21
+[23Dec2024 13:06:28.558] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 11
+[23Dec2024 13:06:28.558] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 11 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[23Dec2024 13:06:28.558] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[23Dec2024 13:06:28.558] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 12
+[23Dec2024 13:06:28.558] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 12 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[23Dec2024 13:06:28.558] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[23Dec2024 13:06:28.558] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 13
+[23Dec2024 13:06:28.558] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 13 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[23Dec2024 13:06:28.558] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[23Dec2024 13:06:28.558] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 14
+[23Dec2024 13:06:28.558] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 14 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[23Dec2024 13:06:28.558] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[23Dec2024 13:06:28.558] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 15
+[23Dec2024 13:06:28.559] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 15 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[23Dec2024 13:06:28.559] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[23Dec2024 13:06:28.601] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 16
+[23Dec2024 13:06:28.601] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 16 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[23Dec2024 13:06:28.602] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[23Dec2024 13:06:28.602] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 17
+[23Dec2024 13:06:28.602] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 17 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[23Dec2024 13:06:28.603] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[23Dec2024 13:06:28.603] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 18
+[23Dec2024 13:06:28.603] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 18 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[23Dec2024 13:06:28.603] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[23Dec2024 13:06:28.603] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 19
+[23Dec2024 13:06:28.603] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 19 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[23Dec2024 13:06:28.603] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[23Dec2024 13:06:28.603] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 20
+[23Dec2024 13:06:28.603] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 20 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[23Dec2024 13:06:28.603] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[23Dec2024 13:06:28.607] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 21
+[23Dec2024 13:06:28.607] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 21 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[23Dec2024 13:06:28.607] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[23Dec2024 13:06:28.609] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:menu' to 'fml:handshake' sequence 22
+[23Dec2024 13:06:28.650] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 22
+[23Dec2024 13:06:28.650] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 22 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[23Dec2024 13:06:28.650] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[23Dec2024 13:06:28.656] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:enchantment' to 'fml:handshake' sequence 23
+[23Dec2024 13:06:28.682] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 23
+[23Dec2024 13:06:28.682] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 23 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[23Dec2024 13:06:28.683] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[23Dec2024 13:06:28.711] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:fluid' to 'fml:handshake' sequence 24
+[23Dec2024 13:06:28.731] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 24
+[23Dec2024 13:06:28.731] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 24 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[23Dec2024 13:06:28.732] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[23Dec2024 13:06:28.759] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:entity_type' to 'fml:handshake' sequence 25
+[23Dec2024 13:06:28.807] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config camera-server.toml' to 'fml:handshake' sequence 26
+[23Dec2024 13:06:28.859] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config securitycraft-server.toml' to 'fml:handshake' sequence 27
+[23Dec2024 13:06:28.908] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config locks-server.toml' to 'fml:handshake' sequence 28
+[23Dec2024 13:06:28.957] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config curios-server.toml' to 'fml:handshake' sequence 29
+[23Dec2024 13:06:29.011] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config jeg-server.toml' to 'fml:handshake' sequence 30
+[23Dec2024 13:06:29.059] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config forge-server.toml' to 'fml:handshake' sequence 31
+[23Dec2024 13:06:29.111] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config cuffed-server.toml' to 'fml:handshake' sequence 32
+[23Dec2024 13:06:29.595] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 25
+[23Dec2024 13:06:29.596] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 25 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[23Dec2024 13:06:29.596] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[23Dec2024 13:06:29.596] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 26
+[23Dec2024 13:06:29.596] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 26 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[23Dec2024 13:06:29.596] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[23Dec2024 13:06:29.637] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 27
+[23Dec2024 13:06:29.637] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 27 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[23Dec2024 13:06:29.638] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[23Dec2024 13:06:29.638] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 28
+[23Dec2024 13:06:29.638] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 28 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[23Dec2024 13:06:29.638] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[23Dec2024 13:06:29.638] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 29
+[23Dec2024 13:06:29.638] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 29 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[23Dec2024 13:06:29.638] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[23Dec2024 13:06:29.638] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 30
+[23Dec2024 13:06:29.638] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 30 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[23Dec2024 13:06:29.638] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[23Dec2024 13:06:29.638] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 31
+[23Dec2024 13:06:29.638] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 31 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[23Dec2024 13:06:29.638] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[23Dec2024 13:06:29.638] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 32
+[23Dec2024 13:06:29.638] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 32 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[23Dec2024 13:06:29.638] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[23Dec2024 13:06:29.661] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Handshake complete!
+[23Dec2024 13:06:29.719] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Momo93bg[/127.189.193.26:55383] logged in with entity id 10987 at (109.43800223378915, 17.514892519004743, 310.39234863985854)
+[23Dec2024 13:06:29.720] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.ForgeConnectionNetworkFilter@21a4031c into net.minecraft.network.Connection@1d2d1c71
+[23Dec2024 13:06:29.720] [Server thread/DEBUG] [ModernFix/]: Sending ID correction packet to client with 74 classes
+[23Dec2024 13:06:29.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Momo93bg joined the game
+[23Dec2024 13:06:29.814] [Server thread/DEBUG] [voicechat/]: [voicechat] Setting default state of Momo93bg: {disabled=false, disconnected=true, uuid=a8db6887-8889-3173-af6f-edec5f9bda83, name=Momo93bg, group=null}
+[23Dec2024 13:06:31.361] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Momo93bg (18)
+[23Dec2024 13:06:31.361] [Server thread/DEBUG] [voicechat/]: [voicechat] Sending initial states to Momo93bg
+[23Dec2024 13:06:31.361] [Server thread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with Momo93bg
+[23Dec2024 13:06:31.361] [Server thread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 volume categories with Momo93bg
+[23Dec2024 13:06:31.361] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Momo93bg
+[23Dec2024 13:06:36.057] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player a8db6887-8889-3173-af6f-edec5f9bda83
+[23Dec2024 13:06:37.040] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player a8db6887-8889-3173-af6f-edec5f9bda83
+[23Dec2024 13:06:37.041] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of Momo93bg to connected: {disabled=false, disconnected=false, uuid=a8db6887-8889-3173-af6f-edec5f9bda83, name=Momo93bg, group=null}
+[23Dec2024 13:06:37.041] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Momo93bg (a8db6887-8889-3173-af6f-edec5f9bda83) successfully connected to voice chat
+[23Dec2024 13:06:37.115] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Momo93bg: {disabled=true, disconnected=false, uuid=a8db6887-8889-3173-af6f-edec5f9bda83, name=Momo93bg, group=null}
+[23Dec2024 13:07:02.663] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Momo93bg lost connection: Disconnected
+[23Dec2024 13:07:02.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Momo93bg left the game
+[23Dec2024 13:07:02.664] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Momo93bg
+[23Dec2024 13:07:02.664] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Momo93bg
+[23Dec2024 13:08:16.353] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 13:08:28.556] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 13:08:28.750] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 13:09:01.662] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Dec2024 13:09:01.673] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Dec2024 13:09:28.800] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 13:09:44.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Survival Mode]
+[23Dec2024 13:10:46.612] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 13:10:46.810] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 13:11:10.502] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 13:11:11.151] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 13:11:23.107] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 13:11:43.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Creative Mode]
+[23Dec2024 13:12:05.500] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.501] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.501] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.502] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.502] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.502] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.502] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.503] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.503] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.503] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.503] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.504] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.504] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.504] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.504] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.505] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.505] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.505] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.506] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.506] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.506] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.506] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.506] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.507] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.507] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.507] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.507] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.508] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.508] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.508] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.508] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.508] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.509] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.509] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.509] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.510] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.510] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.510] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.510] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.511] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.511] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.511] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.511] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.511] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.512] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.512] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.512] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.512] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.513] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.513] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.513] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.514] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.514] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.514] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.514] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.515] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.515] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.515] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.515] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.515] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.516] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.516] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.516] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.516] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.516] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.517] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.517] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.517] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.518] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.518] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.518] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.518] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.518] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.519] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.519] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.519] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.519] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.519] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.520] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.520] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.520] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.520] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.521] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.521] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.521] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.522] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.522] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.522] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.523] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.523] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.524] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.524] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.525] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.525] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.525] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.525] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.525] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.526] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.526] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.526] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.526] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.527] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.527] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.527] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.528] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.528] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.528] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.528] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.529] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.529] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.529] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.530] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.530] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.530] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.530] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.530] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.531] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.531] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.531] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.532] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.532] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.532] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.532] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.533] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.533] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.533] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.533] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.533] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.534] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.534] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.534] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.534] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.535] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.535] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.535] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.535] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.536] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.536] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.536] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.536] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.537] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.537] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.537] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.537] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.538] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.538] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.538] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.538] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.539] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.539] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.539] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.539] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.540] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.540] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.540] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.541] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.541] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.541] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.541] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.542] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.542] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.542] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.542] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.542] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.543] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.543] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.543] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.543] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.543] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.544] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.544] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.544] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.544] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.545] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.545] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.545] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.545] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.545] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.546] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.546] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.546] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.546] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.546] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.547] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.547] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.547] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.547] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.548] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.548] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.548] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.548] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.549] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.549] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.549] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.549] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.549] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.550] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.550] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.550] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.550] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.550] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.550] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.551] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.551] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.551] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.552] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.552] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.552] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.552] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.552] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.553] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.553] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.553] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.553] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.554] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.554] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.554] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.555] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.556] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.556] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.556] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.557] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.557] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.557] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.558] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.558] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.558] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.558] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.558] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.559] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.559] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.559] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.559] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.559] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.560] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.560] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.560] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.560] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.561] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.561] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.561] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.562] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.562] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.563] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.564] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.564] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.564] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.564] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.564] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.565] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.565] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.565] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.565] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.566] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.566] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.566] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.567] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.567] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.567] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.567] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.567] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.568] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.568] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.568] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.568] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.569] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.569] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.569] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.569] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.569] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.570] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.570] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.571] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.571] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.571] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.571] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.572] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.572] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.572] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.572] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.572] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.573] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.573] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.573] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.573] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.573] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.574] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.574] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.574] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.575] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.575] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.575] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.575] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.575] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.576] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.576] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.576] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.576] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.576] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.577] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.577] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.577] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.577] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.577] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.578] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.578] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.578] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.579] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.579] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.579] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.579] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.579] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.579] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.580] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.580] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.580] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.580] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.580] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.581] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.581] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.581] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.581] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:05.581] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:12:49.226] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 13:12:49.227] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 13:12:50.273] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 13:13:09.137] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:13:09.138] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:13:09.138] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:13:09.139] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:13:09.139] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:13:09.139] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:13:09.139] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:13:09.140] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:13:09.140] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:13:09.140] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:13:09.140] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:13:09.141] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:13:09.141] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:13:09.141] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:13:09.142] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:13:09.142] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:13:09.142] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:13:09.142] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:13:09.143] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:13:27.795] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 13:14:01.572] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Dec2024 13:14:01.584] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Dec2024 13:15:47.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Survival Mode]
+[23Dec2024 13:16:05.880] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:16:13.293] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 13:16:14.489] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 13:16:15.240] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 13:16:16.948] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 13:16:18.191] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 13:16:19.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Creative Mode]
+[23Dec2024 13:16:28.039] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 13:16:33.439] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 13:16:35.139] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 13:17:29.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Survival Mode]
+[23Dec2024 13:17:43.942] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 13:17:54.489] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 13:18:05.763] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 13:18:05.992] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 13:18:06.164] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 13:18:15.289] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 13:18:15.488] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 13:18:15.690] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 13:18:19.038] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 13:18:25.389] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 13:18:36.640] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 13:18:40.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Creative Mode]
+[23Dec2024 13:18:50.692] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 13:19:01.569] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Dec2024 13:19:01.583] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Dec2024 13:19:05.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Florion: Triggered [tr] (set value to 13)]
+[23Dec2024 13:19:19.571] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 13:19:36.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Florion has made the advancement [Inner Arts]
+[23Dec2024 13:20:05.230] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:20:12.492] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 13:20:13.641] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 13:20:14.091] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 13:20:18.591] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 13:20:30.690] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 13:20:34.327] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 13:20:34.522] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 13:20:34.797] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 13:20:34.898] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 13:20:35.070] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 13:20:42.511] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 13:21:02.503] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 13:21:11.289] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 13:21:41.689] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 13:21:56.890] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 13:22:07.513] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 13:22:36.445] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 13:22:38.026] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 13:22:42.495] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 13:22:50.593] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 13:23:20.991] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 13:23:21.448] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 13:23:53.960] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 13:24:01.584] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Dec2024 13:24:01.596] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Dec2024 13:24:24.691] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 13:24:30.245] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 13:24:59.905] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:gamingdeco for mod file /workspaces/bayville/servidor_minecraft/mods/GamingDeco 1.8.3 Forge 1.20.1..jar
+[23Dec2024 13:24:59.905] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:geckolib for mod file /workspaces/bayville/servidor_minecraft/mods/geckolib-forge-1.20.1-4.4.9.jar
+[23Dec2024 13:24:59.905] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:customskinloader for mod file /workspaces/bayville/servidor_minecraft/mods/CustomSkinLoader_ForgeV2-14.21.2.jar
+[23Dec2024 13:24:59.905] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:locks for mod file /workspaces/bayville/servidor_minecraft/mods/Locks-Unoffical-forge-1.20.1-1.2.3HOTFIX.jar
+[23Dec2024 13:24:59.905] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:jeg for mod file /workspaces/bayville/servidor_minecraft/mods/JustEnoughGuns-0.8.0-1.20.1.jar
+[23Dec2024 13:24:59.906] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:casinocraft for mod file /workspaces/bayville/servidor_minecraft/mods/CasinoCraft_1.20.1_v25.jar
+[23Dec2024 13:24:59.906] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:musicplayer for mod file /workspaces/bayville/servidor_minecraft/mods/music_player-forge-1.20.1-2.7.0.292.jar
+[23Dec2024 13:24:59.906] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:furnitureexpanded for mod file /workspaces/bayville/servidor_minecraft/mods/furnitureexpanded-1.20.1-1.1.jar
+[23Dec2024 13:24:59.906] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:modernfix for mod file /workspaces/bayville/servidor_minecraft/mods/modernfix-forge-5.19.6+mc1.20.1.jar
+[23Dec2024 13:24:59.906] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:mr_tld for mod file /workspaces/bayville/servidor_minecraft/mods/tld-1.jar
+[23Dec2024 13:24:59.906] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:mixinextras for mod file 
+[23Dec2024 13:24:59.907] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:lucky77 for mod file /workspaces/bayville/servidor_minecraft/mods/Lucky77_1.20.1_v04.jar
+[23Dec2024 13:24:59.907] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:uteamcore for mod file /workspaces/bayville/servidor_minecraft/mods/u_team_core-forge-1.20.1-5.1.4.336.jar
+[23Dec2024 13:24:59.907] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:psychadelic for mod file /workspaces/bayville/servidor_minecraft/mods/Psychadelic-Chemistry_1.20.1-1.4.5.jar
+[23Dec2024 13:24:59.907] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:simpleplanes for mod file /workspaces/bayville/servidor_minecraft/mods/simpleplanes-1.20.1-5.3.3.jar
+[23Dec2024 13:24:59.907] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:magicaljewelry for mod file /workspaces/bayville/servidor_minecraft/mods/magicaljewelry-1.20.1_1.6.0.jar
+[23Dec2024 13:24:59.907] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:forge for mod file /workspaces/bayville/servidor_minecraft/libraries/net/minecraftforge/forge/1.20.1-47.3.7/forge-1.20.1-47.3.7-universal.jar
+[23Dec2024 13:24:59.907] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:mteg for mod file /workspaces/bayville/servidor_minecraft/mods/M'TEG-1.1.0-1.20.1.jar
+[23Dec2024 13:24:59.908] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:electronic_device_mod for mod file /workspaces/bayville/servidor_minecraft/mods/Electronic Device Mod.jar
+[23Dec2024 13:24:59.908] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:police_mod for mod file /workspaces/bayville/servidor_minecraft/mods/police_mod-1.0.1-forge-1.20.1.jar
+[23Dec2024 13:24:59.908] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:modernfurniture for mod file /workspaces/bayville/servidor_minecraft/mods/modernfurniture-e3-x128-forge-1.20.1.jar
+[23Dec2024 13:24:59.908] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:mainmod for mod file /workspaces/bayville/servidor_minecraft/mods/Police Uniform.jar
+[23Dec2024 13:24:59.908] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:boxing_madness for mod file /workspaces/bayville/servidor_minecraft/mods/boxing_madness_1.20.1.jar
+[23Dec2024 13:24:59.908] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:good_ol_currency_the_crias for mod file /workspaces/bayville/servidor_minecraft/mods/Good O'l Currency The Crias.jar
+[23Dec2024 13:24:59.908] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:cuffed for mod file /workspaces/bayville/servidor_minecraft/mods/Cuffed-1.20.1-1.3.3.jar
+[23Dec2024 13:24:59.908] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:voicechat for mod file /workspaces/bayville/servidor_minecraft/mods/voicechat-forge-1.20.1-2.5.27.jar
+[23Dec2024 13:24:59.909] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:thief_style for mod file /workspaces/bayville/servidor_minecraft/mods/TS.1.0rel.jar
+[23Dec2024 13:24:59.909] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:creativecore for mod file /workspaces/bayville/servidor_minecraft/mods/CreativeCore_FORGE_v2.12.25_mc1.20.1 (1).jar
+[23Dec2024 13:24:59.909] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:moderndeco for mod file /workspaces/bayville/servidor_minecraft/mods/moderndeco-3.0.2-forge-1.20.1.jar
+[23Dec2024 13:24:59.909] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:fcl for mod file /workspaces/bayville/servidor_minecraft/mods/fcl-20.15.jar
+[23Dec2024 13:24:59.909] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:botania for mod file /workspaces/bayville/servidor_minecraft/mods/Botania-1.20.1-446-FORGE.jar
+[23Dec2024 13:24:59.909] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:betterfpsdist for mod file /workspaces/bayville/servidor_minecraft/mods/betterfpsdist-1.20.1-6.0.jar
+[23Dec2024 13:24:59.909] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:saros__money_mod for mod file /workspaces/bayville/servidor_minecraft/mods/Saros-Money-Mod.1.20.1-3.2.jar
+[23Dec2024 13:24:59.910] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:curios for mod file /workspaces/bayville/servidor_minecraft/mods/curios-forge-5.11.0+1.20.1.jar
+[23Dec2024 13:24:59.910] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:patchouli for mod file /workspaces/bayville/servidor_minecraft/mods/Patchouli-1.20.1-84-FORGE.jar
+[23Dec2024 13:24:59.910] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:camera for mod file /workspaces/bayville/servidor_minecraft/mods/camera-forge-1.20.1-1.0.19.jar
+[23Dec2024 13:24:59.910] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:securitycraft for mod file /workspaces/bayville/servidor_minecraft/mods/[1.20.1] SecurityCraft v1.9.11.jar
+[23Dec2024 13:24:59.910] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:inv_view_forge for mod file /workspaces/bayville/servidor_minecraft/mods/inv_view_forge-1.7.0-1.20.1.jar
+[23Dec2024 13:24:59.910] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:entityculling for mod file /workspaces/bayville/servidor_minecraft/mods/entityculling-forge-1.7.1-mc1.20.1.jar
+[23Dec2024 13:24:59.911] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:customnpcs for mod file /workspaces/bayville/servidor_minecraft/mods/CustomNPCs-1.20.1-GBPort-Unofficial-20240709.jar
+[23Dec2024 13:24:59.911] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:worldedit for mod file /workspaces/bayville/servidor_minecraft/mods/worldedit-mod-7.2.15.jar
+[23Dec2024 13:24:59.911] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:speedracer for mod file /workspaces/bayville/servidor_minecraft/mods/speedracer-1.4.0-forge-1.20.1.jar
+[23Dec2024 13:24:59.911] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:architectury for mod file /workspaces/bayville/servidor_minecraft/mods/architectury-9.2.14-forge.jar
+[23Dec2024 13:24:59.911] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:walkietalkie for mod file /workspaces/bayville/servidor_minecraft/mods/walkietalkie-forge-1.20.1-1.3.0.jar
+[23Dec2024 13:24:59.911] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:theft for mod file /workspaces/bayville/servidor_minecraft/mods/theft-1.5.3.jar
+[23Dec2024 13:24:59.911] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:ferritecore for mod file /workspaces/bayville/servidor_minecraft/mods/ferritecore-6.0.1-forge.jar
+[23Dec2024 13:24:59.912] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:the_dirty_stuff for mod file /workspaces/bayville/servidor_minecraft/mods/the_dirty_stuff-2.1-forge-1.20.1.jar
+[23Dec2024 13:24:59.912] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:cupboard for mod file /workspaces/bayville/servidor_minecraft/mods/cupboard-1.20.1-2.7.jar
+[23Dec2024 13:24:59.912] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:trafficcraft for mod file /workspaces/bayville/servidor_minecraft/mods/trafficcraft-forge-1.20.1-1.1.0.jar
+[23Dec2024 13:24:59.912] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:dragonlib for mod file 
+[23Dec2024 13:24:59.912] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:traffic_plus for mod file /workspaces/bayville/servidor_minecraft/mods/Traffic_Plus_1.4.0_1.20.1.jar
+[23Dec2024 13:24:59.912] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:refurbished_furniture for mod file /workspaces/bayville/servidor_minecraft/mods/refurbished_furniture-forge-1.20.1-1.0.6.jar
+[23Dec2024 13:24:59.912] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:dynamic_fps for mod file /workspaces/bayville/servidor_minecraft/mods/dynamic-fps-3.7.7+minecraft-1.20.0-forge.jar
+[23Dec2024 13:24:59.913] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:saros_road_blocks_mod for mod file /workspaces/bayville/servidor_minecraft/mods/Saros-Road-Blocks-Mod-1.20.1-3.0.jar
+[23Dec2024 13:24:59.913] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:framework for mod file /workspaces/bayville/servidor_minecraft/mods/framework-forge-1.20.1-0.7.11.jar
+[23Dec2024 13:24:59.913] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:dragnvehicles for mod file /workspaces/bayville/servidor_minecraft/mods/DragN_Vehicles-1.20.1-1.3.jar
+[23Dec2024 13:24:59.913] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:lazrslib for mod file /workspaces/bayville/servidor_minecraft/mods/Lazr's Lib-1.20-1.1.1.jar
+[23Dec2024 13:24:59.913] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:fvtm for mod file /workspaces/bayville/servidor_minecraft/mods/fvtm-4.20.17.jar
+[23Dec2024 13:24:59.913] [Server thread/DEBUG] [net.minecraftforge.server.ServerLifecycleHooks/CORE]: Generating PackInfo named mod:playerrevive for mod file /workspaces/bayville/servidor_minecraft/mods/PlayerRevive_FORGE_v2.0.30_mc1.20.1.jar
+[23Dec2024 13:24:59.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Reloading!]
+[23Dec2024 13:25:00.173] [Worker-ResourceReload-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag simpleplanes:fireproof_materials as it is missing following references: #minecraft:non_flammable_wood (from simpleplanes-1.20.1-5.3.3.jar)
+[23Dec2024 13:25:00.174] [Worker-ResourceReload-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag bayville:likeair as it is missing following references: minecraft:short_grass (from file/Bayville)
+[23Dec2024 13:25:00.174] [Worker-ResourceReload-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag trafficcraft:plants as it is missing following references: #minecraft:replaceable_plants (from trafficcraft-forge-1.20.1-1.1.0.jar)
+[23Dec2024 13:25:00.825] [Server thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe mekanism:enriching/salt as it's serializer returned null
+[23Dec2024 13:25:00.832] [Server thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe industrialforegoing:laser_drill_ores/bitumen_ore as it's serializer returned null
+[23Dec2024 13:25:00.835] [Server thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe mekanism:enriching/deepslate_bitumen_ore as it's serializer returned null
+[23Dec2024 13:25:00.847] [Server thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe mekanism:enriching/rock_salt as it's serializer returned null
+[23Dec2024 13:25:00.861] [Server thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe mekanism:enriching/bitumen_ore as it's serializer returned null
+[23Dec2024 13:25:00.867] [Server thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe thermal:machines/centrifuge/bitumen_ore as it's serializer returned null
+[23Dec2024 13:25:00.870] [Server thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe thermal:machines/centrifuge/deepslate_bitumen_ore as it's serializer returned null
+[23Dec2024 13:25:00.875] [Server thread/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe cuffed:information_booklet: com.google.gson.JsonSyntaxException: Unknown item 'cuffed:information_booklet'
+[23Dec2024 13:25:00.884] [Server thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 32 recipes
+[23Dec2024 13:25:01.002] [Server thread/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 3739 advancements
+[23Dec2024 13:25:01.016] [Server thread/INFO] [top.theillusivec4.curios.Curios/]: Loaded 10 curio slots
+[23Dec2024 13:25:01.021] [Server thread/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
+[23Dec2024 13:25:15.846] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 13:25:45.293] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 13:26:00.781] [Worker-ResourceReload-0/DEBUG] [ModernFix/]: Worker-ResourceReload-0 shutdown
+[23Dec2024 13:26:02.044] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 13:26:07.413] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 13:26:30.037] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 13:26:42.592] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 13:26:43.493] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 13:26:43.641] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 13:26:44.016] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 13:26:57.643] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 13:27:00.781] [Worker-ResourceReload-2/DEBUG] [ModernFix/]: Worker-ResourceReload-2 shutdown
+[23Dec2024 13:27:04.138] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 13:27:05.816] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 13:27:14.691] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 13:27:25.898] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 13:27:26.232] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:27:26.531] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:27:26.531] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:28:00.781] [Worker-ResourceReload-1/DEBUG] [ModernFix/]: Worker-ResourceReload-1 shutdown
+[23Dec2024 13:28:18.141] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 13:28:21.790] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 13:28:29.994] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 13:28:35.540] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 13:28:45.339] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 13:28:47.605] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 13:28:52.991] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 13:28:55.340] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 13:29:01.582] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Dec2024 13:29:01.595] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Dec2024 13:29:22.538] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 13:29:29.889] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 13:29:40.243] [Server thread/INFO] [net.fexcraft.mod.fvtm.FVTM4/]: test logging entry
+[23Dec2024 13:29:50.459] [Server thread/INFO] [net.fexcraft.mod.fvtm.FVTM4/]: test logging entry
+[23Dec2024 13:30:13.836] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:30:13.836] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:30:13.837] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:30:13.837] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:30:13.837] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:30:13.838] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:30:13.838] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:30:13.838] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:30:13.838] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:30:13.839] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:30:13.839] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:30:13.839] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:30:13.839] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:30:13.840] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:30:13.840] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:30:13.840] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:30:13.840] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:30:13.841] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:30:13.841] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:30:13.852] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 13:30:18.995] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 13:30:22.656] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 13:30:25.093] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 13:30:27.448] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 13:30:31.444] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 13:30:33.195] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 13:30:37.200] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 13:30:45.547] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 13:30:47.445] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 13:30:48.123] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 13:31:04.173] [Server thread/INFO] [net.fexcraft.mod.fvtm.FVTM4/]: test logging entry
+[23Dec2024 13:31:08.589] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 13:31:27.037] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 13:31:42.732] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 13:31:53.554] [Server thread/INFO] [net.fexcraft.mod.fvtm.FVTM4/]: test logging entry
+[23Dec2024 13:32:00.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Florion: Triggered [tr] (set value to 89)]
+[23Dec2024 13:32:00.748] [Server thread/INFO] [net.fexcraft.mod.fvtm.FVTM4/]: test logging entry
+[23Dec2024 13:32:38.188] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 13:32:40.790] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 13:32:42.640] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 13:32:44.747] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 13:32:47.691] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 13:32:49.991] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 13:32:59.540] [Server thread/INFO] [net.fexcraft.mod.fvtm.FVTM4/]: test logging entry
+[23Dec2024 13:33:01.388] [Server thread/INFO] [cuffed/]: Florion is interacting!
+[23Dec2024 13:33:22.748] [Server thread/INFO] [net.fexcraft.mod.fvtm.FVTM4/]: test logging entry
+[23Dec2024 13:33:29.549] [Server thread/INFO] [net.fexcraft.mod.fvtm.FVTM4/]: test logging entry
+[23Dec2024 13:33:34.464] [Server thread/INFO] [net.fexcraft.mod.fvtm.FVTM4/]: test logging entry
+[23Dec2024 13:34:01.575] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Dec2024 13:34:01.588] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Dec2024 13:34:24.739] [Server thread/INFO] [net.fexcraft.mod.fvtm.FVTM4/]: test logging entry
+[23Dec2024 13:34:29.241] [Server thread/INFO] [cuffed/]: Florion is interacting!
