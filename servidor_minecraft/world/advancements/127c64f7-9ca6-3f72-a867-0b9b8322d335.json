@@ -1812,15 +1812,15 @@
     },
     "done": true
   },
-  "mca:recipes/misc/books": {
+  "walkietalkie:walkietalkie/root": {
     "criteria": {
-      "has_item": "2024-12-18 15:57:58 +0000"
+      "requirement": "2024-12-22 13:49:17 +0000"
     },
     "done": true
   },
-  "mca:recipes/misc/blueprint": {
+  "walkietalkie:walkietalkie/netherite_walkietalkie": {
     "criteria": {
-      "has_item": "2024-12-18 15:57:58 +0000"
+      "requirement": "2024-12-22 13:49:17 +0000"
     },
     "done": true
   },

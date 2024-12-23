@@ -59,6 +59,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "apple": "2024-12-23 10:33:06 +0000",
       "bread": "2024-10-30 15:04:46 +0000",
       "suspicious_stew": "2024-12-04 15:02:52 +0000"
     },
@@ -4637,24 +4638,6 @@
     },
     "done": true
   },
-  "mca:recipes/misc/books": {
-    "criteria": {
-      "has_item": "2024-12-15 12:14:05 +0000"
-    },
-    "done": true
-  },
-  "mca:recipes/misc/blueprint": {
-    "criteria": {
-      "has_item": "2024-12-15 12:14:05 +0000"
-    },
-    "done": true
-  },
-  "mca:recipes/misc/staff_of_life": {
-    "criteria": {
-      "has_item": "2024-12-15 12:58:29 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/lime_dye_from_smelting": {
     "criteria": {
       "has_sea_pickle": "2024-12-15 13:38:11 +0000"
@@ -4739,24 +4722,6 @@
     },
     "done": true
   },
-  "mca:monster": {
-    "criteria": {
-      "baby_drop_attempts": "2024-12-18 16:05:10 +0000"
-    },
-    "done": true
-  },
-  "mca:baby_dropped": {
-    "criteria": {
-      "baby_drop_attempts": "2024-12-18 16:05:13 +0000"
-    },
-    "done": false
-  },
-  "mca:adventure/scythe_kill": {
-    "criteria": {
-      "iron": "2024-12-18 16:08:46 +0000"
-    },
-    "done": true
-  },
   "walkietalkie:walkietalkie/root": {
     "criteria": {
       "requirement": "2024-12-21 12:14:54 +0000"
@@ -4817,12 +4782,6 @@
     },
     "done": true
   },
-  "mca:recipes/misc/bouquet": {
-    "criteria": {
-      "has_item": "2024-12-21 15:12:57 +0000"
-    },
-    "done": true
-  },
   "botania:main/root": {
     "criteria": {
       "flower": "2024-12-21 15:12:57 +0000"
@@ -4835,9 +4794,219 @@
     },
     "done": true
   },
-  "webdisplays:screen": {
+  "walkietalkie:walkietalkie/diamond_walkietalkie": {
     "criteria": {
-      "has_screen": "2024-12-21 15:22:12 +0000"
+      "requirement": "2024-12-21 20:02:59 +0000"
+    },
+    "done": true
+  },
+  "walkietalkie:walkietalkie/wooden_walkietalkie": {
+    "criteria": {
+      "requirement": "2024-12-21 20:05:48 +0000"
+    },
+    "done": true
+  },
+  "walkietalkie:walkietalkie/stone_walkietalkie": {
+    "criteria": {
+      "requirement": "2024-12-21 20:05:51 +0000"
+    },
+    "done": true
+  },
+  "walkietalkie:walkietalkie/iron_walkietalkie": {
+    "criteria": {
+      "requirement": "2024-12-21 20:05:54 +0000"
+    },
+    "done": true
+  },
+  "walkietalkie:walkietalkie/golden_walkietalkie": {
+    "criteria": {
+      "requirement": "2024-12-21 20:05:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2024-12-21 20:10:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2024-12-21 20:10:29 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/keypad_item": {
+    "criteria": {
+      "has_stone_button": "2024-12-21 20:11:08 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/redstone/red_string_interceptor": {
+    "criteria": {
+      "has_base_block": "2024-12-21 20:11:08 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_pink": {
+    "criteria": {
+      "has_item": "2024-12-21 20:30:26 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/pink_shiny_flower": {
+    "criteria": {
+      "has_item": "2024-12-21 20:30:26 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/orange_dye_from_glow_berries": {
+    "criteria": {
+      "has_glow_berries": "2024-12-21 20:31:26 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/frying/glow_berry_jam": {
+    "criteria": {
+      "has_ingredient": "2024-12-21 20:31:26 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/misc/petal_red": {
+    "criteria": {
+      "has_item": "2024-12-21 20:32:27 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/red_shiny_flower": {
+    "criteria": {
+      "has_item": "2024-12-21 20:32:27 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/blue_floating_flower": {
+    "criteria": {
+      "has_item": "2024-12-21 20:32:53 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/lime_floating_flower": {
+    "criteria": {
+      "has_item": "2024-12-21 20:32:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2024-12-21 20:34:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2024-12-21 20:34:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2024-12-21 20:34:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2024-12-21 20:34:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2024-12-21 20:34:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2024-12-21 20:34:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2024-12-21 20:34:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2024-12-21 20:34:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2024-12-21 20:34:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2024-12-21 20:34:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2024-12-21 20:34:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2024-12-21 20:34:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_ingot_from_netherite_block": {
+    "criteria": {
+      "has_netherite_block": "2024-12-21 20:34:35 +0000"
+    },
+    "done": true
+  },
+  "dragnvehicles:recipes/misc/sports_engine": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-21 20:40:51 +0000"
+    },
+    "done": true
+  },
+  "dragnvehicles:recipes/misc/truck": {
+    "criteria": {
+      "has_body": "2024-12-22 13:28:08 +0000"
+    },
+    "done": true
+  },
+  "botania:main/bauble_wear": {
+    "criteria": {
+      "code_triggered": "2024-12-22 14:10:07 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/combat/terrasteel_chestplate": {
+    "criteria": {
+      "has_prev_tier": "2024-12-23 10:06:33 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/combat/terrasteel_leggings": {
+    "criteria": {
+      "has_prev_tier": "2024-12-23 10:06:35 +0000"
+    },
+    "done": true
+  },
+  "trafficcraft:craft_street_lamp": {
+    "criteria": {
+      "requirement": "2024-12-23 11:26:08 +0000"
     },
     "done": true
   },

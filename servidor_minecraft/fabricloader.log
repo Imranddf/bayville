@@ -1,4 +1,0 @@
-[13:41:10] [WARN] [FabricLoader/Resolution]: Mod resolution failed
-[13:41:10] [INFO] [FabricLoader/Resolution]: Immediate reason: [HARD_DEP_NO_CANDIDATE psychedelicraft 1.6.1+1.20 {depends fabric-api-base @ [>=0.1.0]}, ROOT_FORCELOAD_SINGLE psychedelicraft 1.6.1+1.20]
-[13:41:10] [INFO] [FabricLoader/Resolution]: Reason: [HARD_DEP psychedelicraft 1.6.1+1.20 {depends fabric-api-base @ [>=0.1.0]}, HARD_DEP psychedelicraft 1.6.1+1.20 {depends fabric-lifecycle-events-v1 @ [>=0.1.0]}, HARD_DEP psychedelicraft 1.6.1+1.20 {depends fabric-resource-loader-v0 @ [>=0.1.0]}]
-[13:41:10] [INFO] [FabricLoader/Resolution]: Fix: add [add:fabric-api-base 0.1.0 ([[0.1.0,∞)]), add:fabric-lifecycle-events-v1 0.1.0 ([[0.1.0,∞)]), add:fabric-resource-loader-v0 0.1.0 ([[0.1.0,∞)])], remove [], replace []
