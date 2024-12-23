@@ -231,3 +231,31 @@
 [23Dec2024 11:33:54.675] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 2647
 [23Dec2024 11:33:55.129] [Server thread/WARN] [ModernFix/]: Dedicated server took 48.22 seconds to load
 [23Dec2024 11:33:57.900] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
+[23Dec2024 11:52:28.193] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Imranack[/127.189.193.26:38161] logged in with entity id 5934 at (49.46722137250421, 14.0, -352.62399613628173)
+[23Dec2024 11:52:28.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Imranack joined the game
+[23Dec2024 11:52:29.027] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Imranack (18)
+[23Dec2024 11:52:29.030] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Imranack
+[23Dec2024 11:52:31.868] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 45c9e1f1-d058-34e4-b7ab-09049f609783
+[23Dec2024 11:52:32.868] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 45c9e1f1-d058-34e4-b7ab-09049f609783
+[23Dec2024 11:52:32.873] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Imranack (45c9e1f1-d058-34e4-b7ab-09049f609783) successfully connected to voice chat
+[23Dec2024 11:53:43.555] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 11:57:04.271] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Null[/127.189.193.26:44067] logged in with entity id 6215 at (-35.5, 14.0, 163.5)
+[23Dec2024 11:57:04.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Null joined the game
+[23Dec2024 11:57:06.976] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Null (18)
+[23Dec2024 11:57:06.977] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Null
+[23Dec2024 11:58:04.415] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Null lost connection: Disconnected
+[23Dec2024 11:58:04.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Null left the game
+[23Dec2024 11:58:04.420] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Null
+[23Dec2024 11:58:04.490] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[23Dec2024 11:58:58.208] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 12:00:26.906] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 12:00:27.754] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 12:01:14.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Spectator Mode]
+[23Dec2024 12:01:29.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Creative Mode]
+[23Dec2024 12:01:29.670] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2040ms or 40 ticks behind
+[23Dec2024 12:01:44.381] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 12:01:44.500] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 12:02:27.006] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 12:02:28.255] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 12:02:28.709] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 12:03:15.457] [Server thread/INFO] [cuffed/]: Imranack is interacting!
