@@ -8,6 +8,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:lukewarm_ocean": "2024-10-30 17:49:50 +0000",
+      "minecraft:flower_forest": "2024-12-23 12:30:01 +0000",
       "minecraft:plains": "2024-10-30 15:00:01 +0000"
     },
     "done": false

@@ -350,3 +350,57 @@
 [23Dec2024 12:29:04.434] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/8836, l='ServerLevel[world]', x=103.50, y=17.00, z=-162.50] died, message: 'Farmer was killed'
 [23Dec2024 12:30:01.756] [Server thread/INFO] [cuffed/]: Imranack is interacting!
 [23Dec2024 12:32:48.258] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 12:36:04.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Survival Mode]
+[23Dec2024 12:36:11.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Creative Mode]
+[23Dec2024 12:37:30.714] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 12:37:36.463] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 12:37:48.361] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Imranack lost connection: Disconnected
+[23Dec2024 12:37:48.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Imranack left the game
+[23Dec2024 12:37:48.363] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Imranack
+[23Dec2024 12:38:17.966] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@69f3ca3c[id=<null>,name=Momo93bg,properties={},legacy=false] (/127.189.193.26:54923) lost connection: Disconnected
+[23Dec2024 12:39:02.071] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Imranack[/127.189.193.26:36583] logged in with entity id 9091 at (443.4897851954326, 44.0, -629.2778149987303)
+[23Dec2024 12:39:02.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Imranack joined the game
+[23Dec2024 12:39:02.305] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Imranack (18)
+[23Dec2024 12:39:02.306] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Imranack
+[23Dec2024 12:39:03.528] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 45c9e1f1-d058-34e4-b7ab-09049f609783
+[23Dec2024 12:39:04.529] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 45c9e1f1-d058-34e4-b7ab-09049f609783
+[23Dec2024 12:39:04.530] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Imranack (45c9e1f1-d058-34e4-b7ab-09049f609783) successfully connected to voice chat
+[23Dec2024 12:39:06.457] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 12:39:11.657] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 12:39:17.158] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 12:39:22.909] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 12:39:29.658] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 12:42:06.131] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 12:42:06.134] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 12:42:06.135] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 12:42:06.136] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 12:42:06.138] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 12:42:06.139] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 12:42:06.140] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 12:42:06.141] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 12:42:06.142] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 12:42:06.144] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 12:42:06.145] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 12:42:06.146] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 12:42:06.147] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 12:42:06.148] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 12:42:06.150] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 12:42:06.151] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 12:42:06.152] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 12:42:06.153] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 12:42:06.154] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[23Dec2024 12:42:17.759] [Netty Epoll Server IO #0/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [playerrevive:main] rejected their client side version number
+[23Dec2024 12:42:17.760] [Netty Epoll Server IO #0/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[23Dec2024 12:42:17.806] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4ecc58ff[id=<null>,name=Momo93bg,properties={},legacy=false] (/127.189.193.26:49979) lost connection: Connection closed - mismatched mod channel list
+[23Dec2024 12:42:51.273] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 12:42:53.607] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@48d9e863[id=<null>,name=Momo93bg,properties={},legacy=false] (/127.189.193.26:36775) lost connection: Timed out
+[23Dec2024 12:42:55.878] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 12:42:57.806] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 12:43:01.258] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 12:43:03.108] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 12:43:07.122] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 12:43:10.466] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 12:43:14.927] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 12:43:17.180] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 12:43:19.622] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 12:43:57.173] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@59686929[id=<null>,name=Momo93bg,properties={},legacy=false] (/127.189.193.26:39853) lost connection: Disconnected
