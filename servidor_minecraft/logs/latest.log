@@ -259,3 +259,41 @@
 [23Dec2024 12:02:28.255] [Server thread/INFO] [cuffed/]: Imranack is interacting!
 [23Dec2024 12:02:28.709] [Server thread/INFO] [cuffed/]: Imranack is interacting!
 [23Dec2024 12:03:15.457] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 12:03:40.105] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 12:03:54.855] [Server thread/INFO] [cuffed/]: Imranack is interacting!
+[23Dec2024 12:05:35.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Spectator Mode]
+[23Dec2024 12:05:47.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Creative Mode]
+[23Dec2024 12:06:52.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Spectator Mode]
+[23Dec2024 12:07:02.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Creative Mode]
+[23Dec2024 12:07:47.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Spectator Mode]
+[23Dec2024 12:08:06.874] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Null[/127.189.193.26:55213] logged in with entity id 7526 at (-35.5, 14.0, 163.5)
+[23Dec2024 12:08:06.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Null joined the game
+[23Dec2024 12:08:11.071] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Null (18)
+[23Dec2024 12:08:11.072] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Null
+[23Dec2024 12:08:44.067] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 85daf09e-5a63-350d-a576-6c42419be127
+[23Dec2024 12:08:45.459] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 85daf09e-5a63-350d-a576-6c42419be127
+[23Dec2024 12:08:45.460] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Null (85daf09e-5a63-350d-a576-6c42419be127) successfully connected to voice chat
+[23Dec2024 12:08:55.907] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 85daf09e-5a63-350d-a576-6c42419be127 timed out
+[23Dec2024 12:08:55.907] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Null
+[23Dec2024 12:08:55.908] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Null
+[23Dec2024 12:09:34.870] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 85daf09e-5a63-350d-a576-6c42419be127
+[23Dec2024 12:09:36.512] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 85daf09e-5a63-350d-a576-6c42419be127
+[23Dec2024 12:09:36.513] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Null (85daf09e-5a63-350d-a576-6c42419be127) successfully connected to voice chat
+[23Dec2024 12:11:58.356] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Null lost connection: Disconnected
+[23Dec2024 12:11:58.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Null left the game
+[23Dec2024 12:11:58.358] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Null
+[23Dec2024 12:12:27.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Creative Mode]
+[23Dec2024 12:12:51.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Adventure Mode]
+[23Dec2024 12:12:53.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Spectator Mode]
+[23Dec2024 12:13:17.409] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@68814657[id=<null>,name=Florion,properties={},legacy=false] (/127.25.211.50:59285) lost connection: Disconnected
+[23Dec2024 12:13:22.637] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Florion[/127.25.211.50:60443] logged in with entity id 7681 at (107.4625382147895, 17.0, 304.31153852584947)
+[23Dec2024 12:13:22.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Florion joined the game
+[23Dec2024 12:13:25.856] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Florion (18)
+[23Dec2024 12:13:25.857] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Florion
+[23Dec2024 12:13:30.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Creative Mode]
+[23Dec2024 12:13:33.091] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 127c64f7-9ca6-3f72-a867-0b9b8322d335
+[23Dec2024 12:13:34.101] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 127c64f7-9ca6-3f72-a867-0b9b8322d335
+[23Dec2024 12:13:34.102] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Florion (127c64f7-9ca6-3f72-a867-0b9b8322d335) successfully connected to voice chat
+[23Dec2024 12:13:38.056] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Imranack lost connection: Disconnected
+[23Dec2024 12:13:38.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Imranack left the game
+[23Dec2024 12:13:38.058] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Imranack
