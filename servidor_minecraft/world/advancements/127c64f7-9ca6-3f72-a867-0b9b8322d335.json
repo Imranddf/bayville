@@ -1833,5 +1833,17 @@
     },
     "done": true
   },
+  "botania:recipes/combat/terrasteel_chestplate": {
+    "criteria": {
+      "has_prev_tier": "2024-12-23 14:06:17 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/food/cheese": {
+    "criteria": {
+      "has_milk": "2024-12-23 13:54:27 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

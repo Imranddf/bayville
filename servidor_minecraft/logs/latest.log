@@ -1,416 +1,334 @@
-[23Dec2024 13:38:14.241] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]
-[23Dec2024 13:38:14.246] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 21.0.5 by Microsoft; OS Linux arch amd64 version 6.5.0-1025-azure
-[23Dec2024 13:38:15.598] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[23Dec2024 13:38:15.608] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.onLoad
-[23Dec2024 13:38:15.609] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFine ZIP file URL: union:/workspaces/bayville/servidor_minecraft/mods/OptiFine_1.20.1_HD_U_I6.jar%23163!/
-[23Dec2024 13:38:15.616] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFine ZIP file: /workspaces/bayville/servidor_minecraft/mods/OptiFine_1.20.1_HD_U_I6.jar
-[23Dec2024 13:38:15.618] [main/INFO] [optifine.OptiFineTransformer/]: Target.PRE_CLASS is available
-[23Dec2024 13:38:15.683] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/bayville/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[23Dec2024 13:38:15.693] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.initialize
-[23Dec2024 13:38:16.156] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/bayville/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[23Dec2024 13:38:16.182] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/bayville/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[23Dec2024 13:38:16.183] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/bayville/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[23Dec2024 13:38:16.185] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/bayville/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[23Dec2024 13:38:16.437] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select a dependency jar for JarJar which was passed in as source: architectury. Using Mod File: /workspaces/bayville/servidor_minecraft/mods/architectury-9.2.14-forge.jar
-[23Dec2024 13:38:16.437] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 5 dependencies adding them to mods collection
-[23Dec2024 13:38:17.101] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.transformers
-[23Dec2024 13:38:17.110] [main/INFO] [optifine.OptiFineTransformer/]: Targets: 412
-[23Dec2024 13:38:17.923] [main/INFO] [optifine.OptiFineTransformationService/]: additionalClassesLocator: [optifine., net.optifine.]
-[23Dec2024 13:38:19.004] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[23Dec2024 13:38:19.063] [main/INFO] [mixin/]: Compatibility level JAVA_8 specified by theft.mixins.json is lower than the default level supported by the current mixin service (JAVA_16).
-[23Dec2024 13:38:19.150] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [de.maxhenkel.camera.MixinConnector]
-[23Dec2024 13:38:19.151] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
-[23Dec2024 13:38:19.241] [main/INFO] [ModernFix/]: Loaded configuration file for ModernFix 5.19.6+mc1.20.1: 84 options available, 3 override(s) found
-[23Dec2024 13:38:19.241] [main/WARN] [ModernFix/]: Option 'mixin.perf.faster_texture_stitching' overriden (by mods [optifine]) to 'false'
-[23Dec2024 13:38:19.241] [main/WARN] [ModernFix/]: Option 'mixin.bugfix.entity_pose_stack' overriden (by mods [optifine]) to 'false'
-[23Dec2024 13:38:19.242] [main/WARN] [ModernFix/]: Option 'mixin.launch.class_search_cache' overriden (by mods [optifine]) to 'false'
-[23Dec2024 13:38:19.242] [main/FATAL] [ModernFix/]: OptiFine detected. Use of ModernFix with OptiFine is not supported due to its impact on launch time and breakage of Forge features.
-[23Dec2024 13:38:19.242] [main/INFO] [ModernFix/]: Applying Nashorn fix
-[23Dec2024 13:38:19.262] [main/INFO] [ModernFix/]: Applied Forge config corruption patch
-[23Dec2024 13:38:20.054] [main/WARN] [mixin/]: Error loading class: noobanidus/mods/lootr/block/entities/TileTicker (java.lang.ClassNotFoundException: noobanidus.mods.lootr.block.entities.TileTicker)
-[23Dec2024 13:38:21.203] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
-[23Dec2024 13:38:21.974] [main/INFO] [net.minecraft.server.Bootstrap/]: ModernFix reached bootstrap stage (11.19 s after launch)
-[23Dec2024 13:38:22.181] [main/WARN] [mixin/]: @Final field delegatesByName:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
-[23Dec2024 13:38:22.182] [main/WARN] [mixin/]: @Final field delegatesByValue:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
-[23Dec2024 13:38:24.873] [main/INFO] [net.minecraft.server.Bootstrap/]: Vanilla bootstrap took 2895 milliseconds
-[23Dec2024 13:38:25.355] [main/INFO] [mixin/]: Mixing MixinContainer from theft.mixins.json into net.minecraft.world.inventory.AbstractContainerMenu
-[23Dec2024 13:38:25.355] [main/WARN] [mixin/]: theft.mixins.json:MixinContainer: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_8 supports class version 52)
-[23Dec2024 13:38:27.223] [main/WARN] [mixin/]: @Inject(@At("INVOKE_ASSIGN")) Shift.BY=2 on refurbished_furniture.common.mixins.json:LevelChunkMixin::handler$zjc000$refurbishedFurniture$AfterRemoveBlockEntity exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
-[23Dec2024 13:38:29.198] [modloading-worker-0/INFO] [info.u_team.u_team_core.util.verify.JarSignVerifier/]: Mod uteamcore is signed with a valid certificate.
-[23Dec2024 13:38:29.356] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[23Dec2024 13:38:29.356] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[23Dec2024 13:38:29.498] [modloading-worker-0/INFO] [info.u_team.u_team_core.util.verify.JarSignVerifier/]: Mod musicplayer is signed with a valid certificate.
-[23Dec2024 13:38:29.588] [modloading-worker-0/INFO] [lazrslib/]: Built config 'cuffed' Successfully!
-[23Dec2024 13:38:29.691] [modloading-worker-0/INFO] [cuffed/]: Registered restraints
-[23Dec2024 13:38:30.266] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
-[23Dec2024 13:38:30.344] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id walkietalkie:updatewalkietalkie_c2s
-[23Dec2024 13:38:30.346] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id walkietalkie:updatespeaker_c2s
-[23Dec2024 13:38:30.347] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id walkietalkie:activatekeypressed_c2s
-[23Dec2024 13:38:30.383] [modloading-worker-0/INFO] [com.cupboard.Cupboard/]: Loaded config for: cupboard.json
-[23Dec2024 13:38:30.413] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id dragonlib:dragonlib_network/69a65f20acde32448da097b16eacfce9
-[23Dec2024 13:38:30.414] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id dragonlib:dragonlib_network/69d73e101ecb38b59cc59ce369f9f0e6
-[23Dec2024 13:38:30.415] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id dragonlib:dragonlib_network/fcf1d4bbbc3b340daddecfd8389e586f
-[23Dec2024 13:38:30.424] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id dragonlib:dragonlib_network/7ea7435aa82d37fbbe7321ccd48bb6b2
-[23Dec2024 13:38:30.449] [Lightning Dragon/INFO] [DragonLib/]:                              +++ 🐉 +++                             
-[23Dec2024 13:38:30.455] [Lightning Dragon/INFO] [DragonLib/]: ---------------------------------------------------------------------
-[23Dec2024 13:38:30.455] [Lightning Dragon/INFO] [DragonLib/]:             Loaded DragonLib v1.20.1-2.2.20 by MrJulsen!            
-[23Dec2024 13:38:30.455] [Lightning Dragon/INFO] [DragonLib/]:                        Minecraft Forge 1.20.1                       
-[23Dec2024 13:38:30.455] [Lightning Dragon/INFO] [DragonLib/]: 
-[23Dec2024 13:38:30.455] [Lightning Dragon/INFO] [DragonLib/]:                Discord: https://discord.gg/AeSbNgvc7f               
-[23Dec2024 13:38:30.456] [Lightning Dragon/INFO] [DragonLib/]:         GitHub: https://github.com/MisterJulsen/MC-DragonLib2        
-[23Dec2024 13:38:30.456] [Lightning Dragon/INFO] [DragonLib/]:   Bug Reports: https://github.com/MisterJulsen/MC-DragonLib2/issues  
-[23Dec2024 13:38:30.456] [Lightning Dragon/INFO] [DragonLib/]: ---------------------------------------------------------------------
-[23Dec2024 13:38:30.456] [Lightning Dragon/INFO] [DragonLib/]:                              +++ 🐉 +++                             
-[23Dec2024 13:38:30.668] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id trafficcraft:trafficcraft_network/d85a7a4aa463373fb22b101ad94d1c48
-[23Dec2024 13:38:30.669] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id trafficcraft:trafficcraft_network/fab5893522103d4ca740ddee7d2654ab
-[23Dec2024 13:38:30.670] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id trafficcraft:trafficcraft_network/5c7dfb84d7ec3546a52eefcac64283ff
-[23Dec2024 13:38:30.670] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id trafficcraft:trafficcraft_network/7d55831bb6333f39afde0cb9f42fd6e3
-[23Dec2024 13:38:30.671] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id trafficcraft:trafficcraft_network/625d942b4fa234efa52ca0502d8fa717
-[23Dec2024 13:38:30.672] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id trafficcraft:trafficcraft_network/f88c2b3de6143fbba12e7938ea3c3814
-[23Dec2024 13:38:30.681] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id trafficcraft:trafficcraft_network/a80c51764adf38078bc209f7d365ac61
-[23Dec2024 13:38:30.682] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id trafficcraft:trafficcraft_network/de5277a02f1837c6b214225b903f70e1
-[23Dec2024 13:38:30.719] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id trafficcraft:trafficcraft_network/1403d7711b173ddc9a0b888716b3c752
-[23Dec2024 13:38:30.721] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id trafficcraft:trafficcraft_network/fd0506c3285636cc8bce35efe210e1ee
-[23Dec2024 13:38:30.723] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id trafficcraft:trafficcraft_network/bec05bb5e9bb393d893587674345e633
-[23Dec2024 13:38:30.723] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id trafficcraft:trafficcraft_network/48042160625b3b769ef146ad08bcf527
-[23Dec2024 13:38:30.741] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id trafficcraft:trafficcraft_network/825ad09c9de336789474c2d743034086
-[23Dec2024 13:38:30.742] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id trafficcraft:trafficcraft_network/8b635e98445e3228b2c4e9a5863bdbdd
-[23Dec2024 13:38:30.742] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id trafficcraft:trafficcraft_network/ed7b2b9dfbad3721a7b5ffa3cf3d43d6
-[23Dec2024 13:38:30.742] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id trafficcraft:trafficcraft_network/3f998592f8ae3a08af9252b3d4e3c8bc
-[23Dec2024 13:38:30.743] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id trafficcraft:trafficcraft_network/f0ada4752e063296bdec3feb32caeef7
-[23Dec2024 13:38:30.743] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id trafficcraft:trafficcraft_network/5f4c6fde558139b49bc3ce1441c1562c
-[23Dec2024 13:38:30.743] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id trafficcraft:trafficcraft_network/fd14fb67cecd3db484da162f9655c23b
-[23Dec2024 13:38:34.336] [modloading-worker-0/INFO] [net.fexcraft.mod.fvtm.FVTM4/]: ERROR: Cannot invoke "net.fexcraft.mod.uni.item.ClothMaterial$Manager.get(String)" because "net.fexcraft.mod.uni.item.ClothMaterial.MANAGER[0]" is null / null @ config parsing of assets/gep/config/clothes/Cap.cloth
-[23Dec2024 13:38:34.337] [modloading-worker-0/INFO] [net.fexcraft.mod.fvtm.FVTM4/]: TRANSFORMER/fcl@20.15/net.fexcraft.mod.uni.item.ClothMaterial.get(ClothMaterial.java:21)
-[23Dec2024 13:38:34.337] [modloading-worker-0/INFO] [net.fexcraft.mod.fvtm.FVTM4/]: TRANSFORMER/fvtm@4.20.17/net.fexcraft.mod.fvtm.data.Cloth.parse(Cloth.java:44)
-[23Dec2024 13:38:34.337] [modloading-worker-0/INFO] [net.fexcraft.mod.fvtm.FVTM4/]: TRANSFORMER/fvtm@4.20.17/net.fexcraft.mod.fvtm.data.Cloth.parse(Cloth.java:20)
-[23Dec2024 13:38:34.337] [modloading-worker-0/INFO] [net.fexcraft.mod.fvtm.FVTM4/]: TRANSFORMER/fvtm@4.20.17/net.fexcraft.mod.fvtm.FvtmResources.searchInPacksFor(FvtmResources.java:251)
-[23Dec2024 13:38:34.337] [modloading-worker-0/INFO] [net.fexcraft.mod.fvtm.FVTM4/]: TRANSFORMER/fvtm@4.20.17/net.fexcraft.mod.fvtm.FvtmResources.searchContent(FvtmResources.java:201)
-[23Dec2024 13:38:34.337] [modloading-worker-0/INFO] [net.fexcraft.mod.fvtm.FVTM4/]: TRANSFORMER/fvtm@4.20.17/net.fexcraft.mod.fvtm.FVTM20.init1(FVTM20.java:100)
-[23Dec2024 13:38:34.337] [modloading-worker-0/INFO] [net.fexcraft.mod.fvtm.FVTM4/]: TRANSFORMER/fvtm@4.20.17/net.fexcraft.mod.fvtm.FVTM4.<init>(FVTM4.java:164)
-[23Dec2024 13:38:34.337] [modloading-worker-0/INFO] [net.fexcraft.mod.fvtm.FVTM4/]: java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62)
-[23Dec2024 13:38:34.337] [modloading-worker-0/INFO] [net.fexcraft.mod.fvtm.FVTM4/]: java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:502)
-[23Dec2024 13:38:34.338] [modloading-worker-0/INFO] [net.fexcraft.mod.fvtm.FVTM4/]: java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:486)
-[23Dec2024 13:38:34.338] [modloading-worker-0/INFO] [net.fexcraft.mod.fvtm.FVTM4/]: LAYER PLUGIN/javafmllanguage@1.20.1-47.3.7/net.minecraftforge.fml.javafmlmod.FMLModContainer.constructMod(FMLModContainer.java:70)
-[23Dec2024 13:38:34.338] [modloading-worker-0/INFO] [net.fexcraft.mod.fvtm.FVTM4/]: LAYER PLUGIN/fmlcore@1.20.1-47.3.7/net.minecraftforge.fml.ModContainer.lambda$buildTransitionHandler$4(ModContainer.java:124)
-[23Dec2024 13:38:34.338] [modloading-worker-0/INFO] [net.fexcraft.mod.fvtm.FVTM4/]: java.base/java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804)
-[23Dec2024 13:38:34.338] [modloading-worker-0/INFO] [net.fexcraft.mod.fvtm.FVTM4/]: java.base/java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796)
-[23Dec2024 13:38:34.338] [modloading-worker-0/INFO] [net.fexcraft.mod.fvtm.FVTM4/]: java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:387)
-[23Dec2024 13:38:34.338] [modloading-worker-0/INFO] [net.fexcraft.mod.fvtm.FVTM4/]: java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1312)
-[23Dec2024 13:38:34.338] [modloading-worker-0/INFO] [net.fexcraft.mod.fvtm.FVTM4/]: java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843)
-[23Dec2024 13:38:34.338] [modloading-worker-0/INFO] [net.fexcraft.mod.fvtm.FVTM4/]: java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808)
-[23Dec2024 13:38:34.338] [modloading-worker-0/INFO] [net.fexcraft.mod.fvtm.FVTM4/]: java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188)
-[23Dec2024 13:38:36.678] [main/INFO] [cuffed/]: Registering Capabilities for Cuffed
-[23Dec2024 13:38:37.090] [main/INFO] [cuffed/]: Registering sound for Cuffed
-[23Dec2024 13:38:38.985] [main/INFO] [ModernFix/]: Bypassed Mojang DFU
-[23Dec2024 13:38:38.985] [main/INFO] [ModernFix/]: Instantiating Mojang DFU
-[23Dec2024 13:38:39.852] [main/INFO] [cuffed/]: Cuffed has found a foreign restraint registry, registering with Restraint API
-[23Dec2024 13:38:39.951] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class com.lazrproductions.cuffed.entity.WeightedAnchorEntity
-[23Dec2024 13:38:40.270] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file /workspaces/bayville/servidor_minecraft/config/dragonlib-common.toml is not correct. Correcting
-[23Dec2024 13:38:40.271] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key dragonlib_common_config.caching.mode was corrected from NORMAL to its default, NORMAL. 
-[23Dec2024 13:38:40.456] [modloading-worker-0/INFO] [cuffed/]: Running commmon setup for Cuffed
-[23Dec2024 13:38:40.466] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Compatibility version 18
-[23Dec2024 13:38:40.552] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loading plugins
-[23Dec2024 13:38:40.565] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loaded 2 plugin(s)
-[23Dec2024 13:38:40.565] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initializing plugins
-[23Dec2024 13:38:40.598] [modloading-worker-0/INFO] [cuffed/]: initialized CUFFED MOD VOICE CHAT PLUGIN
-[23Dec2024 13:38:40.601] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initialized 2 plugin(s)
-[23Dec2024 13:38:40.603] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Registering events for 'cuffed'
-[23Dec2024 13:38:40.607] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Registering events for 'walkietalkie'
-[23Dec2024 13:38:40.692] [modloading-worker-0/INFO] [de.mrjulsen.trafficcraft.TrafficCraft/]: Welcome to the TRAFFICCRAFT mod by MRJULSEN.
-[23Dec2024 13:38:40.830] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [musicplayer] Starting version check at https://api.u-team.info/update/musicplayer.json
-[23Dec2024 13:38:41.177] [modloading-worker-0/INFO] [com.sk89q.worldedit.extension.platform.PlatformManager/]: Got request to register class com.sk89q.worldedit.forge.ForgePlatform with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@51a06a8]
-[23Dec2024 13:38:41.182] [modloading-worker-0/INFO] [com.sk89q.worldedit.forge.ForgeWorldEdit/]: WorldEdit for Forge (version 7.2.15+6463-5ca4dff) is loaded
-[23Dec2024 13:38:41.234] [Thread-0/INFO] [ModernFix/]: Please use /mfsrc to reload any changed mod config files
-[23Dec2024 13:38:41.270] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key jeg:aiming for minecraft:player
-[23Dec2024 13:38:41.271] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key jeg:reloading for minecraft:player
-[23Dec2024 13:38:41.271] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key jeg:shooting for minecraft:player
-[23Dec2024 13:38:41.271] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key jeg:burst_count for minecraft:player
-[23Dec2024 13:38:41.305] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key refurbished_furniture:lock_yaw for refurbished_furniture:seat
-[23Dec2024 13:38:41.481] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [musicplayer] Found status: AHEAD Current: 2.7.0.292 Target: null
-[23Dec2024 13:38:41.483] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_tld] Starting version check at https://api.modrinth.com/updates/YfbCGNcr/forge_updates.json
-[23Dec2024 13:38:41.505] [modloading-worker-0/INFO] [Magical Jewelry/]: enqueue method registered.
-[23Dec2024 13:38:41.705] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_tld] Found status: BETA_OUTDATED Current: 1 Target: 1+mod
-[23Dec2024 13:38:41.706] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [uteamcore] Starting version check at https://api.u-team.info/update/uteamcore.json
-[23Dec2024 13:38:41.729] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [uteamcore] Found status: AHEAD Current: 5.1.4.336 Target: null
-[23Dec2024 13:38:41.729] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[23Dec2024 13:38:41.902] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.3.12
-[23Dec2024 13:38:41.902] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Starting version check at https://update.maxhenkel.de/forge/voicechat
-[23Dec2024 13:38:42.071] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Found status: AHEAD Current: 1.20.1-2.5.27 Target: null
-[23Dec2024 13:38:42.072] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [camera] Starting version check at https://update.maxhenkel.de/forge/camera
-[23Dec2024 13:38:42.101] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [camera] Found status: AHEAD Current: 1.20.1-1.0.19 Target: null
-[23Dec2024 13:38:42.102] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
-[23Dec2024 13:38:42.354] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: OUTDATED Current: 1.9.11 Target: 1.9.12
-[23Dec2024 13:38:42.355] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [refurbished_furniture] Starting version check at https://mrcrayfish.com/api/mod_update/forge/refurbished_furniture
-[23Dec2024 13:38:42.426] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[23Dec2024 13:38:42.855] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [refurbished_furniture] Found status: BETA_OUTDATED Current: 1.0.6 Target: 1.0.8
-[23Dec2024 13:38:42.856] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dynamic_fps] Starting version check at https://api.lostluma.net/updates/dynamic-fps?platform=forge
-[23Dec2024 13:38:43.013] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dynamic_fps] Found status: UP_TO_DATE Current: 3.7.7 Target: null
-[23Dec2024 13:38:43.013] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
-[23Dec2024 13:38:43.014] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/bayville/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23227!/assets/.mcassetsroot' uses unexpected schema
-[23Dec2024 13:38:43.014] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/bayville/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23227!/data/.mcassetsroot' uses unexpected schema
-[23Dec2024 13:38:43.889] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Found status: BETA_OUTDATED Current: 0.7.11 Target: 0.7.12
-[23Dec2024 13:38:45.829] [main/INFO] [com.sk89q.worldedit.extension.platform.PlatformCommandManager/]: Registering commands with com.sk89q.worldedit.forge.ForgePlatform
-[23Dec2024 13:38:46.134] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag simpleplanes:fireproof_materials as it is missing following references: #minecraft:non_flammable_wood (from simpleplanes-1.20.1-5.3.3.jar)
-[23Dec2024 13:38:46.141] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag bayville:likeair as it is missing following references: minecraft:short_grass (from file/Bayville)
-[23Dec2024 13:38:46.142] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag trafficcraft:plants as it is missing following references: #minecraft:replaceable_plants (from trafficcraft-forge-1.20.1-1.1.0.jar)
-[23Dec2024 13:38:47.374] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe mekanism:enriching/salt as it's serializer returned null
-[23Dec2024 13:38:47.389] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe industrialforegoing:laser_drill_ores/bitumen_ore as it's serializer returned null
-[23Dec2024 13:38:47.393] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe mekanism:enriching/deepslate_bitumen_ore as it's serializer returned null
-[23Dec2024 13:38:47.412] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe mekanism:enriching/rock_salt as it's serializer returned null
-[23Dec2024 13:38:47.433] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe mekanism:enriching/bitumen_ore as it's serializer returned null
-[23Dec2024 13:38:47.445] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe thermal:machines/centrifuge/bitumen_ore as it's serializer returned null
-[23Dec2024 13:38:47.451] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe thermal:machines/centrifuge/deepslate_bitumen_ore as it's serializer returned null
-[23Dec2024 13:38:47.464] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe cuffed:information_booklet: com.google.gson.JsonSyntaxException: Unknown item 'cuffed:information_booklet'
-[23Dec2024 13:38:47.487] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 32 recipes
-[23Dec2024 13:38:47.686] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 3739 advancements
-[23Dec2024 13:38:47.712] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 10 curio slots
-[23Dec2024 13:38:47.728] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
-[23Dec2024 13:38:48.290] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[23Dec2024 13:38:48.291] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[23Dec2024 13:38:48.291] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[23Dec2024 13:38:48.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[23Dec2024 13:38:48.447] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[23Dec2024 13:38:48.770] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[23Dec2024 13:38:48.861] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[23Dec2024 13:38:48.862] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[23Dec2024 13:38:48.862] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[23Dec2024 13:38:48.862] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[23Dec2024 13:38:48.888] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file ./world/serverconfig/cuffed-server.toml is not correct. Correcting
-[23Dec2024 13:38:48.889] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cuffed Config.Anchoring Settings.Max Chain Length was corrected from 5.0 to its default, 5.0. 
-[23Dec2024 13:38:48.889] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cuffed Config.Anchoring Settings.Suffocation Length was corrected from 12.0 to its default, 12.0. 
-[23Dec2024 13:38:49.037] [Server thread/INFO] [Framework/]: Loading server configs...
-[23Dec2024 13:38:49.269] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[23Dec2024 13:38:49.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[23Dec2024 13:38:50.811] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[23Dec2024 13:38:51.746] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[23Dec2024 13:38:51.747] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[23Dec2024 13:38:51.747] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[23Dec2024 13:38:51.748] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[23Dec2024 13:38:51.761] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[23Dec2024 13:38:52.262] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[23Dec2024 13:38:53.239] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[23Dec2024 13:38:53.606] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 3845 ms
-[23Dec2024 13:38:53.607] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (4.729s)! For help, type "help"
-[23Dec2024 13:38:53.666] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: CustomNPC PermissionNode<Boolean>s available:
-[23Dec2024 13:38:53.667] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.edit.blocks
-[23Dec2024 13:38:53.667] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.edit.villager
-[23Dec2024 13:38:53.667] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.global.bank
-[23Dec2024 13:38:53.668] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.global.dialog
-[23Dec2024 13:38:53.668] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.global.faction
-[23Dec2024 13:38:53.668] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.global.linked
-[23Dec2024 13:38:53.669] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.global.naturalspawn
-[23Dec2024 13:38:53.669] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.global.playerdata
-[23Dec2024 13:38:53.670] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.global.quest
-[23Dec2024 13:38:53.670] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.global.recipe
-[23Dec2024 13:38:53.670] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.global.transport
-[23Dec2024 13:38:53.671] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.npc.advanced
-[23Dec2024 13:38:53.671] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.npc.ai
-[23Dec2024 13:38:53.671] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.npc.clone
-[23Dec2024 13:38:53.672] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.npc.create
-[23Dec2024 13:38:53.673] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.npc.delete
-[23Dec2024 13:38:53.673] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.npc.display
-[23Dec2024 13:38:53.673] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.npc.freeze
-[23Dec2024 13:38:53.674] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.npc.gui
-[23Dec2024 13:38:53.675] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.npc.inventory
-[23Dec2024 13:38:53.675] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.npc.reset
-[23Dec2024 13:38:53.675] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.npc.stats
-[23Dec2024 13:38:53.676] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.scenes
-[23Dec2024 13:38:53.676] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.soulstone.all
-[23Dec2024 13:38:53.677] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.spawner.create
-[23Dec2024 13:38:53.677] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.spawner.mob
-[23Dec2024 13:38:53.678] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.tool.mounter
-[23Dec2024 13:38:53.678] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.tool.nbtbook
-[23Dec2024 13:38:53.679] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.tool.pather
-[23Dec2024 13:38:53.679] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.tool.scripter
-[23Dec2024 13:38:53.680] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[23Dec2024 13:38:53.690] [Server thread/INFO] [DragonLib/]: Starting DragonLib Network Manager (Server) worker thread...
-[23Dec2024 13:38:53.692] [Server thread/INFO] [cuffed/]: Running server setup for Cuffed
-[23Dec2024 13:38:53.692] [DragonLib Network Manager (Server)/INFO] [DragonLib/]: DragonLib Network Manager (Server) worker thread has been started.
-[23Dec2024 13:38:54.678] [Netty Epoll Server IO #3/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[23Dec2024 13:38:55.414] [Netty Epoll Server IO #4/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[23Dec2024 13:38:57.467] [Server thread/INFO] [com.cupboard.Cupboard/]: Loaded config for: betterfpsdist.json
-[23Dec2024 13:38:57.474] [Server thread/WARN] [voicechat/]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
-[23Dec2024 13:38:57.488] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice host is 'certain-cult.gl.at.ply.gg:2647'
-[23Dec2024 13:38:57.489] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 2647
-[23Dec2024 13:38:57.524] [Server thread/INFO] [patchouli/]: Sending reload packet to clients
-[23Dec2024 13:38:57.560] [Server thread/WARN] [ModernFix/]: Dedicated server took 46.773 seconds to load
-[23Dec2024 13:39:04.674] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Imranack[/127.189.193.26:57101] logged in with entity id 587 at (-149.16936257517156, 12.20625, 324.241898850379)
-[23Dec2024 13:39:04.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Imranack joined the game
-[23Dec2024 13:39:05.215] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Imranack (18)
-[23Dec2024 13:39:05.218] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Imranack
-[23Dec2024 13:39:05.787] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Florion[/127.25.211.50:40065] logged in with entity id 588 at (-149.16936257517156, 12.20625, 324.241898850379)
-[23Dec2024 13:39:05.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Florion joined the game
-[23Dec2024 13:39:06.064] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Florion (18)
-[23Dec2024 13:39:06.066] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Florion
-[23Dec2024 13:39:06.460] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 45c9e1f1-d058-34e4-b7ab-09049f609783
-[23Dec2024 13:39:07.451] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 45c9e1f1-d058-34e4-b7ab-09049f609783
-[23Dec2024 13:39:07.454] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Imranack (45c9e1f1-d058-34e4-b7ab-09049f609783) successfully connected to voice chat
-[23Dec2024 13:39:07.694] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: RootVehicleF['entity.fvtm.vehicle'/603, l='ServerLevel[world]', x=-276.50, y=13.00, z=317.81]
-[23Dec2024 13:39:07.777] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 127c64f7-9ca6-3f72-a867-0b9b8322d335
-[23Dec2024 13:39:08.778] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 127c64f7-9ca6-3f72-a867-0b9b8322d335
-[23Dec2024 13:39:08.779] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Florion (127c64f7-9ca6-3f72-a867-0b9b8322d335) successfully connected to voice chat
-[23Dec2024 13:39:19.139] [Server thread/INFO] [cuffed/]: Imranack is interacting!
-[23Dec2024 13:39:20.226] [Server thread/INFO] [cuffed/]: Imranack is interacting!
-[23Dec2024 13:39:23.005] [Server thread/INFO] [cuffed/]: Imranack is interacting!
-[23Dec2024 13:39:23.281] [Server thread/INFO] [cuffed/]: Imranack is interacting!
-[23Dec2024 13:39:23.480] [Server thread/INFO] [cuffed/]: Imranack is interacting!
-[23Dec2024 13:39:23.689] [Server thread/INFO] [cuffed/]: Imranack is interacting!
-[23Dec2024 13:39:31.634] [Server thread/INFO] [net.fexcraft.mod.fvtm.FVTM4/]: test logging entry
-[23Dec2024 13:39:49.787] [Server thread/INFO] [cuffed/]: Florion is interacting!
-[23Dec2024 13:39:52.534] [Server thread/INFO] [net.fexcraft.mod.fvtm.FVTM4/]: test logging entry
-[23Dec2024 13:39:59.306] [Server thread/INFO] [cuffed/]: Florion is interacting!
-[23Dec2024 13:40:04.186] [Server thread/INFO] [cuffed/]: Florion is interacting!
-[23Dec2024 13:40:12.901] [Server thread/INFO] [net.fexcraft.mod.fvtm.FVTM4/]: test logging entry
-[23Dec2024 13:40:14.296] [Server thread/INFO] [cuffed/]: Florion is interacting!
-[23Dec2024 13:40:36.945] [Server thread/INFO] [cuffed/]: Florion is interacting!
-[23Dec2024 13:40:37.042] [Server thread/INFO] [cuffed/]: Florion is interacting!
-[23Dec2024 13:40:37.225] [Server thread/INFO] [cuffed/]: Florion is interacting!
-[23Dec2024 13:40:38.110] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 45c9e1f1-d058-34e4-b7ab-09049f609783 timed out
-[23Dec2024 13:40:38.111] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Imranack
-[23Dec2024 13:40:38.111] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Imranack
-[23Dec2024 13:40:40.545] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 45c9e1f1-d058-34e4-b7ab-09049f609783
-[23Dec2024 13:40:41.501] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 45c9e1f1-d058-34e4-b7ab-09049f609783
-[23Dec2024 13:40:41.501] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Imranack (45c9e1f1-d058-34e4-b7ab-09049f609783) successfully connected to voice chat
-[23Dec2024 13:40:52.209] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 45c9e1f1-d058-34e4-b7ab-09049f609783 timed out
-[23Dec2024 13:40:52.210] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Imranack
-[23Dec2024 13:40:52.210] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Imranack
-[23Dec2024 13:40:53.281] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 45c9e1f1-d058-34e4-b7ab-09049f609783
-[23Dec2024 13:40:54.282] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 45c9e1f1-d058-34e4-b7ab-09049f609783
-[23Dec2024 13:40:54.286] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Imranack (45c9e1f1-d058-34e4-b7ab-09049f609783) successfully connected to voice chat
-[23Dec2024 13:41:06.975] [Server thread/INFO] [cuffed/]: Imranack is interacting!
-[23Dec2024 13:41:06.976] [Server thread/INFO] [cuffed/]: Imranack is interacting!
-[23Dec2024 13:41:06.977] [Server thread/INFO] [cuffed/]: Imranack is interacting!
-[23Dec2024 13:41:35.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Teleported Florion to Imranack]
-[23Dec2024 13:41:38.125] [Server thread/INFO] [cuffed/]: Imranack is interacting!
-[23Dec2024 13:41:39.126] [Server thread/INFO] [cuffed/]: Florion is interacting!
-[23Dec2024 13:41:58.631] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Helicopter (vehicle of Imranack) moved too quickly! -13.466626910557153,-0.7952610723558706,18.777985642707193
-[23Dec2024 13:41:58.632] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Helicopter (vehicle of Imranack) moved too quickly! -12.958491051695233,-0.7735113112512266,18.06708630519728
-[23Dec2024 13:41:58.643] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Helicopter (vehicle of Imranack) moved too quickly! -12.44968137749467,-0.7523101485275703,17.355078653778662
-[23Dec2024 13:41:58.643] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Helicopter (vehicle of Imranack) moved too quickly! -11.940210325688724,-0.7316484095949676,16.641981533885115
-[23Dec2024 13:41:58.643] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Helicopter (vehicle of Imranack) moved too quickly! -11.430090111528102,-0.7115170481614541,15.927813501236756
-[23Dec2024 13:41:58.644] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Helicopter (vehicle of Imranack) moved too quickly! -10.919332733751418,-0.6919071415601223,15.212592826423759
-[23Dec2024 13:41:58.726] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Helicopter (vehicle of Imranack) moved too quickly! -11.429024273789366,-0.7125877405318732,15.925766010175323
-[23Dec2024 13:41:58.727] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Helicopter (vehicle of Imranack) moved too quickly! -10.917027712408242,-0.6939944862906628,15.208493732839742
-[23Dec2024 13:41:58.727] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Helicopter (vehicle of Imranack) moved too quickly! -10.40442871635338,-0.6758966815012286,14.490221933534372
-[23Dec2024 13:41:58.727] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Helicopter (vehicle of Imranack) moved too quickly! -9.891238455698755,-0.6582859093213926,13.77096776621471
-[23Dec2024 13:41:58.728] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Helicopter (vehicle of Imranack) moved too quickly! -9.382440248238453,-0.6370841038881423,13.058983257446641
-[23Dec2024 13:41:58.728] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Helicopter (vehicle of Imranack) moved too quickly! -8.872981179913893,-0.6164213510154468,12.345908175192932
-[23Dec2024 13:41:58.728] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Helicopter (vehicle of Imranack) moved too quickly! -8.362873386670543,-0.5962886349665268,11.631761155319111
-[23Dec2024 13:41:58.776] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Helicopter (vehicle of Imranack) moved too quickly! -8.364815994171948,-0.5948119160400154,11.634944163169223
-[23Dec2024 13:41:58.827] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Helicopter (vehicle of Imranack) moved too quickly! -8.366722184066873,-0.5933563216958646,11.638071156524006
-[23Dec2024 13:41:58.926] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Helicopter (vehicle of Imranack) moved too quickly! -8.881871560826568,-0.6095425062400608,12.360413483274897
-[23Dec2024 13:42:05.003] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Helicopter (vehicle of Imranack) moved too quickly! -30.676482507214786,0.22596254669115012,43.49077576900552
-[23Dec2024 13:42:05.628] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Helicopter (vehicle of Imranack) moved too quickly! -7.031149008526398,0.08521519264046162,9.989484153754162
-[23Dec2024 13:42:05.629] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Helicopter (vehicle of Imranack) moved too quickly! -6.490230686293103,0.07854560628366869,9.22076507512422
-[23Dec2024 13:42:05.639] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Helicopter (vehicle of Imranack) moved too quickly! -5.952258440279195,0.060067232985048236,8.456213289726136
-[23Dec2024 13:42:05.707] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Helicopter (vehicle of Imranack) moved too quickly! -5.955261151546495,0.04900735504450893,8.460454149305733
-[23Dec2024 13:42:12.981] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Helicopter (vehicle of Imranack) moved too quickly! -29.062899117243603,-2.698254269634404,41.308020693161254
-[23Dec2024 13:42:12.982] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Helicopter (vehicle of Imranack) moved too quickly! -28.91958689173785,-2.671118191074072,41.10423697211538
-[23Dec2024 13:42:12.983] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Helicopter (vehicle of Imranack) moved too quickly! -28.777483770938915,-2.6439756535047962,40.90217249744693
-[23Dec2024 13:42:12.983] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Helicopter (vehicle of Imranack) moved too quickly! -28.636582821672192,-2.6168264133120402,40.70181741917951
-[23Dec2024 13:42:12.983] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Helicopter (vehicle of Imranack) moved too quickly! -28.496876903254673,-2.5896704330792915,40.5031615906601
-[23Dec2024 13:42:12.983] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Helicopter (vehicle of Imranack) moved too quickly! -28.35835872878451,-2.5625078318693397,40.3061946560248
-[23Dec2024 13:42:12.984] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Helicopter (vehicle of Imranack) moved too quickly! -28.22102091388578,-2.5353388489451305,40.11090611975672
-[23Dec2024 13:42:12.984] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Helicopter (vehicle of Imranack) moved too quickly! -28.084856015407894,-2.5081638151617938,39.917285401911585
-[23Dec2024 13:42:12.993] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Helicopter (vehicle of Imranack) moved too quickly! -27.949856562092663,-2.4809831304407197,39.72532188188544
-[23Dec2024 13:42:12.993] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Helicopter (vehicle of Imranack) moved too quickly! -27.816015078815838,-2.453797246067367,39.53500493301457
-[23Dec2024 13:42:26.882] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Helicopter (vehicle of Imranack) moved too quickly! -0.9672422027827139,60.53712302192929,1.374806562193128
-[23Dec2024 13:42:26.883] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Helicopter (vehicle of Imranack) moved too quickly! -0.9672422027827139,60.515652412647285,1.3748065621931262
-[23Dec2024 13:42:26.883] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Helicopter (vehicle of Imranack) moved too quickly! -0.9672422027827139,60.496457883845196,1.3748065621931227
-[23Dec2024 13:42:26.884] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Helicopter (vehicle of Imranack) moved too quickly! -0.9672422027827139,60.47953623387126,1.3748065621931191
-[23Dec2024 13:42:26.884] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Helicopter (vehicle of Imranack) moved too quickly! -0.9672422027827281,60.46488436896968,1.3748065621931138
-[23Dec2024 13:42:26.885] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Helicopter (vehicle of Imranack) moved too quickly! -0.9672422027827423,60.45249930270445,1.3748065621931085
-[23Dec2024 13:42:26.885] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Helicopter (vehicle of Imranack) moved too quickly! -0.9672422027827565,60.44237815540416,1.3748065621931014
-[23Dec2024 13:42:26.885] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Helicopter (vehicle of Imranack) moved too quickly! -0.9672422027827707,60.43451815362738,1.3748065621930943
-[23Dec2024 13:42:26.887] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Helicopter (vehicle of Imranack) moved too quickly! -0.9672422027827849,60.42891662964867,1.3748065621930872
-[23Dec2024 13:42:26.925] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Helicopter (vehicle of Imranack) moved too quickly! -0.9672422027827992,60.42557102096464,1.3748065621930818
-[23Dec2024 13:42:40.479] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Helicopter (vehicle of Imranack) moved too quickly! -9.01014569221627,-4.416567123411461,15.698632724057786
-[23Dec2024 13:42:40.481] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Helicopter (vehicle of Imranack) moved too quickly! -8.715153714389658,-4.319546825278934,15.122144198184312
-[23Dec2024 13:42:40.481] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Helicopter (vehicle of Imranack) moved too quickly! -8.422067136652132,-4.233504702288478,14.545456092987585
-[23Dec2024 13:42:40.481] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Helicopter (vehicle of Imranack) moved too quickly! -8.131172440490019,-4.156381354758835,13.96924700417664
-[23Dec2024 13:42:40.482] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Helicopter (vehicle of Imranack) moved too quickly! -7.842718757451536,-4.086504793794731,13.394193673884974
-[23Dec2024 13:42:40.482] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Helicopter (vehicle of Imranack) moved too quickly! -7.556908423480721,-4.022529199564502,12.820925302542843
-[23Dec2024 13:42:40.483] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Helicopter (vehicle of Imranack) moved too quickly! -7.273895941271846,-3.9633761108759273,12.250000950975078
-[23Dec2024 13:42:40.483] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Helicopter (vehicle of Imranack) moved too quickly! -6.993791568407488,-3.9081827981919375,11.681901757745436
-[23Dec2024 13:42:40.484] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Helicopter (vehicle of Imranack) moved too quickly! -6.716667043296127,-3.8562590705130404,11.11703191267221
-[23Dec2024 13:42:40.484] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Helicopter (vehicle of Imranack) moved too quickly! -6.4425619443711355,-3.807052039377595,10.555724323602895
-[23Dec2024 13:42:44.776] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Helicopter (vehicle of Imranack) moved too quickly! -16.442018817650975,-2.4238238001851045,39.51177431196058
-[23Dec2024 13:42:44.777] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Helicopter (vehicle of Imranack) moved too quickly! -16.442018817650975,-2.4238238001851045,39.51177431196058
-[23Dec2024 13:42:44.777] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Helicopter (vehicle of Imranack) moved too quickly! -16.442018817650975,-2.4238238001851045,39.51177431196058
-[23Dec2024 13:42:44.778] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Helicopter (vehicle of Imranack) moved too quickly! -16.442018817650975,-2.4238238001851045,39.51177431196058
-[23Dec2024 13:42:44.778] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Helicopter (vehicle of Imranack) moved too quickly! -16.442018817650975,-2.4238238001851045,39.51177431196058
-[23Dec2024 13:42:44.778] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Helicopter (vehicle of Imranack) moved too quickly! -16.442018817650975,-2.4238238001851045,39.51177431196058
-[23Dec2024 13:42:44.779] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Helicopter (vehicle of Imranack) moved too quickly! -16.442018817650975,-2.4238238001851045,39.51177431196058
-[23Dec2024 13:42:44.779] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Helicopter (vehicle of Imranack) moved too quickly! -16.442018817650975,-2.4238238001851045,39.51177431196058
-[23Dec2024 13:42:44.779] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Helicopter (vehicle of Imranack) moved too quickly! -16.442018817650975,-2.4238238001851045,39.51177431196058
-[23Dec2024 13:42:44.779] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Helicopter (vehicle of Imranack) moved too quickly! -16.442018817650975,-2.4238238001851045,39.51177431196058
-[23Dec2024 13:42:44.787] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Helicopter (vehicle of Imranack) moved too quickly! -16.32450799329216,-2.415095738151649,39.13368397915957
-[23Dec2024 13:42:44.796] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Helicopter (vehicle of Imranack) moved too quickly! -16.20838173243,-2.406217777210543,38.75728893952011
-[23Dec2024 13:42:44.796] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Helicopter (vehicle of Imranack) moved too quickly! -16.093643595325545,-2.397060807236258,38.38282023292372
-[23Dec2024 13:42:44.802] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Helicopter (vehicle of Imranack) moved too quickly! -15.980284630574602,-2.387529110434599,38.01046375144798
-[23Dec2024 13:42:44.802] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Helicopter (vehicle of Imranack) moved too quickly! -15.868286813704998,-2.377553075702636,37.640368197553485
-[23Dec2024 13:42:44.832] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Helicopter (vehicle of Imranack) moved too quickly! -15.871163581249476,-2.3763462143428455,37.6455800037806
-[23Dec2024 13:42:44.833] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Helicopter (vehicle of Imranack) moved too quickly! -15.761810621918869,-2.3653497837281776,37.28033573114964
-[23Dec2024 13:42:44.833] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Helicopter (vehicle of Imranack) moved too quickly! -15.6537344639639,-2.3538056031356405,36.91763627039548
-[23Dec2024 13:42:44.833] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Helicopter (vehicle of Imranack) moved too quickly! -15.546902389907785,-2.3417023904786447,36.55753746368042
-[23Dec2024 13:42:44.834] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Helicopter (vehicle of Imranack) moved too quickly! -15.441281183870288,-2.3290363028486496,36.20008143661026
-[23Dec2024 13:43:00.627] [Server thread/INFO] [cuffed/]: Imranack is interacting!
-[23Dec2024 13:43:09.326] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Helicopter (vehicle of Imranack) moved too quickly! -7.688947248160275,-3.1952897941838074,14.873941134039953
-[23Dec2024 13:43:09.327] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Helicopter (vehicle of Imranack) moved too quickly! -7.576525383008857,-3.16650861071345,14.65651191669086
-[23Dec2024 13:43:09.327] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Helicopter (vehicle of Imranack) moved too quickly! -7.464846480334586,-3.1379411265763366,14.440520366545698
-[23Dec2024 13:43:09.327] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Helicopter (vehicle of Imranack) moved too quickly! -7.353947938061168,-3.1095469462388223,14.226038659317325
-[23Dec2024 13:43:09.327] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Helicopter (vehicle of Imranack) moved too quickly! -7.243858520507359,-3.0812940258835084,14.013122303208348
-[23Dec2024 13:43:09.328] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Helicopter (vehicle of Imranack) moved too quickly! -7.134600066810016,-3.0531569151906837,13.801813437335028
-[23Dec2024 13:43:09.328] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Helicopter (vehicle of Imranack) moved too quickly! -7.026188868963423,-3.0251153738286547,13.592143491980849
-[23Dec2024 13:43:09.328] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Helicopter (vehicle of Imranack) moved too quickly! -6.918636781599851,-2.9971532884026146,13.384135331144861
-[23Dec2024 13:43:09.329] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Helicopter (vehicle of Imranack) moved too quickly! -6.811952114425658,-2.969257816081864,13.177804975397265
-[23Dec2024 13:43:09.329] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Helicopter (vehicle of Imranack) moved too quickly! -6.706140349171889,-2.941418714170098,12.973162986008617
-[23Dec2024 13:43:09.377] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Helicopter (vehicle of Imranack) moved too quickly! -6.705530116156005,-2.941210833738907,12.971990245455089
-[23Dec2024 13:43:49.284] [Server thread/INFO] [cuffed/]: Imranack is interacting!
-[23Dec2024 13:45:30.178] [Server thread/INFO] [cuffed/]: Imranack is interacting!
-[23Dec2024 13:45:30.378] [Server thread/INFO] [cuffed/]: Imranack is interacting!
-[23Dec2024 13:45:30.582] [Server thread/INFO] [cuffed/]: Imranack is interacting!
-[23Dec2024 13:45:30.777] [Server thread/INFO] [cuffed/]: Imranack is interacting!
-[23Dec2024 13:45:50.331] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2c7b5a18[id=<null>,name=Momo93bg,properties={},legacy=false] (/127.189.193.26:40313) lost connection: Disconnected
-[23Dec2024 13:47:02.165] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
-[23Dec2024 13:47:02.166] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
-[23Dec2024 13:47:02.167] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
-[23Dec2024 13:47:02.168] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
-[23Dec2024 13:47:02.169] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
-[23Dec2024 13:47:02.169] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
-[23Dec2024 13:47:02.170] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
-[23Dec2024 13:47:02.171] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
-[23Dec2024 13:47:02.171] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
-[23Dec2024 13:47:02.172] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
-[23Dec2024 13:47:02.173] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
-[23Dec2024 13:47:02.173] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
-[23Dec2024 13:47:02.174] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
-[23Dec2024 13:47:02.175] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
-[23Dec2024 13:47:02.175] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
-[23Dec2024 13:47:02.176] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
-[23Dec2024 13:47:02.176] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
-[23Dec2024 13:47:02.177] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
-[23Dec2024 13:47:02.178] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
-[23Dec2024 13:47:02.824] [Server thread/INFO] [cuffed/]: Florion is interacting!
-[23Dec2024 13:48:42.928] [Server thread/INFO] [cuffed/]: Florion is interacting!
-[23Dec2024 13:48:45.112] [Server thread/INFO] [cuffed/]: Florion is interacting!
-[23Dec2024 13:48:57.450] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Null[/127.189.193.26:50867] logged in with entity id 1084 at (-36.35420498080773, 14.0, 164.6955081090342)
-[23Dec2024 13:48:57.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Null joined the game
-[23Dec2024 13:49:00.401] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Null (18)
-[23Dec2024 13:49:00.402] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Null
-[23Dec2024 13:49:17.167] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/1092, l='ServerLevel[world]', x=-24.50, y=3.00, z=163.50] died, message: 'Villager was killed'
-[23Dec2024 13:49:17.173] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/1095, l='ServerLevel[world]', x=5.50, y=4.00, z=166.50] died, message: 'Villager was killed'
-[23Dec2024 13:49:21.791] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 85daf09e-5a63-350d-a576-6c42419be127
-[23Dec2024 13:49:22.764] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 85daf09e-5a63-350d-a576-6c42419be127
-[23Dec2024 13:49:22.765] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Null (85daf09e-5a63-350d-a576-6c42419be127) successfully connected to voice chat
-[23Dec2024 13:49:52.716] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 85daf09e-5a63-350d-a576-6c42419be127 timed out
-[23Dec2024 13:49:52.717] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Null
-[23Dec2024 13:49:52.718] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Null
-[23Dec2024 13:49:53.232] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Null lost connection: Disconnected
-[23Dec2024 13:49:53.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Null left the game
-[23Dec2024 13:49:53.237] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Null
-[23Dec2024 13:49:56.515] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/1093, l='ServerLevel[world]', x=8.43, y=4.00, z=167.54] died, message: 'Villager was killed'
-[23Dec2024 13:49:56.516] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/1094, l='ServerLevel[world]', x=-18.21, y=3.00, z=162.02] died, message: 'Villager was killed'
-[23Dec2024 13:49:56.516] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/1096, l='ServerLevel[world]', x=-19.17, y=3.00, z=161.83] died, message: 'Villager was killed'
-[23Dec2024 13:56:57.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Imranack: Set own game mode to Survival Mode]
+[23Dec2024 14:59:34.473] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]
+[23Dec2024 14:59:34.477] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 21.0.5 by Microsoft; OS Linux arch amd64 version 6.5.0-1025-azure
+[23Dec2024 14:59:35.005] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[23Dec2024 14:59:35.015] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.onLoad
+[23Dec2024 14:59:35.016] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFine ZIP file URL: union:/workspaces/bayville/servidor_minecraft/mods/OptiFine_1.20.1_HD_U_I6.jar%23150!/
+[23Dec2024 14:59:35.023] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFine ZIP file: /workspaces/bayville/servidor_minecraft/mods/OptiFine_1.20.1_HD_U_I6.jar
+[23Dec2024 14:59:35.025] [main/INFO] [optifine.OptiFineTransformer/]: Target.PRE_CLASS is available
+[23Dec2024 14:59:35.079] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/bayville/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[23Dec2024 14:59:35.088] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.initialize
+[23Dec2024 14:59:35.442] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/bayville/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[23Dec2024 14:59:35.443] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/bayville/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[23Dec2024 14:59:35.444] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/bayville/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[23Dec2024 14:59:35.445] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/bayville/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[23Dec2024 14:59:35.651] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 6 dependencies adding them to mods collection
+[23Dec2024 14:59:36.241] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.transformers
+[23Dec2024 14:59:36.250] [main/INFO] [optifine.OptiFineTransformer/]: Targets: 412
+[23Dec2024 14:59:37.096] [main/INFO] [optifine.OptiFineTransformationService/]: additionalClassesLocator: [optifine., net.optifine.]
+[23Dec2024 14:59:37.927] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[23Dec2024 14:59:38.014] [main/INFO] [mixin/]: Compatibility level JAVA_8 specified by theft.mixins.json is lower than the default level supported by the current mixin service (JAVA_16).
+[23Dec2024 14:59:38.109] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [de.maxhenkel.camera.MixinConnector]
+[23Dec2024 14:59:38.111] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
+[23Dec2024 14:59:38.204] [main/INFO] [ModernFix/]: Loaded configuration file for ModernFix 5.19.6+mc1.20.1: 84 options available, 3 override(s) found
+[23Dec2024 14:59:38.205] [main/WARN] [ModernFix/]: Option 'mixin.perf.faster_texture_stitching' overriden (by mods [optifine]) to 'false'
+[23Dec2024 14:59:38.206] [main/WARN] [ModernFix/]: Option 'mixin.bugfix.entity_pose_stack' overriden (by mods [optifine]) to 'false'
+[23Dec2024 14:59:38.206] [main/WARN] [ModernFix/]: Option 'mixin.launch.class_search_cache' overriden (by mods [optifine]) to 'false'
+[23Dec2024 14:59:38.206] [main/FATAL] [ModernFix/]: OptiFine detected. Use of ModernFix with OptiFine is not supported due to its impact on launch time and breakage of Forge features.
+[23Dec2024 14:59:38.207] [main/INFO] [ModernFix/]: Applying Nashorn fix
+[23Dec2024 14:59:38.221] [main/INFO] [ModernFix/]: Applied Forge config corruption patch
+[23Dec2024 14:59:39.129] [main/WARN] [mixin/]: Error loading class: noobanidus/mods/lootr/block/entities/TileTicker (java.lang.ClassNotFoundException: noobanidus.mods.lootr.block.entities.TileTicker)
+[23Dec2024 14:59:39.884] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
+[23Dec2024 14:59:40.737] [main/INFO] [net.minecraft.server.Bootstrap/]: ModernFix reached bootstrap stage (8.701 s after launch)
+[23Dec2024 14:59:40.917] [main/WARN] [mixin/]: @Final field delegatesByName:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
+[23Dec2024 14:59:40.918] [main/WARN] [mixin/]: @Final field delegatesByValue:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
+[23Dec2024 14:59:42.589] [main/INFO] [net.minecraft.server.Bootstrap/]: Vanilla bootstrap took 1848 milliseconds
+[23Dec2024 14:59:42.915] [main/INFO] [mixin/]: Mixing MixinContainer from theft.mixins.json into net.minecraft.world.inventory.AbstractContainerMenu
+[23Dec2024 14:59:42.915] [main/WARN] [mixin/]: theft.mixins.json:MixinContainer: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_8 supports class version 52)
+[23Dec2024 14:59:44.049] [main/WARN] [mixin/]: @Inject(@At("INVOKE_ASSIGN")) Shift.BY=2 on refurbished_furniture.common.mixins.json:LevelChunkMixin::handler$zhi000$refurbishedFurniture$AfterRemoveBlockEntity exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[23Dec2024 14:59:45.795] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[23Dec2024 14:59:45.795] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[23Dec2024 14:59:45.956] [modloading-worker-0/INFO] [lazrslib/]: Built config 'cuffed' Successfully!
+[23Dec2024 14:59:46.096] [modloading-worker-0/INFO] [cuffed/]: Registered restraints
+[23Dec2024 14:59:46.415] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[23Dec2024 14:59:46.467] [modloading-worker-0/INFO] [com.cupboard.Cupboard/]: Loaded config for: cupboard.json
+[23Dec2024 14:59:46.541] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id dragonlib:dragonlib_network/69a65f20acde32448da097b16eacfce9
+[23Dec2024 14:59:46.542] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id dragonlib:dragonlib_network/69d73e101ecb38b59cc59ce369f9f0e6
+[23Dec2024 14:59:46.543] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id dragonlib:dragonlib_network/fcf1d4bbbc3b340daddecfd8389e586f
+[23Dec2024 14:59:46.545] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id dragonlib:dragonlib_network/7ea7435aa82d37fbbe7321ccd48bb6b2
+[23Dec2024 14:59:46.575] [Wyvern/INFO] [DragonLib/]:                              +++ 🐉 +++                             
+[23Dec2024 14:59:46.579] [Wyvern/INFO] [DragonLib/]: ---------------------------------------------------------------------
+[23Dec2024 14:59:46.579] [Wyvern/INFO] [DragonLib/]:             Loaded DragonLib v1.20.1-2.2.20 by MrJulsen!            
+[23Dec2024 14:59:46.580] [Wyvern/INFO] [DragonLib/]:                        Minecraft Forge 1.20.1                       
+[23Dec2024 14:59:46.581] [Wyvern/INFO] [DragonLib/]: 
+[23Dec2024 14:59:46.581] [Wyvern/INFO] [DragonLib/]:                Discord: https://discord.gg/AeSbNgvc7f               
+[23Dec2024 14:59:46.581] [Wyvern/INFO] [DragonLib/]:         GitHub: https://github.com/MisterJulsen/MC-DragonLib2        
+[23Dec2024 14:59:46.582] [Wyvern/INFO] [DragonLib/]:   Bug Reports: https://github.com/MisterJulsen/MC-DragonLib2/issues  
+[23Dec2024 14:59:46.582] [Wyvern/INFO] [DragonLib/]: ---------------------------------------------------------------------
+[23Dec2024 14:59:46.583] [Wyvern/INFO] [DragonLib/]:                              +++ 🐉 +++                             
+[23Dec2024 14:59:46.613] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id trafficcraft:trafficcraft_network/d85a7a4aa463373fb22b101ad94d1c48
+[23Dec2024 14:59:46.615] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id trafficcraft:trafficcraft_network/fab5893522103d4ca740ddee7d2654ab
+[23Dec2024 14:59:46.618] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id trafficcraft:trafficcraft_network/5c7dfb84d7ec3546a52eefcac64283ff
+[23Dec2024 14:59:46.619] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id trafficcraft:trafficcraft_network/7d55831bb6333f39afde0cb9f42fd6e3
+[23Dec2024 14:59:46.619] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id trafficcraft:trafficcraft_network/625d942b4fa234efa52ca0502d8fa717
+[23Dec2024 14:59:46.620] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id trafficcraft:trafficcraft_network/f88c2b3de6143fbba12e7938ea3c3814
+[23Dec2024 14:59:46.621] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id trafficcraft:trafficcraft_network/a80c51764adf38078bc209f7d365ac61
+[23Dec2024 14:59:46.624] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id trafficcraft:trafficcraft_network/de5277a02f1837c6b214225b903f70e1
+[23Dec2024 14:59:46.635] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id trafficcraft:trafficcraft_network/1403d7711b173ddc9a0b888716b3c752
+[23Dec2024 14:59:46.637] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id trafficcraft:trafficcraft_network/fd0506c3285636cc8bce35efe210e1ee
+[23Dec2024 14:59:46.638] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id trafficcraft:trafficcraft_network/bec05bb5e9bb393d893587674345e633
+[23Dec2024 14:59:46.638] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id trafficcraft:trafficcraft_network/48042160625b3b769ef146ad08bcf527
+[23Dec2024 14:59:46.642] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id trafficcraft:trafficcraft_network/825ad09c9de336789474c2d743034086
+[23Dec2024 14:59:46.642] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id trafficcraft:trafficcraft_network/8b635e98445e3228b2c4e9a5863bdbdd
+[23Dec2024 14:59:46.643] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id trafficcraft:trafficcraft_network/ed7b2b9dfbad3721a7b5ffa3cf3d43d6
+[23Dec2024 14:59:46.643] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id trafficcraft:trafficcraft_network/3f998592f8ae3a08af9252b3d4e3c8bc
+[23Dec2024 14:59:46.645] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id trafficcraft:trafficcraft_network/f0ada4752e063296bdec3feb32caeef7
+[23Dec2024 14:59:46.646] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id trafficcraft:trafficcraft_network/5f4c6fde558139b49bc3ce1441c1562c
+[23Dec2024 14:59:46.646] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id trafficcraft:trafficcraft_network/fd14fb67cecd3db484da162f9655c23b
+[23Dec2024 14:59:47.681] [main/INFO] [cuffed/]: Registering Capabilities for Cuffed
+[23Dec2024 14:59:48.118] [main/INFO] [cuffed/]: Registering sound for Cuffed
+[23Dec2024 14:59:49.507] [main/INFO] [ModernFix/]: Bypassed Mojang DFU
+[23Dec2024 14:59:49.508] [main/INFO] [ModernFix/]: Instantiating Mojang DFU
+[23Dec2024 14:59:50.169] [main/INFO] [cuffed/]: Cuffed has found a foreign restraint registry, registering with Restraint API
+[23Dec2024 14:59:50.242] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class com.lazrproductions.cuffed.entity.WeightedAnchorEntity
+[23Dec2024 14:59:50.483] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file /workspaces/bayville/servidor_minecraft/config/dragonlib-common.toml is not correct. Correcting
+[23Dec2024 14:59:50.484] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key dragonlib_common_config.caching.mode was corrected from NORMAL to its default, NORMAL. 
+[23Dec2024 14:59:50.667] [modloading-worker-0/INFO] [cuffed/]: Running commmon setup for Cuffed
+[23Dec2024 14:59:50.807] [modloading-worker-0/INFO] [de.mrjulsen.trafficcraft.TrafficCraft/]: Welcome to the TRAFFICCRAFT mod by MRJULSEN.
+[23Dec2024 14:59:50.960] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_tld] Starting version check at https://api.modrinth.com/updates/YfbCGNcr/forge_updates.json
+[23Dec2024 14:59:51.460] [modloading-worker-0/INFO] [com.sk89q.worldedit.extension.platform.PlatformManager/]: Got request to register class com.sk89q.worldedit.forge.ForgePlatform with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@32141633]
+[23Dec2024 14:59:51.465] [modloading-worker-0/INFO] [com.sk89q.worldedit.forge.ForgeWorldEdit/]: WorldEdit for Forge (version 7.2.15+6463-5ca4dff) is loaded
+[23Dec2024 14:59:51.510] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key jeg:aiming for minecraft:player
+[23Dec2024 14:59:51.510] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key jeg:reloading for minecraft:player
+[23Dec2024 14:59:51.510] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key jeg:shooting for minecraft:player
+[23Dec2024 14:59:51.510] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key jeg:burst_count for minecraft:player
+[23Dec2024 14:59:51.536] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_tld] Found status: BETA_OUTDATED Current: 1 Target: 1+mod
+[23Dec2024 14:59:51.537] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[23Dec2024 14:59:51.565] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key refurbished_furniture:lock_yaw for refurbished_furniture:seat
+[23Dec2024 14:59:51.707] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.3.12
+[23Dec2024 14:59:51.707] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [camera] Starting version check at https://update.maxhenkel.de/forge/camera
+[23Dec2024 14:59:51.782] [modloading-worker-0/INFO] [Magical Jewelry/]: enqueue method registered.
+[23Dec2024 14:59:51.846] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [camera] Found status: AHEAD Current: 1.20.1-1.0.19 Target: null
+[23Dec2024 14:59:51.847] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
+[23Dec2024 14:59:52.087] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: OUTDATED Current: 1.9.11 Target: 1.9.12
+[23Dec2024 14:59:52.087] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [refurbished_furniture] Starting version check at https://mrcrayfish.com/api/mod_update/forge/refurbished_furniture
+[23Dec2024 14:59:52.592] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [refurbished_furniture] Found status: BETA_OUTDATED Current: 1.0.6 Target: 1.0.8
+[23Dec2024 14:59:52.592] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dynamic_fps] Starting version check at https://api.lostluma.net/updates/dynamic-fps?platform=forge
+[23Dec2024 14:59:52.636] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[23Dec2024 14:59:52.715] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dynamic_fps] Found status: UP_TO_DATE Current: 3.7.7 Target: null
+[23Dec2024 14:59:52.715] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
+[23Dec2024 14:59:52.789] [main/WARN] [net.minecraftforge.common.ForgeHooks/WP]: The following mods have version differences that were not resolved:
+architectury (version 9.2.14 -> 9.1.12)
+musicplayer (version 2.7.0.292 -> MISSING)
+uteamcore (version 5.1.4.336 -> MISSING)
+voicechat (version 1.20.1-2.5.27 -> MISSING)
+walkietalkie (version 1.3.0 -> MISSING)
+Things may not work well.
+[23Dec2024 14:59:52.877] [main/ERROR] [net.minecraftforge.registries.GameData/REGISTRIES]: Unidentified mapping from registry minecraft:block
+	walkietalkie:speaker: 5057
+
+[23Dec2024 14:59:52.878] [main/ERROR] [net.minecraftforge.registries.GameData/REGISTRIES]: Unidentified mapping from registry minecraft:item
+	walkietalkie:diamond_walkietalkie: 5646
+	walkietalkie:golden_walkietalkie: 5645
+	walkietalkie:iron_walkietalkie: 5644
+	walkietalkie:netherite_walkietalkie: 5647
+	walkietalkie:speaker: 5648
+	walkietalkie:stone_walkietalkie: 5643
+	walkietalkie:wooden_walkietalkie: 5642
+
+[23Dec2024 14:59:52.878] [main/ERROR] [net.minecraftforge.registries.GameData/REGISTRIES]: Unidentified mapping from registry minecraft:sound_event
+	walkietalkie:walkietalkie_off: 1838
+	walkietalkie:walkietalkie_on: 1837
+
+[23Dec2024 14:59:52.879] [main/WARN] [net.minecraftforge.registries.GameData/REGISTRIES]: Forge Mod Loader detected missing registry entries.
+
+There are 10 missing entries in this save.
+If you continue the missing entries will get removed.
+A world backup will be automatically created in your saves directory.
+
+
+[23Dec2024 14:59:52.879] [main/WARN] [net.minecraftforge.registries.GameData/REGISTRIES]: Missing minecraft:sound_event:
+    walkietalkie:walkietalkie_off
+    walkietalkie:walkietalkie_on
+
+Missing minecraft:item:
+    walkietalkie:diamond_walkietalkie
+    walkietalkie:golden_walkietalkie
+    walkietalkie:iron_walkietalkie
+    walkietalkie:netherite_walkietalkie
+    walkietalkie:speaker
+    walkietalkie:stone_walkietalkie
+    walkietalkie:wooden_walkietalkie
+
+Missing minecraft:block:
+    walkietalkie:speaker
+
+
+[23Dec2024 14:59:52.880] [main/ERROR] [net.minecraftforge.registries.GameData/REGISTRIES]: There are unidentified mappings in this world - we are going to attempt to process anyway
+[23Dec2024 14:59:53.087] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/bayville/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23201!/assets/.mcassetsroot' uses unexpected schema
+[23Dec2024 14:59:53.087] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/bayville/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23201!/data/.mcassetsroot' uses unexpected schema
+[23Dec2024 14:59:53.188] [main/WARN] [net.minecraft.server.MinecraftServer/]: Missing data pack mod:musicplayer
+[23Dec2024 14:59:53.188] [main/WARN] [net.minecraft.server.MinecraftServer/]: Missing data pack mod:uteamcore
+[23Dec2024 14:59:53.188] [main/WARN] [net.minecraft.server.MinecraftServer/]: Missing data pack mod:voicechat
+[23Dec2024 14:59:53.188] [main/WARN] [net.minecraft.server.MinecraftServer/]: Missing data pack mod:walkietalkie
+[23Dec2024 14:59:53.574] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Found status: BETA_OUTDATED Current: 0.7.11 Target: 0.7.12
+[23Dec2024 14:59:55.019] [main/INFO] [com.sk89q.worldedit.extension.platform.PlatformCommandManager/]: Registering commands with com.sk89q.worldedit.forge.ForgePlatform
+[23Dec2024 14:59:55.268] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag simpleplanes:fireproof_materials as it is missing following references: #minecraft:non_flammable_wood (from simpleplanes-1.20.1-5.3.3.jar)
+[23Dec2024 14:59:55.269] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag bayville:likeair as it is missing following references: minecraft:short_grass (from file/Bayville)
+[23Dec2024 14:59:55.271] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag trafficcraft:plants as it is missing following references: #minecraft:replaceable_plants (from trafficcraft-forge-1.20.1-1.1.0.jar)
+[23Dec2024 14:59:56.134] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe mekanism:enriching/salt as it's serializer returned null
+[23Dec2024 14:59:56.144] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe industrialforegoing:laser_drill_ores/bitumen_ore as it's serializer returned null
+[23Dec2024 14:59:56.148] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe simpleplanes:plane_book as it's serializer returned null
+[23Dec2024 14:59:56.149] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe mekanism:enriching/deepslate_bitumen_ore as it's serializer returned null
+[23Dec2024 14:59:56.167] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe mekanism:enriching/rock_salt as it's serializer returned null
+[23Dec2024 14:59:56.183] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe mekanism:enriching/bitumen_ore as it's serializer returned null
+[23Dec2024 14:59:56.195] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe thermal:machines/centrifuge/bitumen_ore as it's serializer returned null
+[23Dec2024 14:59:56.200] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe thermal:machines/centrifuge/deepslate_bitumen_ore as it's serializer returned null
+[23Dec2024 14:59:56.207] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe cuffed:information_booklet: com.google.gson.JsonSyntaxException: Unknown item 'cuffed:information_booklet'
+[23Dec2024 14:59:56.218] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 22 recipes
+[23Dec2024 14:59:56.377] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2869 advancements
+[23Dec2024 14:59:56.391] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 10 curio slots
+[23Dec2024 14:59:56.396] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
+[23Dec2024 14:59:56.909] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[23Dec2024 14:59:56.910] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[23Dec2024 14:59:56.911] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[23Dec2024 14:59:56.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[23Dec2024 14:59:57.001] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[23Dec2024 14:59:57.053] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[23Dec2024 14:59:57.125] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[23Dec2024 14:59:57.125] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[23Dec2024 14:59:57.126] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[23Dec2024 14:59:57.126] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[23Dec2024 14:59:57.154] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file ./world/serverconfig/cuffed-server.toml is not correct. Correcting
+[23Dec2024 14:59:57.154] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cuffed Config.Anchoring Settings.Max Chain Length was corrected from 5.0 to its default, 5.0. 
+[23Dec2024 14:59:57.155] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cuffed Config.Anchoring Settings.Suffocation Length was corrected from 12.0 to its default, 12.0. 
+[23Dec2024 14:59:57.348] [Server thread/INFO] [Framework/]: Loading server configs...
+[23Dec2024 14:59:57.550] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[23Dec2024 14:59:57.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[23Dec2024 14:59:59.307] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[23Dec2024 14:59:59.309] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[23Dec2024 14:59:59.309] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[23Dec2024 14:59:59.424] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[23Dec2024 14:59:59.910] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[23Dec2024 15:00:00.412] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id walkietalkie:speaker
+[23Dec2024 15:00:00.654] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 2746 ms
+[23Dec2024 15:00:00.656] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (3.517s)! For help, type "help"
+[23Dec2024 15:00:00.706] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: CustomNPC PermissionNode<Boolean>s available:
+[23Dec2024 15:00:00.709] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.edit.blocks
+[23Dec2024 15:00:00.711] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.edit.villager
+[23Dec2024 15:00:00.711] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.global.bank
+[23Dec2024 15:00:00.712] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.global.dialog
+[23Dec2024 15:00:00.712] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.global.faction
+[23Dec2024 15:00:00.715] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.global.linked
+[23Dec2024 15:00:00.715] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.global.naturalspawn
+[23Dec2024 15:00:00.716] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.global.playerdata
+[23Dec2024 15:00:00.716] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.global.quest
+[23Dec2024 15:00:00.717] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.global.recipe
+[23Dec2024 15:00:00.720] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.global.transport
+[23Dec2024 15:00:00.721] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.npc.advanced
+[23Dec2024 15:00:00.722] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.npc.ai
+[23Dec2024 15:00:00.722] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.npc.clone
+[23Dec2024 15:00:00.723] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.npc.create
+[23Dec2024 15:00:00.724] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.npc.delete
+[23Dec2024 15:00:00.725] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.npc.display
+[23Dec2024 15:00:00.725] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.npc.freeze
+[23Dec2024 15:00:00.726] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.npc.gui
+[23Dec2024 15:00:00.736] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.npc.inventory
+[23Dec2024 15:00:00.736] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.npc.reset
+[23Dec2024 15:00:00.737] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.npc.stats
+[23Dec2024 15:00:00.737] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.scenes
+[23Dec2024 15:00:00.738] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.soulstone.all
+[23Dec2024 15:00:00.738] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.spawner.create
+[23Dec2024 15:00:00.739] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.spawner.mob
+[23Dec2024 15:00:00.739] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.tool.mounter
+[23Dec2024 15:00:00.740] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.tool.nbtbook
+[23Dec2024 15:00:00.740] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.tool.pather
+[23Dec2024 15:00:00.741] [Server thread/INFO] [noppes.npcs.CustomNpcs/]: customnpcs.tool.scripter
+[23Dec2024 15:00:00.742] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[23Dec2024 15:00:00.746] [Server thread/INFO] [DragonLib/]: Starting DragonLib Network Manager (Server) worker thread...
+[23Dec2024 15:00:00.752] [Server thread/INFO] [cuffed/]: Running server setup for Cuffed
+[23Dec2024 15:00:00.756] [DragonLib Network Manager (Server)/INFO] [DragonLib/]: DragonLib Network Manager (Server) worker thread has been started.
+[23Dec2024 15:00:03.738] [Server thread/INFO] [com.cupboard.Cupboard/]: Loaded config for: betterfpsdist.json
+[23Dec2024 15:00:03.756] [Server thread/WARN] [ModernFix/]: Dedicated server took 31.719 seconds to load
+[23Dec2024 15:02:09.825] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Momo93bg[/127.189.193.26:58619] logged in with entity id 569 at (-35.12842528155936, 14.0, 164.6747066295043)
+[23Dec2024 15:02:09.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Momo93bg joined the game
+[23Dec2024 15:02:32.518] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Momo93bg lost connection: Disconnected
+[23Dec2024 15:02:32.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Momo93bg left the game
+[23Dec2024 15:05:24.719] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/45c9e1f1-d058-34e4-b7ab-09049f609783.json: Don't know what botania:cosmetic_witch_pin is
+[23Dec2024 15:05:24.720] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/45c9e1f1-d058-34e4-b7ab-09049f609783.json: Don't know what botania:cosmetic_ancient_mask is
+[23Dec2024 15:05:24.721] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/45c9e1f1-d058-34e4-b7ab-09049f609783.json: Don't know what botania:cosmetic_groucho_glasses is
+[23Dec2024 15:05:24.721] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/45c9e1f1-d058-34e4-b7ab-09049f609783.json: Don't know what botania:cosmetic_eerie_mask is
+[23Dec2024 15:05:24.721] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/45c9e1f1-d058-34e4-b7ab-09049f609783.json: Don't know what botania:cosmetic_anaglyph_glasses is
+[23Dec2024 15:05:24.722] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/45c9e1f1-d058-34e4-b7ab-09049f609783.json: Don't know what botania:manasteel_chestplate is
+[23Dec2024 15:05:24.722] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/45c9e1f1-d058-34e4-b7ab-09049f609783.json: Don't know what walkietalkie:speaker is
+[23Dec2024 15:05:24.722] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/45c9e1f1-d058-34e4-b7ab-09049f609783.json: Don't know what walkietalkie:netherite_walkietalkie is
+[23Dec2024 15:05:24.722] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/45c9e1f1-d058-34e4-b7ab-09049f609783.json: Don't know what botania:white_mystical_flower is
+[23Dec2024 15:05:24.722] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/45c9e1f1-d058-34e4-b7ab-09049f609783.json: Don't know what botania:cosmetic_witch_pin is
+[23Dec2024 15:05:24.723] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/45c9e1f1-d058-34e4-b7ab-09049f609783.json: Don't know what walkietalkie:netherite_walkietalkie is
+[23Dec2024 15:05:24.724] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/45c9e1f1-d058-34e4-b7ab-09049f609783.json: Don't know what botania:white_mystical_flower is
+[23Dec2024 15:05:24.724] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/45c9e1f1-d058-34e4-b7ab-09049f609783.json: Don't know what botania:manasteel_leggings is
+[23Dec2024 15:05:24.724] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/45c9e1f1-d058-34e4-b7ab-09049f609783.json: Don't know what botania:green_double_flower is
+[23Dec2024 15:05:24.724] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/45c9e1f1-d058-34e4-b7ab-09049f609783.json: Don't know what botania:manasteel_chestplate is
+[23Dec2024 15:05:24.725] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/45c9e1f1-d058-34e4-b7ab-09049f609783.json: Don't know what walkietalkie:speaker is
+[23Dec2024 15:05:24.725] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/45c9e1f1-d058-34e4-b7ab-09049f609783.json: Don't know what botania:brown_double_flower is
+[23Dec2024 15:05:24.745] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'walkietalkie:walkietalkie/root' in progress file ./world/advancements/45c9e1f1-d058-34e4-b7ab-09049f609783.json - it doesn't exist anymore?
+[23Dec2024 15:05:24.746] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'walkietalkie:walkietalkie/netherite_walkietalkie' in progress file ./world/advancements/45c9e1f1-d058-34e4-b7ab-09049f609783.json - it doesn't exist anymore?
+[23Dec2024 15:05:24.746] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'botania:recipes/misc/petal_brown_double' in progress file ./world/advancements/45c9e1f1-d058-34e4-b7ab-09049f609783.json - it doesn't exist anymore?
+[23Dec2024 15:05:24.746] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'botania:main/flower_pickup' in progress file ./world/advancements/45c9e1f1-d058-34e4-b7ab-09049f609783.json - it doesn't exist anymore?
+[23Dec2024 15:05:24.747] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'botania:challenge/root' in progress file ./world/advancements/45c9e1f1-d058-34e4-b7ab-09049f609783.json - it doesn't exist anymore?
+[23Dec2024 15:05:24.747] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'botania:recipes/decorations/white_shiny_flower' in progress file ./world/advancements/45c9e1f1-d058-34e4-b7ab-09049f609783.json - it doesn't exist anymore?
+[23Dec2024 15:05:24.747] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'botania:recipes/tools/flower_bag' in progress file ./world/advancements/45c9e1f1-d058-34e4-b7ab-09049f609783.json - it doesn't exist anymore?
+[23Dec2024 15:05:24.748] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'botania:main/flower_pickup_lexicon' in progress file ./world/advancements/45c9e1f1-d058-34e4-b7ab-09049f609783.json - it doesn't exist anymore?
+[23Dec2024 15:05:24.748] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'botania:recipes/misc/petal_white' in progress file ./world/advancements/45c9e1f1-d058-34e4-b7ab-09049f609783.json - it doesn't exist anymore?
+[23Dec2024 15:05:24.748] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'botania:main/root' in progress file ./world/advancements/45c9e1f1-d058-34e4-b7ab-09049f609783.json - it doesn't exist anymore?
+[23Dec2024 15:05:24.748] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'botania:recipes/misc/petal_green_double' in progress file ./world/advancements/45c9e1f1-d058-34e4-b7ab-09049f609783.json - it doesn't exist anymore?
+[23Dec2024 15:05:24.748] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'walkietalkie:walkietalkie/diamond_walkietalkie' in progress file ./world/advancements/45c9e1f1-d058-34e4-b7ab-09049f609783.json - it doesn't exist anymore?
+[23Dec2024 15:05:24.748] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'walkietalkie:walkietalkie/wooden_walkietalkie' in progress file ./world/advancements/45c9e1f1-d058-34e4-b7ab-09049f609783.json - it doesn't exist anymore?
+[23Dec2024 15:05:24.749] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'walkietalkie:walkietalkie/stone_walkietalkie' in progress file ./world/advancements/45c9e1f1-d058-34e4-b7ab-09049f609783.json - it doesn't exist anymore?
+[23Dec2024 15:05:24.749] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'walkietalkie:walkietalkie/iron_walkietalkie' in progress file ./world/advancements/45c9e1f1-d058-34e4-b7ab-09049f609783.json - it doesn't exist anymore?
+[23Dec2024 15:05:24.749] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'walkietalkie:walkietalkie/golden_walkietalkie' in progress file ./world/advancements/45c9e1f1-d058-34e4-b7ab-09049f609783.json - it doesn't exist anymore?
+[23Dec2024 15:05:24.749] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'botania:recipes/redstone/red_string_interceptor' in progress file ./world/advancements/45c9e1f1-d058-34e4-b7ab-09049f609783.json - it doesn't exist anymore?
+[23Dec2024 15:05:24.749] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'botania:recipes/misc/petal_pink' in progress file ./world/advancements/45c9e1f1-d058-34e4-b7ab-09049f609783.json - it doesn't exist anymore?
+[23Dec2024 15:05:24.749] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'botania:recipes/decorations/pink_shiny_flower' in progress file ./world/advancements/45c9e1f1-d058-34e4-b7ab-09049f609783.json - it doesn't exist anymore?
+[23Dec2024 15:05:24.750] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'botania:recipes/misc/petal_red' in progress file ./world/advancements/45c9e1f1-d058-34e4-b7ab-09049f609783.json - it doesn't exist anymore?
+[23Dec2024 15:05:24.750] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'botania:recipes/decorations/red_shiny_flower' in progress file ./world/advancements/45c9e1f1-d058-34e4-b7ab-09049f609783.json - it doesn't exist anymore?
+[23Dec2024 15:05:24.750] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'botania:recipes/decorations/blue_floating_flower' in progress file ./world/advancements/45c9e1f1-d058-34e4-b7ab-09049f609783.json - it doesn't exist anymore?
+[23Dec2024 15:05:24.750] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'botania:recipes/decorations/lime_floating_flower' in progress file ./world/advancements/45c9e1f1-d058-34e4-b7ab-09049f609783.json - it doesn't exist anymore?
+[23Dec2024 15:05:24.750] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'botania:main/bauble_wear' in progress file ./world/advancements/45c9e1f1-d058-34e4-b7ab-09049f609783.json - it doesn't exist anymore?
+[23Dec2024 15:05:24.751] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'botania:recipes/combat/terrasteel_chestplate' in progress file ./world/advancements/45c9e1f1-d058-34e4-b7ab-09049f609783.json - it doesn't exist anymore?
+[23Dec2024 15:05:24.751] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'botania:recipes/combat/terrasteel_leggings' in progress file ./world/advancements/45c9e1f1-d058-34e4-b7ab-09049f609783.json - it doesn't exist anymore?
+[23Dec2024 15:05:24.751] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'botania:recipes/redstone/red_string_comparator' in progress file ./world/advancements/45c9e1f1-d058-34e4-b7ab-09049f609783.json - it doesn't exist anymore?
+[23Dec2024 15:05:24.751] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'botania:recipes/redstone/animated_torch' in progress file ./world/advancements/45c9e1f1-d058-34e4-b7ab-09049f609783.json - it doesn't exist anymore?
+[23Dec2024 15:05:24.751] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'walkietalkie:recipes/stone_walkietalkie' in progress file ./world/advancements/45c9e1f1-d058-34e4-b7ab-09049f609783.json - it doesn't exist anymore?
+[23Dec2024 15:05:24.751] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'walkietalkie:recipes/diamond_walkietalkie' in progress file ./world/advancements/45c9e1f1-d058-34e4-b7ab-09049f609783.json - it doesn't exist anymore?
+[23Dec2024 15:05:24.752] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'botania:recipes/misc/redstone_root' in progress file ./world/advancements/45c9e1f1-d058-34e4-b7ab-09049f609783.json - it doesn't exist anymore?
+[23Dec2024 15:05:24.752] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'walkietalkie:recipes/speaker' in progress file ./world/advancements/45c9e1f1-d058-34e4-b7ab-09049f609783.json - it doesn't exist anymore?
+[23Dec2024 15:05:24.752] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'walkietalkie:recipes/golden_walkietalkie' in progress file ./world/advancements/45c9e1f1-d058-34e4-b7ab-09049f609783.json - it doesn't exist anymore?
+[23Dec2024 15:05:24.752] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'walkietalkie:recipes/netherite_walkietalkie' in progress file ./world/advancements/45c9e1f1-d058-34e4-b7ab-09049f609783.json - it doesn't exist anymore?
+[23Dec2024 15:05:24.752] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'walkietalkie:recipes/iron_walkietalkie' in progress file ./world/advancements/45c9e1f1-d058-34e4-b7ab-09049f609783.json - it doesn't exist anymore?
+[23Dec2024 15:05:24.753] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'walkietalkie:recipes/wooden_walkietalkie' in progress file ./world/advancements/45c9e1f1-d058-34e4-b7ab-09049f609783.json - it doesn't exist anymore?
+[23Dec2024 15:05:24.761] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: botania:animated_torch removed now.
+[23Dec2024 15:05:24.761] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: botania:red_string_comparator removed now.
+[23Dec2024 15:05:24.761] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: walkietalkie:speaker removed now.
+[23Dec2024 15:05:24.762] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: botania:redstone_root removed now.
+[23Dec2024 15:05:24.762] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: walkietalkie:wooden_walkietalkie removed now.
+[23Dec2024 15:05:24.762] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: walkietalkie:netherite_walkietalkie removed now.
+[23Dec2024 15:05:24.762] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: walkietalkie:stone_walkietalkie removed now.
+[23Dec2024 15:05:24.762] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: walkietalkie:diamond_walkietalkie removed now.
+[23Dec2024 15:05:24.762] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: walkietalkie:golden_walkietalkie removed now.
+[23Dec2024 15:05:24.763] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: walkietalkie:iron_walkietalkie removed now.
+[23Dec2024 15:05:24.763] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: botania:animated_torch removed now.
+[23Dec2024 15:05:24.763] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: botania:red_string_comparator removed now.
+[23Dec2024 15:05:24.763] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: walkietalkie:speaker removed now.
+[23Dec2024 15:05:24.763] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: botania:redstone_root removed now.
+[23Dec2024 15:05:24.763] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: walkietalkie:wooden_walkietalkie removed now.
+[23Dec2024 15:05:24.764] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: walkietalkie:netherite_walkietalkie removed now.
+[23Dec2024 15:05:24.764] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: walkietalkie:stone_walkietalkie removed now.
+[23Dec2024 15:05:24.764] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: walkietalkie:diamond_walkietalkie removed now.
+[23Dec2024 15:05:24.764] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: walkietalkie:golden_walkietalkie removed now.
+[23Dec2024 15:05:24.764] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: walkietalkie:iron_walkietalkie removed now.
+[23Dec2024 15:05:24.765] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Imranack[/127.189.193.26:51721] logged in with entity id 578 at (123.91290879191725, 13.0, 108.00526111386822)
+[23Dec2024 15:05:24.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Imranack joined the game
+[23Dec2024 15:05:34.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Killed Imranack
+[23Dec2024 15:05:40.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Imranack was killed
+[23Dec2024 15:05:40.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Killed Imranack
+[23Dec2024 15:05:58.016] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Imranack lost connection: Disconnected
+[23Dec2024 15:05:58.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Imranack left the game
+[23Dec2024 15:08:47.128] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Null[/127.189.193.26:42845] logged in with entity id 686 at (-37.24939530718402, 14.0, 163.30934818139042)
+[23Dec2024 15:08:47.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Null joined the game
+[23Dec2024 15:08:57.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Killed Null
+[23Dec2024 15:08:59.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Null was killed
+[23Dec2024 15:08:59.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Killed Null
+[23Dec2024 15:09:15.021] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Null lost connection: Disconnected
+[23Dec2024 15:09:15.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Null left the game
+[23Dec2024 15:09:22.535] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/557, l='ServerLevel[world]', x=166.50, y=12.00, z=-190.50] died, message: 'Farmer was killed'
+[23Dec2024 15:09:22.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Killed 633 entities
